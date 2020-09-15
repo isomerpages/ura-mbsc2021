@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  Sample post for Press Release
-permalink: /News/Press-release/test
+permalink: /news/press-release/test
 ---
 Lorem ipsum sit amet
