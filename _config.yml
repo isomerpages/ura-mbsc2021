@@ -20,11 +20,11 @@ colors:
 
 
 collections:
-  About:
+  about:
     output: true
-  Share-this-moment:
+  share-this-moment:
     output: true
-  Shine-A-Light:
+  shine-a-light:
     output: true
 resources_name: News
 
