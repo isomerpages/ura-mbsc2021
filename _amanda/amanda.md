@@ -1,4 +1,4 @@
 ---
 title: amanda's page
-permalink:/amanda/amandas-page
+permalink: /amanda/amandas-page
 ---
