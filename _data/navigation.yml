@@ -8,14 +8,20 @@ logo: /images/isomer-logo.svg
 
 links:
   - title: About
-    collection: About
+    collection: about
   - title: Share This Moment
-    collection: Share-this-moment
+    collection: share-this-moment
   - title: Shine A Light
-    collection: Shine-A-Light
+    collection: shine-a-light
   - title: FAQ
     url: /faq/
   - title: News
     resource_room: true
   - title: Contact Us
     url: /contact-us/
+  - title: Amanda
+    collection: amanda
+  - title: Sofi
+    collection: sofi
+  - title: Hazel
+    collection: hazel
