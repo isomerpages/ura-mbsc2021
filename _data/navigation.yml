@@ -8,7 +8,7 @@ logo: /images/isomer-logo.svg
 
 links:
   - title: About
-    collection: About
+    collection: about
   - title: Share This Moment
     collection: share-this-moment
   - title: Shine A Light
