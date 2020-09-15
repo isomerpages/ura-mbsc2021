@@ -1,4 +1,4 @@
 ---
 title: Acknowledgements
-permalink: /About/Acknowledgements/
+permalink: /about/acknowledgements/
 ---
