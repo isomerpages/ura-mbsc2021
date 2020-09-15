@@ -1,4 +1,0 @@
----
-title: hazel
-permalink: hazel
----
