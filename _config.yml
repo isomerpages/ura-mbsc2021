@@ -26,14 +26,6 @@ collections:
     output: true
   shine-a-light:
     output: true
-  lisa:
-    output: true
-  amanda:
-    output: true
-  sofi:
-    output: true
-  hazel:
-    output: true
 
 resources_name: News
 
