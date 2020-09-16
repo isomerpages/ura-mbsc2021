@@ -19,9 +19,4 @@ links:
     resource_room: true
   - title: Contact Us
     url: /contact-us/
-  - title: Amanda
-    collection: amanda
-  - title: Sofi
-    collection: sofi
-  - title: Hazel
-    collection: hazel
+
