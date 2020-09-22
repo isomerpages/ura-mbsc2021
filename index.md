@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Marina Bay Singapore Countodown 2021
 description: Brief site description here
 image: /images/mbsc-logo.png
 permalink: /
