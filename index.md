@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Marina Bay Singapore Countodown 2021
+title: Marina Bay Singapore Countdown 2021
 description: Brief site description here
 image: /images/mbsc-logo.png
 permalink: /
