@@ -9,7 +9,7 @@ sections:
     - hero:
         title: 31 December 2020
         subtitle: Hero subtitle
-        background: /images/hero-banner.png
+        background: /images/sg.jpeg
         button: Contact Us
         url: /contact-us/
         key_highlights:
