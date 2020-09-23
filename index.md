@@ -4,11 +4,11 @@ title: Marina Bay Singapore Countdown 2021
 description: Brief site description here
 image: /images/mbsc-logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Experience Marina Bay Singapore Countdown 2021 in a different light this year!
 sections:
     - hero:
-        title: 31 December 2020
-        subtitle: Hero subtitle
+        title: 1st December - 31st December 2020
+        subtitle: An iconic month-long feature by the bay
         background: /images/sg.jpeg
         button: Contact Us
         url: /contact-us/
