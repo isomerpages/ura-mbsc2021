@@ -2,7 +2,10 @@
 title: Acknowledgements
 permalink: /about/acknowledgements/
 
-# Our Sponsors and Partners
-
-## Presented By
+    - infobar:
+        title: Infobar title
+        subtitle: Subtitle
+        description: About a sentence worth of description here
+        button: Button text
+        url: /faq/
 ---
