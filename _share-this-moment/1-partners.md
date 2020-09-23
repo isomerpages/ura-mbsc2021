@@ -5,15 +5,14 @@ permalink: /share-this-moment/partners/
 
 # Our Partners
 
-## Community Partner: National Volunteer and Philanthropy Centre (NVPC)
+### Community Partner: National Volunteer and Philanthropy Centre (NVPC)
 
-<Insert writeup>
+Insert writeup
 
-## Collaborating Schools: Nanyang Academy of Fine Arts (NAFA)
+### Collaborating Schools: Nanyang Academy of Fine Arts (NAFA)
 
-<insert writeup>
+insert writeup
 
+### Collaborating Schools: Nanyang Polytechnic (NYP)
 
-## Collaborating Schools: Nanyang Polytechnic (NYP)
-
-<insert writeup>
+insert writeup
