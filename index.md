@@ -10,17 +10,15 @@ sections:
         title: 1st December - 31st December 2020
         subtitle: An iconic month-long feature by the bay
         background: /images/sg.jpeg
-        button: Contact Us
-        url: /contact-us/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
+            - title: SHARE THE MOMENT
+              description: Video mapping projection shows
               url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
+            - title: SHINE A LIGHT 
+              description: Animated light display
               url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
+            - title: NEW YEAR’S EVE FIREWORKS
+              description: Beyond the Marina Bay
               url: /privacy/
     - infobar:
         title: Infobar title
