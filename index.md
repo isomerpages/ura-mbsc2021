@@ -9,7 +9,7 @@ sections:
     - hero:
         title: 1st December - 31st December 2020
         subtitle: An iconic month-long feature by the bay
-        background: /images/sg.jpeg
+        background: /images/mb.png
         key_highlights:
             - title: SHARE THE MOMENT
               description: Video mapping projection shows
