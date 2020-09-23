@@ -13,10 +13,10 @@ sections:
         key_highlights:
             - title: SHARE THE MOMENT
               description: Video mapping projection shows
-              url: https://google.com
+              url: /share-this-moment/projection-show-schedule/
             - title: SHINE A LIGHT 
               description: Animated light display
-              url: https://gmail.com
+              url: /shine-a-light/light-display-schedule/
             - title: NEW YEAR’S EVE FIREWORKS
               description: Beyond the Marina Bay
               url: /privacy/
