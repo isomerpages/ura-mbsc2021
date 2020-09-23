@@ -3,7 +3,8 @@ title: Projection Show Schedule
 permalink: /share-this-moment/projection-show-schedule/
 ---
 
-**The Fullerton Hotel Singapore** 
+### The Fullerton Hotel Singapore
+
 |-----------------------|  
 | 26 - 30 December 2019 |  
 8PM - 10.30PM    
