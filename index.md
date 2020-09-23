@@ -43,9 +43,13 @@ sections:
         title: Media
         subtitle: Learn more
         button: View More
-        
+       
+    - section-title: Sponsor1
+      section-subtitle: Sponsors
+      section-image-path: /images/Sponsor.png
+    
     - infobar:
-        title: Sponsors
+        title: Sponsor
         subtitle: Subtitle
         description: About a sentence worth of description here
         image: /images/Sponsor.png
