@@ -3,7 +3,7 @@ title: Marina Bay Singapore Countdown 2021
 permalink: /about/marina-bay-singapore-countdown-2021/
 ---
 
-Marina Bay Singapore Countdown
+# Marina Bay Singapore Countdown
 
 Since its inception in 2005, the Marina Bay Singapore Countdown (MBSC) has become the nation’s largest and most spectacular New Year’s Eve Celebration. 
 Proudly presented by the Urban Redevelopment Authority (URA), Singapore’s annual iconic New Year’s Eve celebration allows everyone to enjoy the unique cityscape and vibrant atmosphere as we usher in the New Year. 
