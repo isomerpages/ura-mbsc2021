@@ -6,6 +6,6 @@ breadcrumb: Acknowledgments
 
 Our Sponsors and Partners
 
-**Presented by**
+Presented by
 
 ![Image of URA Logo](images/Sponsor.png)
