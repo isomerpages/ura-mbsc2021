@@ -33,6 +33,7 @@ sections:
         button: View More
         
     - infobar:
+        image: /images/Sponsor.png
         title: Sponsors
         subtitle: Subtitle
         description: About a sentence worth of description here
