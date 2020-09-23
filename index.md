@@ -46,7 +46,7 @@ sections:
        
    - infopic:
         title: Sponsor
-        subtitle: Subtitle
+        subtitle:
         image: /images/Sponsor.png
         alt: Sponsor
 ---
