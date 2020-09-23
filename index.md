@@ -27,15 +27,13 @@ sections:
         button: Button text
         url: /faq/
         
-    - infobar:
-        title: 2nd Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-        
     - resources:
         title: Media
         subtitle: Learn more
         button: View More
+        
+    - infobar:
+        title: Sponsors
+        subtitle: Subtitle
+        description: About a sentence worth of description here
 ---
