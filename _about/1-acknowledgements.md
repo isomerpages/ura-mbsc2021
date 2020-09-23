@@ -4,8 +4,8 @@ permalink: /about/acknowledgements/
 breadcrumb: Acknowledgments 
 ---
 
-Our Sponsors and Partners
+# Our Sponsors and Partners
 
 Presented by
 
-![Image of URA Logo](images/Sponsor.png)
+![Image of URA Logo](https://star-island.sg/wp-content/uploads/2018/10/URA-logo.png)
