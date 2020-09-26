@@ -18,13 +18,13 @@ Presented by
     <td>
       <h3>Presented by</h3>
       <br>
-      <p><a href="https://www.ura.gov.sg/Corporate"><img src="https://star-island.sg/wp-content/uploads/2018/10/URA-logo.png" alt="Image of URA Logo" width="200" height="75"></a></p>
+      <p><a href="https://www.ura.gov.sg/Corporate"><img src="https://lionfish-studios.com/images/clients/ura_colour.png" alt="Image of URA Logo"></a></p>
     <br>
     </td>
     <td>
       <h3>Managed by</h3>
       <br>
-      <p><a href="http://www.aux.com.sg/"><img src="https://www.aux.com.sg/wp-content/uploads/2017/02/AUX_Logo-2.png" alt="Image of AUX Logo" width="320" height="120"></a></p>
+      <p><a href="http://www.aux.com.sg/"><img src="https://www.aux.com.sg/wp-content/uploads/2017/02/AUX_Logo-2.png" alt="Image of AUX Logo"></a></p>
       <br>
       <br>
 <tr>
