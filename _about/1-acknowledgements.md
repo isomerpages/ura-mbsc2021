@@ -16,9 +16,9 @@ Presented by
     
 <tr>
     <td>
-      <h2>Presented by</h2>
+      <h3>Presented by</h3>
       <br>
-      <p><a href="https://www.ura.gov.sg/Corporate"><img src="https://star-island.sg/wp-content/uploads/2018/10/URA-logo.png" alt="Image of URA Logo" width="320" height="120"></a></p>
+      <p><a href="https://www.ura.gov.sg/Corporate"><img src="https://star-island.sg/wp-content/uploads/2018/10/URA-logo.png" alt="Image of URA Logo" width="200" height="75"></a></p>
     <br>
     </td>
     <td>
