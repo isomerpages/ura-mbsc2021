@@ -30,6 +30,7 @@ sections:
         subtitle: 
         image: /images/map.jpeg
         description: Check out the vantage points of MBSC 2021 by the bay all at a glance!
+        alt: Location
         
    - infobar:
         title: Infobar title
