@@ -9,13 +9,13 @@ breadcrumb: Acknowledgments
     
 <tr>
     <td>
-      <h3>Presented by</h3>
+      <h4>Presented by</h4>
       <br>
       <p><a href="https://www.ura.gov.sg/Corporate"><img src="https://lionfish-studios.com/images/clients/ura_colour.png" alt="Image of URA Logo"></a></p>
     <br>
 <tr>
     <td>
-      <h3>Managed by</h3>
+      <h4>Managed by</h4>
       <br>
       <p><a href="http://www.aux.com.sg/"><img src="https://www.aux.com.sg/wp-content/uploads/2017/02/AUX_Logo-2.png" alt="Image of AUX Logo"></a></p>
       <br>
@@ -74,4 +74,3 @@ breadcrumb: Acknowledgments
       <p><a href="https://www.singaporeflyer.com/"><img src="https://www.orangeclove.com.sg/blog/wp-content/uploads/2017/03/Singapore-Flyer.png" alt="Image of sg flyer Logo"></a></p>
       <br>
       <br> 
-</tr>
