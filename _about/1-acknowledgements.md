@@ -22,16 +22,9 @@ breadcrumb: Acknowledgments
       <br>    
 <tr>
     <td>
-      <h4>Managed by</h4>
-      <br>
-      <p><a href="http://www.aux.com.sg/"><img src="https://www.aux.com.sg/wp-content/uploads/2017/02/AUX_Logo-2.png" alt="Image of AUX Logo"></a></p>
-      <br>
-      <br>
-<tr>
-    <td>
       <h3>Held in</h3>
       <br>
-      <p><a href="https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Marina-Bay"><img src="https://lh3.googleusercontent.com/proxy/ef76nhJH3aMPrrR81_bhwAesZSvwlaydPuEa1R9ndoUbK9lL0eE51085kaVtGAUuxp-BtwH4wof0nKKYp3KQ1c70BF06pIxJJer41l4xPnJSnMk" alt="Image of MBS Logo"></a></p>
+      <p><a href="https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Marina-Bay"><img src="https://www.parkz.com.au/images/gallery/parklogos/120222_marinabaylogo.png" alt="Image of MBS Logo"></a></p>
     <br>
     </td>
     <td>
