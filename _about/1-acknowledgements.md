@@ -38,6 +38,11 @@ breadcrumb: Acknowledgments
       <br>
       <p><a href="https://cityofgood.sg/"><img src="https://media.glassdoor.com/sqll/799048/national-volunteer-and-philanthropy-centre-squarelogo-1582694770862.png" alt="Image of nvpc Logo"></a></p>
       <br>
+    </td>
+      <h3>Prime Sponsors</h3>
+      <br>
+      <p><a href="https://www.marinabaysands.com/"><img src="https://cpas.org.sg/wp-content/uploads/2019/05/MBS-Logo-600x600jpg.jpg" alt="Image of MBS hotel Logo"></a></p>
+      <br>
 <tr>   
     <td>
       <h3>Principal Sponsors</h3>
@@ -50,18 +55,6 @@ breadcrumb: Acknowledgments
       <p><a href="https://www.fullertonhotels.com/"><img src="https://photos.prnasia.com/prnvar/20181016/2269124-1LOGO" alt="Image of fullerton Logo"></a></p>
       <br>
       <br> 
-<tr>
-    <td>
-      <h3>Prime Sponsors</h3>
-      <br>
-      <p><a href="https://www.marinabaysands.com/"><img src="https://cpas.org.sg/wp-content/uploads/2019/05/MBS-Logo-600x600jpg.jpg" alt="Image of MBS hotel Logo"></a></p>
-      <br>
-<tr>   
-    <td>
-      <h3>Major Supporter</h3>
-      <br>
-      <p><a href="https://oue.com.sg/"><img src="https://d33wubrfki0l68.cloudfront.net/f5e3dc8d94bbd9cad6420ed4a64ddc1ece69c90f/fe8d5/images/logos/oue.png" alt="Image of OUE Logo"></a></p>
-    <br>
 <tr>        
     <td>
       <h3>Partners</h3>
@@ -74,3 +67,9 @@ breadcrumb: Acknowledgments
       <p><a href="https://www.singaporeflyer.com/"><img src="https://www.orangeclove.com.sg/blog/wp-content/uploads/2017/03/Singapore-Flyer.png" alt="Image of sg flyer Logo"></a></p>
       <br>
       <br> 
+     <tr>   
+    <td>
+      <h3>Major Supporter</h3>
+      <br>
+      <p><a href="https://oue.com.sg/"><img src="https://d33wubrfki0l68.cloudfront.net/f5e3dc8d94bbd9cad6420ed4a64ddc1ece69c90f/fe8d5/images/logos/oue.png" alt="Image of OUE Logo"></a></p>
+    <br>
