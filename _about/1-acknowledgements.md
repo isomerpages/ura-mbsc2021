@@ -38,7 +38,8 @@ breadcrumb: Acknowledgments
       <br>
       <p><a href="https://cityofgood.sg/"><img src="https://media.glassdoor.com/sqll/799048/national-volunteer-and-philanthropy-centre-squarelogo-1582694770862.png" alt="Image of nvpc Logo"></a></p>
       <br>
-    </td>
+      </td>
+      <td>
       <h3>Prime Sponsors</h3>
       <br>
       <p><a href="https://www.marinabaysands.com/"><img src="https://cpas.org.sg/wp-content/uploads/2019/05/MBS-Logo-600x600jpg.jpg" alt="Image of MBS hotel Logo"></a></p>
