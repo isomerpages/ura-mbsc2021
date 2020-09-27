@@ -13,6 +13,13 @@ breadcrumb: Acknowledgments
       <br>
       <p><a href="https://www.ura.gov.sg/Corporate"><img src="https://lionfish-studios.com/images/clients/ura_colour.png" alt="Image of URA Logo"></a></p>
     <br>
+    </td>
+    <td>
+      <h4>Managed by</h4>
+      <br>
+      <p><a href="http://www.aux.com.sg/"><img src="https://www.aux.com.sg/wp-content/uploads/2017/02/AUX_Logo-2.png" alt="Image of AUX Logo"></a></p>
+      <br>
+      <br>    
 <tr>
     <td>
       <h4>Managed by</h4>
