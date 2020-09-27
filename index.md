@@ -30,21 +30,14 @@ sections:
         image: /images/map.png
         alt: Map
         
-   - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/        
+   - infopic:
+        title: Sponsor
+        subtitle:
+        image: /images/Sponsor.png
+        alt: Sponsor    
         
    - resources:
         title: Media
         subtitle: Learn more
         button: View More
-       
-   - infopic:
-        title: Sponsor
-        subtitle:
-        image: /images/Sponsor.png
-        alt: Sponsor
 ---
