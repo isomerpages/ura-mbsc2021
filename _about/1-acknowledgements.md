@@ -29,7 +29,7 @@ breadcrumb: Acknowledgments
     <br>
     </td>
     <td>
-      <h4 style="display:none;">O</h4>
+      <h4><!-- --></h4>
       <br>
       <p><a href="https://www.stb.gov.sg/content/stb/en.html"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/pmp.JPEG?raw=true" alt="Image of STB Logo"></a></p>
       <br>
@@ -50,12 +50,12 @@ breadcrumb: Acknowledgments
     <td>
       <h3>Principal Sponsors</h3>
       <br>
-      <p><a href="https://www.dbs.com/default.page?gclsrc=aw.ds&&scp=true&gclid=EAIaIQobChMIv5fMjOnA5QIVRyUrCh1DtAEAEAAYASAAEgI_VfD_BwE"><img src="https://d33wubrfki0l68.cloudfront.net/a464f805dffe460d4f34eb23650dd86c8217faae/5548b/images/logos/dbs.png" alt="Image of DBS Logo"></a></p>
+      <p><a href="https://www.dbs.com/default.page?gclsrc=aw.ds&&scp=true&gclid=EAIaIQobChMIv5fMjOnA5QIVRyUrCh1DtAEAEAAYASAAEgI_VfD_BwE"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/dbs.JPEG?raw=true" alt="Image of DBS Logo"></a></p>
     <br>
     </td>
     <td>
       <br>
-      <p><a href="https://www.fullertonhotels.com/"><img src="https://photos.prnasia.com/prnvar/20181016/2269124-1LOGO" alt="Image of fullerton Logo"></a></p>
+      <p><a href="https://www.fullertonhotels.com/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/ful.JPEG?raw=true" alt="Image of fullerton Logo"></a></p>
       <br>
       <br> 
 <tr>        
