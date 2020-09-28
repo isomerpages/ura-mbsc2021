@@ -36,19 +36,19 @@ breadcrumb: Acknowledgments
       <br>   
 <tr>
     <td>
-      <h3>Community Partner</h3>
+      <h4>Community Partner</h4>
       <br>
       <p><a href="https://cityofgood.sg/"><img src="https://media.glassdoor.com/sqll/799048/national-volunteer-and-philanthropy-centre-squarelogo-1582694770862.png" alt="Image of nvpc Logo"></a></p>
       <br>
       </td>
       <td>
-      <h3>Prime Sponsors</h3>
+      <h4>Prime Sponsors</h4>
       <br>
       <p><a href="https://www.marinabaysands.com/"><img src="https://cpas.org.sg/wp-content/uploads/2019/05/MBS-Logo-600x600jpg.jpg" alt="Image of MBS hotel Logo"></a></p>
       <br>
 <tr>   
     <td>
-      <h3>Principal Sponsors</h3>
+      <h4>Principal Sponsors</h4>
       <br>
       <p><a href="https://www.dbs.com/default.page?gclsrc=aw.ds&&scp=true&gclid=EAIaIQobChMIv5fMjOnA5QIVRyUrCh1DtAEAEAAYASAAEgI_VfD_BwE"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/dbs.JPEG?raw=true" alt="Image of DBS Logo"></a></p>
     <br>
@@ -60,7 +60,7 @@ breadcrumb: Acknowledgments
       <br> 
 <tr>        
     <td>
-      <h3>Partners</h3>
+      <h4>Partners</h4>
       <br>
       <p><a href="https://marinabayalliance.com/"><img src="https://d33wubrfki0l68.cloudfront.net/90c629e216a98d389b5f105d7d07ed839a707cdf/9987e/images/pbid_sponsor_logo.png" alt="Image of marina bay alliance Logo"></a></p>
       <br>
@@ -72,7 +72,7 @@ breadcrumb: Acknowledgments
       <br> 
      <tr>   
     <td>
-      <h3>Major Supporter</h3>
+      <h4>Major Supporter</h4>
       <br>
       <p><a href="https://oue.com.sg/"><img src="https://d33wubrfki0l68.cloudfront.net/f5e3dc8d94bbd9cad6420ed4a64ddc1ece69c90f/fe8d5/images/logos/oue.png" alt="Image of OUE Logo"></a></p>
     <br>
