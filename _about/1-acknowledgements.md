@@ -65,7 +65,7 @@ breadcrumb: Acknowledgments
     </td>
     <td>
       <br>
-      <p><a href="https://www.singaporeflyer.com/"><img src="https://www.orangeclove.com.sg/blog/wp-content/uploads/2017/03/Singapore-Flyer.png" alt="Image of sg flyer Logo"></a></p>
+      <p><a href="https://www.singaporeflyer.com/"><img src="https://d33wubrfki0l68.cloudfront.net/0b336dab17b679529351cbfa349890e241828af2/8ee18/images/updated_sgflyersponsor_logo.png" alt="Image of sg flyer Logo"></a></p>
       <br>
       <br> 
      <tr>   
