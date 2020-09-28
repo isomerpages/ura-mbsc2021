@@ -11,13 +11,13 @@ breadcrumb: Acknowledgments
     <td>
       <h4>Presented by</h4>
       <br>
-      <p><a href="https://www.ura.gov.sg/Corporate"><img src="https://www.ura.gov.sg//-/media/Corporate/General/Header/URALogo.png" alt="Image of URA Logo"></a></p>
+      <p><a href="https://ndp2020-staging.netlify.app/images/1.%20Principal%20Partners%20(Trimmed)/allswell.png" alt="Image of URA Logo"></a></p>
     <br>
     </td>
     <td>
       <h4>Managed by</h4>
       <br>
-      <p><a href="http://www.aux.com.sg/"><img src="https://www.aux.com.sg/wp-content/uploads/2017/02/AUX_Logo-2.png" alt="Image of AUX Logo"></a></p>
+      <p><a href="http://www.aux.com.sg/"><img src="https://ndp2020-staging.netlify.app/images/1.%20Principal%20Partners%20(Trimmed)/toteboard.png" alt="Image of AUX Logo"></a></p>
       <br>
       <br>    
 <tr>
