@@ -44,7 +44,7 @@ breadcrumb: Acknowledgments
       <td>
       <h4>Prime Sponsors</h4>
       <br>
-      <p><a href="https://www.marinabaysands.com/"><img src="https://cpas.org.sg/wp-content/uploads/2019/05/MBS-Logo-600x600jpg.jpg" alt="Image of MBS hotel Logo"></a></p>
+      <p><a href="https://www.marinabaysands.com/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/mbsh.JPEG?raw=true" alt="Image of MBS hotel Logo"></a></p>
       <br>
 <tr>   
     <td>
