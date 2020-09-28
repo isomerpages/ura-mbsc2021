@@ -11,7 +11,7 @@ breadcrumb: Acknowledgments
     <td>
       <h4>Presented by</h4>
       <br>
-      <p><a href="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/ura.JPEG?raw=true" alt="Image of URA Logo"></a></p>
+      <p><a href="https://www.ura.gov.sg/Corporate"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/ura.JPEG?raw=true" alt="Image of URA Logo"></a></p>
       <br>
       <br> 
     </td>
