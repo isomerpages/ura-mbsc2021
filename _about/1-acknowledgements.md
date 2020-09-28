@@ -11,7 +11,7 @@ breadcrumb: Acknowledgments
     <td>
       <h4>Presented by</h4>
       <br>
-      <p><a href="https://www.ura.gov.sg/Corporate"><img src="https://lionfish-studios.com/images/clients/ura_colour.png" alt="Image of URA Logo"></a></p>
+      <p><a href="https://www.ura.gov.sg/Corporate"><img src="https://www.ura.gov.sg//-/media/Corporate/General/Header/URALogo.png" alt="Image of URA Logo"></a></p>
     <br>
     </td>
     <td>
