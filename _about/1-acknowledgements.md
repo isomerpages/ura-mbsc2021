@@ -9,16 +9,16 @@ breadcrumb: Acknowledgments
     
 <tr>
     <td>
-      <h4>Managed by</h4>
+      <h4>Presented by</h4>
       <br>
-      <p><a href="http://www.aux.com.sg/"><img src="https://ndp2020-staging.netlify.app/images/1.%20Principal%20Partners%20(Trimmed)/toteboard.png" alt="Image of AUX Logo"></a></p>
+      <p><a href="https://www.ura.gov.sg/Corporate"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/ura.png?raw=true" alt="Image of URA Logo"></a></p>
       <br>
       <br> 
     </td>
     <td>
       <h4>Managed by</h4>
       <br>
-      <p><a href="http://www.aux.com.sg/"><img src="https://ndp2020-staging.netlify.app/images/1.%20Principal%20Partners%20(Trimmed)/allswell.png" alt="Image of AUX Logo"></a></p>
+      <p><a href="http://www.aux.com.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/aux.png?raw=true" alt="Image of AUX Logo"></a></p>
       <br>
       <br>    
 <tr>
@@ -75,13 +75,4 @@ breadcrumb: Acknowledgments
       <br>
       <p><a href="https://oue.com.sg/"><img src="https://d33wubrfki0l68.cloudfront.net/f5e3dc8d94bbd9cad6420ed4a64ddc1ece69c90f/fe8d5/images/logos/oue.png" alt="Image of OUE Logo"></a></p>
     <br>
-<tr>        
-    <td>
-      <h3>Partners</h3>
-      <br>
-      <p><a href="https://marinabayalliance.com/"><img src="https://ndp2020-staging.netlify.app/images/1.%20Principal%20Partners%20(Trimmed)/toteboard.png" alt="Image of marina bay alliance Logo"></a></p>
-      <br>
-    </td>
-    <td>
-      <br>
-      <p><a href="https://www.singaporeflyer.com/"><img src="https://ndp2020-staging.netlify.app/images/1.%20Principal%20Partners%20(Trimmed)/allswell.png" alt="Image of sg flyer Logo"></a></p>        
+       
