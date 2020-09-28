@@ -9,15 +9,16 @@ breadcrumb: Acknowledgments
     
 <tr>
     <td>
-      <h4>Presented by</h4>
+      <h4>Managed by</h4>
       <br>
-      <p><a href="https://ndp2020-staging.netlify.app/images/1.%20Principal%20Partners%20(Trimmed)/Aviva.png" alt="Image of URA Logo"></a></p>
-    <br>
+      <p><a href="http://www.aux.com.sg/"><img src="https://ndp2020-staging.netlify.app/images/1.%20Principal%20Partners%20(Trimmed)/toteboard.png" alt="Image of AUX Logo"></a></p>
+      <br>
+      <br> 
     </td>
     <td>
       <h4>Managed by</h4>
       <br>
-      <p><a href="http://www.aux.com.sg/"><img src="https://ndp2020-staging.netlify.app/images/1.%20Principal%20Partners%20(Trimmed)/toteboard.png" alt="Image of AUX Logo"></a></p>
+      <p><a href="http://www.aux.com.sg/"><img src="https://ndp2020-staging.netlify.app/images/1.%20Principal%20Partners%20(Trimmed)/allswell.png" alt="Image of AUX Logo"></a></p>
       <br>
       <br>    
 <tr>
