@@ -11,7 +11,7 @@ breadcrumb: Acknowledgments
     <td>
       <h4>Presented by</h4>
       <br>
-      <p><a href="https://ndp2020-staging.netlify.app/images/1.%20Principal%20Partners%20(Trimmed)/allswell.png" alt="Image of URA Logo"></a></p>
+      <p><a href="https://ndp2020-staging.netlify.app/images/1.%20Principal%20Partners%20(Trimmed)/Aviva.png" alt="Image of URA Logo"></a></p>
     <br>
     </td>
     <td>
