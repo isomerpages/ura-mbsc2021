@@ -7,7 +7,7 @@ permalink: /
 notification: Experience Marina Bay Singapore Countdown 2021 in a different light this year!
 sections:
    - hero:
-        title: <font size="50">1st December - 31st December 2020</font> 
+        title: <nobr>1st December - 31st December 2020</nobr> 
         subtitle: An iconic month-long feature by the bay
         background: /images/mb.png
         key_highlights:
