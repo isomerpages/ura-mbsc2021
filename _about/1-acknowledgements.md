@@ -67,6 +67,7 @@ breadcrumb: Acknowledgments
       <br>
     </td>
     <td>
+      <h4><font color="white">Hi</font></h4>  
       <br>
       <p><a href="https://www.singaporeflyer.com/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/sf.JPEG?raw=true" alt="Image of sg flyer Logo"></a></p>
       <br>
