@@ -25,12 +25,12 @@ breadcrumb: Acknowledgments
     <td>
       <h3>Held in</h3>
       <br>
-      <p><a href="https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Marina-Bay"><img src="https://www.parkz.com.au/images/gallery/parklogos/120222_marinabaylogo.png" alt="Image of MBS Logo"></a></p>
+      <p><a href="https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Marina-Bay"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/mbl.png?raw=true" alt="Image of MBS Logo"></a></p>
     <br>
     </td>
     <td>
       <br>
-      <p><a href="https://www.stb.gov.sg/content/stb/en.html"><img src="https://seeklogo.com/images/S/singapore-passion-made-possible-logo-3777D75567-seeklogo.com.png" alt="Image of STB Logo"></a></p>
+      <p><a href="https://www.stb.gov.sg/content/stb/en.html"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/pmp.png?raw=true" alt="Image of STB Logo"></a></p>
       <br>
       <br>   
 <tr>
