@@ -63,18 +63,18 @@ breadcrumb: Acknowledgments
     <td>
       <h4>Partners</h4>
       <br>
-      <p><a href="https://marinabayalliance.com/"><img src="https://d33wubrfki0l68.cloudfront.net/90c629e216a98d389b5f105d7d07ed839a707cdf/9987e/images/pbid_sponsor_logo.png" alt="Image of marina bay alliance Logo"></a></p>
+      <p><a href="https://marinabayalliance.com/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/mba.JPEG?raw=true" alt="Image of marina bay alliance Logo"></a></p>
       <br>
     </td>
     <td>
       <br>
-      <p><a href="https://www.singaporeflyer.com/"><img src="https://d33wubrfki0l68.cloudfront.net/0b336dab17b679529351cbfa349890e241828af2/8ee18/images/updated_sgflyersponsor_logo.png" alt="Image of sg flyer Logo"></a></p>
+      <p><a href="https://www.singaporeflyer.com/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/sf.JPEG?raw=true" alt="Image of sg flyer Logo"></a></p>
       <br>
       <br> 
      <tr>   
     <td>
       <h4>Major Supporter</h4>
       <br>
-      <p><a href="https://oue.com.sg/"><img src="https://d33wubrfki0l68.cloudfront.net/f5e3dc8d94bbd9cad6420ed4a64ddc1ece69c90f/fe8d5/images/logos/oue.png" alt="Image of OUE Logo"></a></p>
+      <p><a href="https://oue.com.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/oue.JPEG?raw=true" alt="Image of OUE Logo"></a></p>
     <br>
        
