@@ -38,7 +38,7 @@ breadcrumb: Acknowledgments
     <td>
       <h4>Community Partner</h4>
       <br>
-      <p><a href="https://cityofgood.sg/"><img src="https://media.glassdoor.com/sqll/799048/national-volunteer-and-philanthropy-centre-squarelogo-1582694770862.png" alt="Image of nvpc Logo"></a></p>
+      <p><a href="https://cityofgood.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/nvpc.JPEG?raw=true" alt="Image of nvpc Logo"></a></p>
       <br>
       </td>
       <td>
