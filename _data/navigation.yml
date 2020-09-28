@@ -8,15 +8,27 @@ logo: /images/mbsc-logo.png
 
 links:
   - title: About
-    collection: about
+    url: /about/
+    sub-links:
+    - title: Marina Bay Singapore Countdown 2021
+    url: /marina-bay-singapore-countdown-2021/
+    - title: Acknowledgements
+    url: /acknowledgements/
+    - title: Test
+    url: /test/
+    
   - title: Share The Moment
     collection: share-this-moment
+    
   - title: Shine A Light
     collection: shine-a-light
+    
   - title: FAQ
     url: /faq/
+    
   - title: News
     resource_room: true
+    
   - title: Contact Us
     url: /contact-us/
 
