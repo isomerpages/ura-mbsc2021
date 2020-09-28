@@ -11,26 +11,26 @@ breadcrumb: Acknowledgments
     <td>
       <h4>Presented by</h4>
       <br>
-      <p><a href="https://www.ura.gov.sg/Corporate"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/ura.png?raw=true" alt="Image of URA Logo"></a></p>
+      <p><a href="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/ura.JPEG?raw=true" alt="Image of URA Logo"></a></p>
       <br>
       <br> 
     </td>
     <td>
       <h4>Managed by</h4>
       <br>
-      <p><a href="http://www.aux.com.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/aux.png?raw=true" alt="Image of AUX Logo"></a></p>
+      <p><a href="http://www.aux.com.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/aux.JPEG?raw=true" alt="Image of AUX Logo"></a></p>
       <br>
       <br>    
 <tr>
     <td>
       <h3>Held in</h3>
       <br>
-      <p><a href="https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Marina-Bay"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/mbl.png?raw=true" alt="Image of MBS Logo"></a></p>
+      <p><a href="https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Marina-Bay"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/mbl.JPEG?raw=true" alt="Image of MBS Logo"></a></p>
     <br>
     </td>
     <td>
       <br>
-      <p><a href="https://www.stb.gov.sg/content/stb/en.html"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/pmp.png?raw=true" alt="Image of STB Logo"></a></p>
+      <p><a href="https://www.stb.gov.sg/content/stb/en.html"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/pmp.JPEG?raw=true" alt="Image of STB Logo"></a></p>
       <br>
       <br>   
 <tr>
