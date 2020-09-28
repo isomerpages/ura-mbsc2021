@@ -54,6 +54,7 @@ breadcrumb: Acknowledgments
     <br>
     </td>
     <td>
+      <h4><font color="white">Hi</font></h4>   
       <br>
       <p><a href="https://www.fullertonhotels.com/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/ful.JPEG?raw=true" alt="Image of fullerton Logo"></a></p>
       <br>
