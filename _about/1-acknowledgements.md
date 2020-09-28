@@ -23,7 +23,7 @@ breadcrumb: Acknowledgments
       <br>    
 <tr>
     <td>
-      <h3>Held in</h3>
+      <h4>Held in</h4>
       <br>
       <p><a href="https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Marina-Bay"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/mbl.JPEG?raw=true" alt="Image of MBS Logo"></a></p>
     <br>
