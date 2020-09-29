@@ -27,7 +27,7 @@ sections:
 
    - infopic:
         description: Check out the vantage points of MBSC 2021 by the bay all at a glance!
-        image: /images/map.png
+        image: /images/mbscmap.jpg
         alt: Map
         
    - infopic:
