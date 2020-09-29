@@ -6,8 +6,8 @@
 
 // Website brand colors
 $primary: #0eaeed;
-$secondary: #f0b60f;
-$secondary-hover: darken(#f0b60f, 20%);
+$secondary: #d3aa41;
+$secondary-hover: darken(#d3aa41, 20%);
 
 {%- for media-color in site.colors.media-colors -%}
   ${{- media-color.title -}}: {{- media-color.color -}};
