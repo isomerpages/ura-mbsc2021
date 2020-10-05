@@ -5,7 +5,7 @@ permalink: /share-this-moment/projection-show-schedule/
 
 # Schedule for Share The Moment Projection Shows
 
-###### *Subject to final confirmation on the facades and respective timings*
+###### *Stay tuned for further details*
 
 <table class="table-v">
 
