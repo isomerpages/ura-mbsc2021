@@ -23,7 +23,7 @@ sections:
                         
    - infobar:
         title: Overview of Marina Bay Singapore Countdown 2021 
-        description: <p align="justify">This year, Singapore’s highly anticipated year-end celebrations, MBSC 2021, brings forth a uniquely different experience for the public to enjoy virtually at the comfort of their own homes. MBSC 2021 presents an avenue that garners people across borders and from all walks of life to reflect on 2020 and to celebrate our hopes and aspirations for 2021 in unity.</p>
+        description: <p align="justify">This year, Singapore’s iconic countdown event, Marina Bay Singapore Countdown (MBSC) 2021, takes on a unique format to bring people from all walks of life together to reflect on 2020 and to celebrate our hopes and aspirations for the coming year.</p>
 
    - infopic:
         title: Light and projection shows at Marina Bay at a glance
