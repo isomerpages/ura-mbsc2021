@@ -13,10 +13,13 @@ This year, Singapore’s highly anticipated year-end celebrations, MBSC 2021, br
 
 #### Will there be fireworks happening this year at the Marina Bay Singapore Countdown 2021?
 
-With the emphasis of public safety as priority, there will not be fireworks happening this year at the Marina Bay, in deliberate consideration to prevent large crowds and gathering of the masses. In place of the traditional fireworks would be a symbolic light display by Shine A Light, to meaningfully mark the transition into the new year. 
+In view of the ongoing COVID-19 global pandemic, there will be no fireworks display at Marina Bay on 31 December 2020 to prevent crowds from gathering in the precinct. Instead, the Shine A Light display will symbolise a guiding beacon into the New Year. 
 
 #### What are the programmes for Marina Bay Singapore Countdown 2021?
 
-As part of Marina Bay Singapore Countdown 2021, the public can expect to view Shine A Light, the light display at The Promontory from 1st to 31st December 2020 and Share the Moment, the video mapping projection display on the facades of The Fullerton Hotel, ArtScience Museum and the Merlion.
+As part of Marina Bay Singapore Countdown 2021, the public can expect to view Shine A Light, the light display at The Promontory from 1 to 31 December 2020, and Share the Moment video mapping projection shows on the facades of The Fullerton Hotel Singapore, ArtScience Museum and the Merlion from 25 to 31 December 2020.
+
+The public is encouraged to experience these highlights at their own time and convenience prior to New Year’s Eve.
+
 
 ---
