@@ -30,6 +30,14 @@ sections:
         image: /images/mbscmap.jpg
         alt: Map
         
+   - infobar:
+        title: Overview of Shine A Light 
+        description: insert text
+
+   - infobar:
+        title: Overview of Share The Moment
+        description: insert text
+        
    - infopic:
         title: Sponsors
         subtitle:
