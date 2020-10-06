@@ -15,7 +15,7 @@ This year, Singapore’s highly anticipated year-end celebrations, MBSC 2021, br
 
 In view of the ongoing COVID-19 global pandemic, there will be no fireworks display at Marina Bay on 31 December 2020 to prevent crowds from gathering in the precinct. Instead, the Shine A Light display will symbolise a guiding beacon into the New Year. 
 
-#### What are the programmes for Marina Bay Singapore Countdown 2021?
+#### Will there be any programmes for Marina Bay Singapore Countdown 2021?
 
 As part of Marina Bay Singapore Countdown 2021, the public can expect to view Shine A Light, the light display at The Promontory from 1 to 31 December 2020, and Share the Moment video mapping projection shows on the facades of The Fullerton Hotel Singapore, ArtScience Museum and the Merlion from 25 to 31 December 2020.
 
