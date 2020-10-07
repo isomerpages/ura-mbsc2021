@@ -22,7 +22,7 @@ colors:
 collections:
   about:
     output: true
-  share-this-moment:
+  share-the-moment:
     output: true
   shine-a-light:
     output: true
