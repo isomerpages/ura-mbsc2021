@@ -7,6 +7,10 @@ permalink: /shine-a-light/light-display-schedule/
 
 ###### *Stay tuned for further details*
 
+<table class="table-v">
+
+<table style="width:100%">
+    
 <tr>
     <td>
      <font color="tomato"><b>Shine A Light @ The Promontory</b></font>
