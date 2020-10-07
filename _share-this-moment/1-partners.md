@@ -19,8 +19,6 @@ We invite you to join us in building a #CityofGood together. Visit us at [www.ci
 
 insert writeup
 
-## Collaborating Schools: 
-
 #### Nanyang Polytechnic (NYP)
 
 insert writeup
