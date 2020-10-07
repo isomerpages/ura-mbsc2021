@@ -22,7 +22,7 @@ sections:
               url: /privacy/
                         
    - infobar:
-        title: Overview of Marina Bay Singapore Countdown 2021 
+        title: Marina Bay Singapore Countdown 2021 
         description: <p align="justify">This year, Singapore’s iconic countdown event, Marina Bay Singapore Countdown (MBSC) 2021, takes on a unique format to bring people from all walks of life together to reflect on 2020 and to celebrate our hopes and aspirations for the coming year.</p>
 
    - infopic:
@@ -31,11 +31,11 @@ sections:
         alt: Map
         
    - infobar:
-        title: Overview of Shine A Light 
+        title: Shine A Light 
         description: Witness 60 robust light beams illuminate the night sky above The Promontory for Shine A Light! Replacing the traditional fireworks, these light beams serve as a guiding beacon and energising reminder for everyone to focus on the positives in the face of adversity.
 
    - infobar:
-        title: Overview of Share The Moment
+        title: Share The Moment
         description: A joint initiative with Community Partner, National Volunteer and Philanthropy Centre (NVPC), the Share the Moment campaign is a community engagement project that showcases co-created artworks through projection mapping sequences on iconic facades in Marina Bay. Through these projection shows, we hope to celebrate the selflessness and resilience of the community, and continue to nurture the spirit of giving in the year ahead.
         
    - infopic:
