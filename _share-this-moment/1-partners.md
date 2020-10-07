@@ -1,6 +1,6 @@
 ---
 title: Partners
-permalink: /share-this-moment/partners/
+permalink: /share-the-moment/partners/
 ---
 
 # Our Partners
