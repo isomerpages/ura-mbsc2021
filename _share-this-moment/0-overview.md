@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /share-this-moment/overview/
+permalink: /share-the-moment/overview/
 ---
 
 # Overview
