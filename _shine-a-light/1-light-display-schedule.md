@@ -21,3 +21,5 @@ permalink: /shine-a-light/light-display-schedule/
       <br>
 (Every 15 minutes)
       <br>
+     </td>
+    </tr>
