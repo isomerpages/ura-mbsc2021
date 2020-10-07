@@ -1,4 +1,4 @@
 ---
 title: Charity Campaigns
-permalink: /share-this-moment/charitycampaigns/
+permalink: /share-the-moment/charitycampaigns/
 ---
