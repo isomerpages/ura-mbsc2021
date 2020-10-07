@@ -12,26 +12,13 @@ breadcrumb: Acknowledgments
       <h4>Presented by</h4>
       <br>
       <p><a href="https://www.ura.gov.sg/Corporate"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/ura.JPEG?raw=true" alt="Image of URA Logo"></a></p>
-    <br>
-    </td>
-    <td>
-      <h4>Managed by</h4>
-      <br>
-      <p><a href="http://www.aux.com.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/auxs.jpeg" alt="Image of AUX Logo"></a></p>
-      <br>
-      <br>  
-<tr>
-    <td>
-      <h4>Presented by</h4>
-      <br>
-      <p><a href="https://www.ura.gov.sg/Corporate"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/ura.JPEG?raw=true" alt="Image of URA Logo"></a></p>
       <br>
       <br> 
     </td>
     <td>
       <h4>Managed by</h4>
       <br>
-      <p><a href="http://www.aux.com.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/auxs.jpeg" alt="Image of AUX Logo"></a></p>
+      <p><a href="http://www.aux.com.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/aux.JPEG" alt="Image of AUX Logo"></a></p>
       <br>
       <br>    
 <tr>
