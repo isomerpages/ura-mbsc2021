@@ -18,7 +18,7 @@ breadcrumb: Acknowledgments
     <td>
       <h4>Managed by</h4>
       <br>
-      <p><a href="http://www.aux.com.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/aux.jpeg" alt="Image of AUX Logo"></a></p>
+      <p><a href="http://www.aux.com.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/auxs.jpeg" alt="Image of AUX Logo"></a></p>
       <br>
       <br>    
 <tr>
