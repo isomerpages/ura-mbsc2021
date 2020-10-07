@@ -1,4 +1,4 @@
 ---
 title: Stories
-permalink: /share-this-moment/stories/
+permalink: /share-the-moment/stories/
 ---
