@@ -35,6 +35,10 @@ sections:
         description: Witness 60 robust light beams illuminate the night sky above The Promontory for Shine A Light! Replacing the traditional fireworks, these light beams serve as a guiding beacon and energising reminder for everyone to focus on the positives in the face of adversity.
         image: /images/asm1.JPG 
         alt: asm
+        
+      - infopic:
+        image: /images/merlion.JPG 
+        alt: merlion
 
    - infobar:
         title: Share The Moment
