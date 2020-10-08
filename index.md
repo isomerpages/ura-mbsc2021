@@ -50,19 +50,19 @@ sections:
         image: /images/merlion.jpg
 
       - subtitle: Share The Moment 
-        title: Fullerton Hotel
+        title: The Fullerton Hotel
         description:
-        image: /images/ft.jpg
-    
-   - infopic:
-        title: Sponsors
-        subtitle:
-        image: /images/Sponsor.png
-        alt: Sponsor    
+        image: /images/ft.jpg  
    
    - resources:
         title: Media
         subtitle: Learn more
         button: View More
+
+   - infopic:
+        title: Sponsors
+        subtitle:
+        image: /images/Sponsor.png
+        alt: Sponsor  
         
 ---
