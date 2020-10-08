@@ -33,9 +33,8 @@ sections:
    - infopic:
         title: Shine A Light 
         description: Witness 60 robust light beams illuminate the night sky above The Promontory for Shine A Light! Replacing the traditional fireworks, these light beams serve as a guiding beacon and energising reminder for everyone to focus on the positives in the face of adversity.
-        image: https://gph.is/16F10kE
-        alt: asm
-
+        image: ![image of light](https://gph.is/16F10kE)
+        
    - infobar:
         title: Share The Moment
         description: A joint initiative with Community Partner, National Volunteer and Philanthropy Centre (NVPC), the Share the Moment campaign is a community engagement project that showcases co-created artworks through projection mapping sequences on iconic facades in Marina Bay. Through these projection shows, we hope to celebrate the selflessness and resilience of the community, and continue to nurture the spirit of giving in the year ahead.
