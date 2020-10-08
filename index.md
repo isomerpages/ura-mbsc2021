@@ -36,7 +36,7 @@ sections:
         image: /images/asm1.JPG 
         alt: asm
         
-      - infopic:
+   - infopic:
         image: /images/merlion.JPG 
         alt: merlion
 
