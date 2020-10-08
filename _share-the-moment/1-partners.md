@@ -15,9 +15,11 @@ We invite you to join us in building a #CityofGood together. Visit us at [www.ci
 
 ## Collaborating Schools: 
 
-#### Nanyang Academy of Fine Arts (NAFA)
+#### [Nanyang Academy of Fine Arts (NAFA)](https://www.nafa.edu.sg/home)
 
-insert writeup
+Established in 1938, Nanyang Academy of Fine Arts (NAFA) is Singapore’s pioneer arts institution. The academy is known for its rigorous and high-quality curriculum, innovative and practitioners-led teaching approach, diverse artistic creations and community outreach. NAFA offers full-time diploma and degree programmes across three schools: School of Art & Design comprising Fine Art, 3D Design, Design & Media, Fashion Studies programmes, School of Arts Management, Dance & Theatre and School of Music.
+ 
+NAFA’s courses are designed and delivered by experienced art educators and leading industry practitioners, and its academic schools regularly review and refine their curriculum to reflect the changing needs of the industry. NAFA has nurtured 13 recipients of the Cultural Medallion, while another 14 alumni have been presented the Young Artist Award. With a rich heritage, established track record and an unwavering dedication to the highest standards of arts education, NAFA strives to live up to its mission “to inspire learning and growth through the arts”.
 
 #### Nanyang Polytechnic (NYP)
 
