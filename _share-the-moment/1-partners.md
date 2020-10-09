@@ -23,4 +23,4 @@ NAFA’s courses are designed and delivered by experienced art educators and lea
 
 #### Nanyang Polytechnic (NYP)
 
-insert writeup
+The School of Design (SDN) prepares young talents for the creative industries. They learn to blend art, design, and technology, to develop user-centric solutions that are aesthetically pleasant, technically viable, practical, environmentally-friendly and efficient. In our vibrant environment, experienced and dedicated staff members will nurture creativity to its fullest potential; building a strong design foundation, infusing industry realism, inspiring design excellence and inculcating design for social impact. SDN offers four design diploma courses: Industrial Design, Spatial Design, Visual Communication and Architecture. Students are not limited to their chosen domain of studies; in many instances, they team up to work on integrated and holistic solutions for projects.
