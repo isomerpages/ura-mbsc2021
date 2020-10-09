@@ -38,7 +38,7 @@ sections:
         image: /images/SAL.gif
         alt: Shine A Light
         
-   - infobar:
+   - infopic:
         title: Share The Moment
         description: A joint initiative with Community Partner, National Volunteer and Philanthropy Centre (NVPC), the Share the Moment campaign is a community engagement project that showcases co-created artworks through projection mapping sequences on iconic facades in Marina Bay. Through these projection shows, we hope to celebrate the selflessness and resilience of the community, and continue to nurture the spirit of giving in the year ahead.
         image: /images/STM.gif
