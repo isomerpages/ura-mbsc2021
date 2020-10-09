@@ -41,37 +41,8 @@ sections:
    - infobar:
         title: Share The Moment
         description: A joint initiative with Community Partner, National Volunteer and Philanthropy Centre (NVPC), the Share the Moment campaign is a community engagement project that showcases co-created artworks through projection mapping sequences on iconic facades in Marina Bay. Through these projection shows, we hope to celebrate the selflessness and resilience of the community, and continue to nurture the spirit of giving in the year ahead.
-   
-   - carousel:
-      - subtitle: Share The Moment 
-        title: ArtScience Museum
-        description:
-        image: /images/asm1.JPG
-        alt: ArtScience Museum
-        
-      - subtitle: Share The Moment 
-        title: Merlion
-        description:
-        image: /images/merlion1.JPG 
-        alt: Merlion
-
-      - subtitle: Share The Moment 
-        title: The Fullerton Hotel
-        description:
-        image: /images/ft1.JPG  
-        alt: The Fullerton Hotel
-        
-      - subtitle: Share The Moment 
-        title: 1
-        description:
-        image: /images/test1.JPG  
-        alt: 1
-        
-      - subtitle: Share The Moment 
-        title: 2
-        description:
-        image: /images/test2.JPG 
-        alt: 2
+        image: /images/STM.gif
+        alt: Share The Moment
         
    - resources:
         title: Media
