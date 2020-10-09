@@ -46,27 +46,32 @@ sections:
       - subtitle: Share The Moment 
         title: ArtScience Museum
         description:
-        image: /images/asm1.JPG 
+        image: /images/asm1.JPG
+        alt: ArtScience Museum
         
       - subtitle: Share The Moment 
         title: Merlion
         description:
         image: /images/merlion1.JPG 
+        alt: Merlion
 
       - subtitle: Share The Moment 
         title: The Fullerton Hotel
         description:
         image: /images/ft1.JPG  
+        alt: The Fullerton Hotel
         
       - subtitle: Share The Moment 
         title: 1
         description:
         image: /images/test1.JPG  
+        alt: 1
         
       - subtitle: Share The Moment 
         title: 2
         description:
-        image: /images/test2.JPG          
+        image: /images/test2.JPG 
+        alt: 2
         
    - resources:
         title: Media
