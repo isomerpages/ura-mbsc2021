@@ -58,6 +58,16 @@ sections:
         description:
         image: /images/ft1.JPG  
         
+      - subtitle: Share The Moment 
+        title: 1
+        description:
+        image: /images/test1.JPG  
+        
+      - subtitle: Share The Moment 
+        title: 2
+        description:
+        image: /images/test2.JPG          
+        
    - resources:
         title: Media
         subtitle: Learn more
