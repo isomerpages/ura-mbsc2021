@@ -28,13 +28,14 @@ sections:
    - infopic:
         title: Light and projection shows at Marina Bay at a glance
         image: /images/mbscmap.jpg
+        url: https://ura-mbsc2021-staging.netlify.app/images/mbscmap.jpg
         alt: Map
         
    - infopic:
         title: Shine A Light 
         description: Witness 60 robust light beams illuminate the night sky above The Promontory for Shine A Light! Replacing the traditional fireworks, these light beams serve as a guiding beacon and energising reminder for everyone to focus on the positives in the face of adversity.
         image: /images/SAL.gif
-        alt: try
+        alt: Shine A Light
         
    - infobar:
         title: Share The Moment
