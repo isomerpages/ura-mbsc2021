@@ -27,7 +27,7 @@ sections:
 
    - infopic:
         title: Light and projection shows at Marina Bay at a glance
-        <a href="https://ura-mbsc2021-staging.netlify.app/images/mbscmap.jpg/"><img src="mbscmap.jpg"></a>
+        image: [![map](/images/mbscmap.jpg "MBSC Map")](https://ura-mbsc2021-staging.netlify.app/images/mbscmap.jpg)
         alt: Map
         
    - infopic:
