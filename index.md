@@ -16,7 +16,7 @@ sections:
               url: /shine-a-light/light-display-schedule/
             - title: SHARE THE MOMENT
               description: Light projection shows
-              url: /share-this-moment/projection-show-schedule/
+              url: /share-the-moment/projection-show-schedule/
             - title: NEW YEAR’S EVE FIREWORKS
               description: In the heartlands
               url: /privacy/
