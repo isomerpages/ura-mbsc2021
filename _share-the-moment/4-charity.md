@@ -33,31 +33,18 @@ permalink: /share-the-moment/charitycampaigns/
 .container:hover .overlay {
   opacity: 1;
 }
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
     
 </style>
 </head>
 <body>
 
-<div class="row">
-  <div class="column">
+<div class="container">
     <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/1.png?raw=true" alt="Avatar" class="image">
     <div class="overlay">
       <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/3.png?raw=true" alt="Avatar" class="image">
     </div>
-  <div class="column">
+  
+  <div class="container">
     <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/1.png?raw=true" alt="Avatar" class="image">
     <div class="overlay">
       <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/3.png?raw=true" alt="Avatar" class="image">
