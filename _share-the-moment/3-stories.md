@@ -49,8 +49,6 @@ permalink: /share-the-moment/stories/
 </head>
 <body>
 
-<h2>Stories</h2>
-
 <div class="container">
   <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/aux.jpeg?raw=true" alt="aux" class="image">
   <div class="overlay">
