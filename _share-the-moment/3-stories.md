@@ -52,7 +52,7 @@ permalink: /share-the-moment/stories/
 <h2>Stories</h2>
 
 <div class="container">
-  <img src="aux.jpeg" alt="aux" class="image">
+  <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/aux.jpeg?raw=true" alt="aux" class="image">
   <div class="overlay">
     <div class="text">Hello World</div>
   </div>
