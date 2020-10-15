@@ -34,28 +34,39 @@ permalink: /share-the-moment/charitycampaigns/
   opacity: 1;
 }
 
-<table class="table-v">
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
 
-<table style="width:100%">
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
     
 </style>
 </head>
 <body>
 
-<div class="container">
-  <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/1.png?raw=true" alt="Avatar" class="image">
-  <div class="overlay">
-    <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/3.png?raw=true" alt="Avatar" class="image">
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/1.png?raw=true" alt="Avatar" class="image">
+    <div class="overlay">
+      <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/3.png?raw=true" alt="Avatar" class="image">
     
   </div>
 </div>
 
 <body>
 
-<div class="container">
-  <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/1.png?raw=true" alt="Avatar" class="image">
-  <div class="overlay">
-    <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/3.png?raw=true" alt="Avatar" class="image">
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/1.png?raw=true" alt="Avatar" class="image">
+    <div class="overlay">
+      <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/3.png?raw=true" alt="Avatar" class="image">
     
   </div>
 </div>
