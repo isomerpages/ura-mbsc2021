@@ -50,9 +50,9 @@ permalink: /share-the-moment/stories/
 <body>
 
 <div class="container">
-  <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/aux.jpeg?raw=true" alt="aux" class="image">
+  <img src="https://scontent.fsin9-2.fna.fbcdn.net/v/t1.0-9/49895915_2367325180153696_5466049850774650880_n.jpg?_nc_cat=110&_nc_sid=85a577&_nc_ohc=RCmhAnh3tZMAX--oXm-&_nc_ht=scontent.fsin9-2.fna&oh=21651f90650f322234a0a7963ccc93da&oe=5FAEF09C" alt="the love-aid project" class="image">
   <div class="overlay">
-    <div class="text">Hello World</div>
+    <div class="text">The Love-Aid Project is a community outreach initiative seeking to bring love, dignity and hope to at-risk youth & low-income families in Singapore.</div>
   </div>
 </div>
 
