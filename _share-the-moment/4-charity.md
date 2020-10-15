@@ -43,6 +43,9 @@ permalink: /share-the-moment/charitycampaigns/
     <div class="overlay">
       <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/3.png?raw=true" alt="Avatar" class="image">
     </div>
+  </div>
+  
+  <br>
   
   <div class="container">
     <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/1.png?raw=true" alt="Avatar" class="image">
