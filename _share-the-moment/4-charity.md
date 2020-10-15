@@ -38,22 +38,24 @@ permalink: /share-the-moment/charitycampaigns/
 
 <table style="width:100%">
     
-<tr>
-    <td>
-      <br>
-      <div class="container">
-        <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/1.png?raw=true" alt="Avatar" class="image">
-        <div class="overlay">
-          <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/3.png?raw=true" alt="Avatar" class="image">
-      <br>
-      <br> 
-    </td>
-    <td>
-      <br>
-      <div class="container">
-        <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/1.png?raw=true" alt="Avatar" class="image">
-        <div class="overlay">
-          <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/3.png?raw=true" alt="Avatar" class="image">
-      <br>
-      <br>    
-<tr>
+</style>
+</head>
+<body>
+
+<div class="container">
+  <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/1.png?raw=true" alt="Avatar" class="image">
+  <div class="overlay">
+    <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/3.png?raw=true" alt="Avatar" class="image">
+    
+  </div>
+</div>
+
+<body>
+
+<div class="container">
+  <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/1.png?raw=true" alt="Avatar" class="image">
+  <div class="overlay">
+    <img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/3.png?raw=true" alt="Avatar" class="image">
+    
+  </div>
+</div>
