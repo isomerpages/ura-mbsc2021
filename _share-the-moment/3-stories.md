@@ -10,7 +10,7 @@ permalink: /share-the-moment/stories/
     <td>
       <h4>The Love-Aid Project</h4>
       <br>
-      <p><a href="hhttps://github.com/isomerpages/ura-mbsc2021/blob/staging/images/3.png?raw=true"><img src="" alt="Image of The Love-Aid Project"></a></p>
+      <p><a href="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/3.png?raw=true"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/1.png?raw=true" alt="Image of The Love-Aid Project"></a></p>
       <br>
       <br> 
     </td>
