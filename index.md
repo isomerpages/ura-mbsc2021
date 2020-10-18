@@ -19,7 +19,7 @@ sections:
               url: /share-the-moment/projection-show-schedule/
             - title: NEW YEAR’S EVE FIREWORKS
               description: In the heartlands
-              url: /privacy/
+              url: /heartland-fireworks/
                         
    - infobar:
         title: Marina Bay Singapore Countdown 2021 
