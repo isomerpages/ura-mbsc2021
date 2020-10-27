@@ -9,7 +9,7 @@ Since its inception in 2005, the Marina Bay Singapore Countdown (MBSC) has becom
 
 Proudly presented by the Urban Redevelopment Authority (URA), Singapore’s annual New Year’s Eve celebration allows everyone to enjoy the unique cityscape and vibrant atmosphere as we usher in the New Year. 
 
-This year, Singapore’s iconic countdown event, Marina Bay Singapore Countdown (MBSC) 2021, takes on a unique format to bring people from all walks of life together to reflect on 2020 and to celebrate our hopes and aspirations for the coming year. 
+This year, Singapore’s iconic countdown event, MBSC 2021, takes on a unique format to bring people together to reflect on 2020 and to celebrate our hopes and aspirations for the coming year. 
 
-MBSC 2021 will feature two key highlights: Shine A Light, specially choreographed light animations; as well as Share the Moment, a showcase of co-created art, transformed by projection mapping onto iconic facades in Marina Bay – The Fullerton Hotel Singapore, ArtScience Museum and the Merlion. 
+MBSC 2021 will feature two highlights: Shine a Light, a choreographed light display; as well as Share the Moment, a showcase of co-created art, transformed by projection mapping onto iconic facades in Marina Bay – The Fullerton Hotel Singapore, ArtScience Museum and the Merlion. 
 
