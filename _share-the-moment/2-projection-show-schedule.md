@@ -3,7 +3,7 @@ title: Projection Show Schedule
 permalink: /share-the-moment/projection-show-schedule/
 ---
 
-# Schedule for Share The Moment Projection Shows
+# Projection Show Schedule
 
 ###### *Stay tuned for further details*
 
