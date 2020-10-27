@@ -27,13 +27,7 @@ breadcrumb: Acknowledgments
       <br>
       <p><a href="https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Marina-Bay"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/mbl.JPEG?raw=true" alt="Image of MBS Logo"></a></p>
     <br>
-    </td>
-    <td>
-      <h4><font color="white">Hi</font></h4> 
-      <br>
-      <p><a href="https://www.stb.gov.sg/content/stb/en.html"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/pmp.JPEG?raw=true" alt="Image of STB Logo"></a></p>
-      <br>
-      <br>   
+    </td>  
 <tr>
     <td>
       <h4>Community Partner</h4>
@@ -48,34 +42,9 @@ breadcrumb: Acknowledgments
       <br>
 <tr>   
     <td>
-      <h4>Principal Sponsors</h4>
-      <br>
-      <p><a href="https://www.dbs.com/default.page?gclsrc=aw.ds&&scp=true&gclid=EAIaIQobChMIv5fMjOnA5QIVRyUrCh1DtAEAEAAYASAAEgI_VfD_BwE"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/dbs.JPEG?raw=true" alt="Image of DBS Logo"></a></p>
-    <br>
-    </td>
-    <td>
-      <h4><font color="white">Hi</font></h4>   
+      <h4>Principal Sponsors</h4>   
       <br>
       <p><a href="https://www.fullertonhotels.com/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/ful.JPEG?raw=true" alt="Image of fullerton Logo"></a></p>
       <br>
-      <br> 
-<tr>        
-    <td>
-      <h4>Partners</h4>
-      <br>
-      <p><a href="https://marinabayalliance.com/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/mba.JPEG?raw=true" alt="Image of marina bay alliance Logo"></a></p>
-      <br>
-    </td>
-    <td>
-      <h4><font color="white">Hi</font></h4>  
-      <br>
-      <p><a href="https://www.singaporeflyer.com/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/sf.JPEG?raw=true" alt="Image of sg flyer Logo"></a></p>
-      <br>
-      <br> 
-     <tr>   
-    <td>
-      <h4>Major Supporter</h4>
-      <br>
-      <p><a href="https://oue.com.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/oue.JPEG?raw=true" alt="Image of OUE Logo"></a></p>
-    <br>
+   
        
