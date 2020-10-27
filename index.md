@@ -7,7 +7,7 @@ permalink: /
 notification: Experience Marina Bay Singapore Countdown 2021 in a different light!
 sections:
    - hero:
-        title: Test
+        title: 
         subtitle: 
         background: /images/mb.png
         key_highlights:
