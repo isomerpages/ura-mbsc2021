@@ -26,8 +26,8 @@ collections:
     output: true
   shine-a-light:
     output: true
-
-resources_name: News
+    
+ resources_name: news
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
