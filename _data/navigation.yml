@@ -23,7 +23,7 @@ links:
     url: /faq/
     
   - title: News
-    resource_room: false
+    resource_room: true
     
   - title: Contact Us
     url: /contact-us/
