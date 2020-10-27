@@ -1,5 +1,5 @@
 ---
-title: Stories
+title: Stories from City of Good
 permalink: /share-the-moment/stories/
 ---
 <table class="table-v">
