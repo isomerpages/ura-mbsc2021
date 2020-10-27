@@ -1,9 +1,9 @@
 ---
-title: Animation Display Schedule
-permalink: /shine-a-light/light-display-schedule/
+title: Display Schedule
+permalink: /shine-a-light/display-schedule/
 ---
 
-# Schedule for Shine A Light Animation Display
+# Display Schedule for Shine a Light Animation
 
 ###### *Stay tuned for further details*
 
