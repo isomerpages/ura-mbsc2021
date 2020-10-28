@@ -13,7 +13,7 @@ sections:
         key_highlights:
             - title: SHINE A LIGHT 
               description: Animated light displays
-              url: /shine-a-light/light-display-schedule/
+              url: /shine-a-light/display-schedule/
             - title: SHARE THE MOMENT
               description: Light projection shows
               url: /share-the-moment/projection-show-schedule/
