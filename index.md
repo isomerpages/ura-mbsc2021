@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Marina Bay Singapore Countdown 2021
-description: Brief site description here
+description: MBSC 2021
 image: /images/mbsc-logo.png
 permalink: /
 notification: Experience Marina Bay Singapore Countdown 2021 in a different light!
