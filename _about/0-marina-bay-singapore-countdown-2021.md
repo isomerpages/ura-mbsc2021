@@ -11,5 +11,5 @@ Proudly presented by the Urban Redevelopment Authority (URA), Singapore’s annu
 
 This year, Singapore’s iconic countdown event, MBSC 2021, takes on a unique format to bring people together to reflect on 2020 and to celebrate our hopes and aspirations for the coming year. 
 
-MBSC 2021 will feature two highlights: Shine a Light, a choreographed light display; as well as Share the Moment, a showcase of co-created art, transformed by projection mapping onto iconic facades in Marina Bay – The Fullerton Hotel Singapore, ArtScience Museum and the Merlion. 
+MBSC 2021 will feature two main highlights: Shine a Light, a choreographed light display, as well as Share the Moment, a showcase of co-created art, transformed by projection mapping onto iconic facades in Marina Bay – The Fullerton Hotel Singapore, ArtScience Museum and the Merlion. 
 
