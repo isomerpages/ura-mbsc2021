@@ -11,6 +11,6 @@ This edition of Share the Moment is inspired by stories from the City of Good �
 
 From 25 to 31 December 2020, watch as the vision for Singapore to be a “City of Good” comes to life nightly on the facades of The Fullerton Hotel Singapore, ArtScience Museum and the Merlion, and celebrate moments in the past year where outstanding givers came together to uplift others in the community.
 
-Refer to the show schedule for more details.  
+[Refer to the display schedule for more details.](https://ura-mbsc2021-staging.netlify.app/share-the-moment/projection-show-schedule/)
 
 
