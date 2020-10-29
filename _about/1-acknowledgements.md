@@ -37,18 +37,13 @@ breadcrumb: Acknowledgments
       <br>    
 <tr>
     <td>
-      <h4>Prime Sponsors</h4>
+      <h4>Prime Sponsor</h4>
       <br>
       <p><a href="https://www.marinabaysands.com/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/mbsh.JPEG?raw=true" alt="Image of MBS hotel Logo"></a></p>
       <br>
       <br> 
     </td>
-    <td>
-      <h4>Principal Sponsors</h4>
-      <br>
-      <p><a href="https://www.fullertonhotels.com/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/ful.JPEG?raw=true" alt="Image of fullerton Logo"></a></p>
-      <br>
-      <br>        
+    <td>    
     
     
     
