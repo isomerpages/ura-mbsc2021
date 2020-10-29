@@ -33,7 +33,7 @@ sections:
         alt: Map
 
    - infopic:
-        title: Sponsors
+        title: Acknowledgements
         subtitle:
         image: /images/sponsor.png
         alt: Sponsor  
