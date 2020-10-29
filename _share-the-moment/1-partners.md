@@ -28,3 +28,8 @@ Established as an institution of higher learning in 1992, Nanyang Polytechnic's 
 ##### School of Design, Nanyang Polytechnic
 The School of Design (SDN) prepares young talents for the creative industries. Our students learn to blend art, design, and technology to develop user-centric solutions that are aesthetically pleasant, technically viable, practical, environmentally-friendly and efficient.
 SDN offers three exciting design diploma courses: Experiential Product & Interior Design, Visual Communication and Architecture.
+
+
+#### Singapore Institute of Technology (SIT) - The Glasgow School of Art 
+
+Founded in 1845, The Glasgow School of Art (GSA) is one of the last remaining independent art schools in the United Kingdom and is internationally recognised as being at the forefront of developments in visual culture. In 2011 the Singapore Institute of Technology (SIT) and GSA entered their cross-institutional partnership with Temasek Polytechnic (TP) to nurture enterprising and confident graduates who contribute to Singapore’s creative endeavours. In collaboration with SIT, The Glasgow School of Art Singapore delivers years 3 and 4 of its Bachelor of Art (Hons) programmes in Communication Design and Interior Design in Singapore. Around 100 students have graduated from GSA Singapore every year since 2014.
