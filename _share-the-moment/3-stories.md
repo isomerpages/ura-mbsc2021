@@ -2,6 +2,11 @@
 title: Stories from City of Good
 permalink: /share-the-moment/stories-from-City-of-Good/
 ---
+
+###### *Stay tuned for further details*
+
+
+<!--
 <table class="table-v">
 
 <table style="width:100%">
@@ -19,5 +24,5 @@ permalink: /share-the-moment/stories-from-City-of-Good/
       <br>
       <br>    
 <tr>
-   
-       
+    
+-->       
