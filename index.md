@@ -29,7 +29,7 @@ sections:
         title: Marina Bay at a glance
         image: /images/mbscmap.jpg
         button: View Map
-        url: https://ura-mbsc2021-staging.netlify.app/images/mbscmap.jpg
+        url: /images/mbscmap.jpg
         alt: Map
 
    - infopic:
