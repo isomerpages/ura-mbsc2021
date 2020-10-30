@@ -1,4 +1,7 @@
 ---
+title: Contact Us
+permalink: /contact-us/
+---
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
@@ -9,7 +12,4 @@ contacts:
       - other: For more enquiries,<br> drop us an email at <a href="mailto:URA_mbsc@ura.gov.sg">URA_mbsc@ura.gov.sg</a> 
 
 ---
----
-title: Contact Us
-permalink: /contact-us/
----
+
