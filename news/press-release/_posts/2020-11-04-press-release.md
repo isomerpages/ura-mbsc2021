@@ -8,4 +8,4 @@ permalink: /news/press-release/safety-takes-precedence-for-Marina-Bay-Singapore-
 <br>
 [PDF][pdf]
 
-[pdf]: /news/press-release/files/mediarelease05.pdf/
+[pdf]: /news/files/mediarelease05.pdf/
