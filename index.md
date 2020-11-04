@@ -38,11 +38,11 @@ sections:
         subtitle:
         image: /images/sponsor.png
         alt: Sponsor  
-      
-   <!-- - resources:
+        
+---        
+<!--      
+   - resources:
         title: Media
         subtitle: Learn more
         button: View More -->
         
-        
----
