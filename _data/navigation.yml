@@ -22,6 +22,9 @@ links:
   - title: FAQ
     url: /faq/
     
+  - title: News
+    resources_room: true
+    
     
  
 
