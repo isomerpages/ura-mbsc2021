@@ -17,9 +17,7 @@ As safety remains a priority in view of the COVID-19 pandemic, there will be **n
 
 #### Will there be any programmes for Marina Bay Singapore Countdown 2021?
 
-As part of Marina Bay Singapore Countdown 2021, the public can head down to Marina Bay to view Shine a Light, a light display at The Promontory from 1 to 31 December 2020, and Share the Moment projection mapping shows on the facades of The Fullerton Hotel Singapore, ArtScience Museum and the Merlion from 25 to 31 December 2020.
-
-The public is encouraged to experience these highlights at their own time and convenience prior to New Year’s Eve.
+As part of Marina Bay Singapore Countdown 2021, the public can head down to Marina Bay to view Shine a Light, a light display at The Promontory from 1 to 31 December 2020, and Share the Moment projection mapping shows on the facades of The Fullerton Hotel Singapore and the Merlion from 25 to 31 December 2020, and the ArtScience Museum from 26 to 31 December 2020. 
 
 
 ---

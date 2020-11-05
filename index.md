@@ -1,7 +1,5 @@
 ---
 layout: homepage
-favicon: /images/mbsc.ico
-shareicon: /images/mbsc2021.png
 title: Marina Bay Singapore Countdown 2021
 image: /images/mbsc-logo.png
 permalink: /
@@ -38,11 +36,13 @@ sections:
         subtitle:
         image: /images/sponsor.png
         alt: Sponsor  
-        
----        
-<!--      
+         
    - resources:
         title: Media
         subtitle: Learn more
-        button: View More -->
+        button: View More
         
+favicon: /images/mbsc.ico
+shareicon: /images/mbsc2021.png        
+       
+---
