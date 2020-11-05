@@ -1,35 +1,48 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+favicon: /images/mbsc.ico
+shareicon: /images/mbsc2021.png
+title: Marina Bay Singapore Countdown 2021
+image: /images/mbsc-logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Experience Marina Bay Singapore Countdown 2021 in a different light!
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+   - hero:
+        title: 
+        subtitle: 
+        background: /images/mb.png
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
+            - title: SHINE A LIGHT 
+              description: Light displays
+              url: /shine-a-light/display-schedule/
+            - title: SHARE THE MOMENT
+              description: Light projection shows
+              url: /share-the-moment/projection-show-schedule/
+            - title: NEW YEAR’S EVE FIREWORKS
+              description: In the heartlands
+              url: /heartland-fireworks/
+                        
+   - infobar:
+        title: Marina Bay Singapore Countdown 2021 
+        description: <p align="justify">This year, Singapore’s iconic countdown event, Marina Bay Singapore Countdown (MBSC) 2021, takes on a different format to bring people from all walks of life together to reflect on 2020 and to celebrate our hopes and aspirations for the coming year.</p>
+
+   - infopic:
+        title: Marina Bay at a glance
+        image: /images/mbscmap.jpg
+        button: View Map
+        url: /images/mbscmap.jpg
+        alt: Map
+
+   - infopic:
+        title: Acknowledgements
+        subtitle:
+        image: /images/sponsor.png
+        alt: Sponsor  
+        
+---        
+<!--      
+   - resources:
         title: Media
         subtitle: Learn more
-        button: View More
----
+        button: View More -->
+        

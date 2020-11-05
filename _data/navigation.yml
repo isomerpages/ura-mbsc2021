@@ -4,24 +4,21 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/mbsc-logo.png
 
 links:
   - title: About
     collection: about
-  - title: Share This Moment
-    collection: share-this-moment
-  - title: Shine A Light
+    
+  - title: Shine a Light
     collection: shine-a-light
+    
+  - title: Share the Moment
+    collection: share-the-moment
+    
+  - title: Heartland Fireworks
+    url: /heartland-fireworks
+    
   - title: FAQ
     url: /faq/
-  - title: News
-    resource_room: true
-  - title: Contact Us
-    url: /contact-us/
-  - title: Amanda
-    collection: amanda
-  - title: Sofi
-    collection: sofi
-  - title: Hazel
-    collection: hazel
+    

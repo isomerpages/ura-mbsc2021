@@ -1,4 +1,4 @@
-title: Title
+title: MBSC2021
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
@@ -10,7 +10,7 @@ colors:
     - title: media-color-one
       color: '#49759a'
     - title: media-color-two
-      color: '#744d9f'
+      color: '#0eaeed'
     - title: media-color-three
       color: '#00838f'
     - title: media-color-four
@@ -22,20 +22,12 @@ colors:
 collections:
   about:
     output: true
-  share-this-moment:
+  share-the-moment:
     output: true
   shine-a-light:
     output: true
-  lisa:
-    output: true
-  amanda:
-    output: true
-  sofi:
-    output: true
-  hazel:
-    output: true
-
-resources_name: News
+    
+resources_name: news
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #

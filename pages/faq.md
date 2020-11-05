@@ -1,15 +1,25 @@
 ---
-title: FAQ
+title: Frequently Asked Questions 
 permalink: /faq/
 ---
 
-### **FAQ**
+#### What is the Marina Bay Singapore Countdown 2021?
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+Proudly presented by the Urban Redevelopment Authority (URA), Marina Bay Singapore Countdown – Singapore’s iconic New Year’s Eve celebration – allows everyone to enjoy the unique cityscape and vibrant atmosphere as we usher in the New Year.
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+This year, MBSC 2021 takes on a different format to bring people together to reflect on 2020 and to celebrate our hopes and aspirations for the coming year.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.---
-title: Faq
-permalink: /faq/
+MBSC 2021 will feature two main highlights: Shine a Light, a light display, as well as Share the Moment, a showcase of co-created art, transformed by projection mapping onto iconic facades in Marina Bay – The Fullerton Hotel Singapore, ArtScience Museum and the Merlion.
+
+#### Will there be fireworks happening this year at the Marina Bay Singapore Countdown 2021?
+
+As safety remains a priority in view of the COVID-19 pandemic, there will be **no fireworks display at Marina Bay** on 31 December 2020 to minimise crowds from gathering in the precinct. Instead, fireworks will be set off from different heartland locations across Singapore, bringing the Countdown experience closer to Singaporeans at home. Stay tuned for further details. 
+
+#### Will there be any programmes for Marina Bay Singapore Countdown 2021?
+
+As part of Marina Bay Singapore Countdown 2021, the public can head down to Marina Bay to view Shine a Light, a light display at The Promontory from 1 to 31 December 2020, and Share the Moment projection mapping shows on the facades of The Fullerton Hotel Singapore, ArtScience Museum and the Merlion from 25 to 31 December 2020.
+
+The public is encouraged to experience these highlights at their own time and convenience prior to New Year’s Eve.
+
+
 ---
