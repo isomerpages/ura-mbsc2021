@@ -1,6 +1,6 @@
 title: MBSC2021
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+url: "https://www.marinabaycountdown.gov.sg/" # the base hostname & protocol for your site, e.g. http://example.com
+favicon: /images/mbsc.ico
 
 # Site colors
 colors:
