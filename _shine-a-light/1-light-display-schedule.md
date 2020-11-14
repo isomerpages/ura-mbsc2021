@@ -11,7 +11,7 @@ permalink: /shine-a-light/display-schedule/
     
 <tr>
     <td>
-     <font color="tomato"><b>Shine A Light @ The Promontory</b></font>
+        <font color="tomato"><b>Shine A Light @ The Promontory</b><br>1st - 31st December 2020</font>
      <br>
     </td>
     <td>
