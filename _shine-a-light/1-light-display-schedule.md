@@ -11,15 +11,16 @@ permalink: /shine-a-light/display-schedule/
     
 <tr>
     <td>
-        <font color="tomato"><b>Shine A Light @ The Promontory</b></font>
+     <font color="tomato"><b>TShine A Light @ The Promontory</b></font>
      <br>
     </td>
     <td>
-      <font color="tomato"><br>8PM - 10.30PM </font>
+      <font color="tomato">1 - 31 December 2020</font>
+      <font color="orangered"><br>8PM - 10.30PM </font>
+      <br> 
       <br>
 (Every 15 minutes)
       <br>
-     </td>
-    </tr>
+<tr>
 
 
