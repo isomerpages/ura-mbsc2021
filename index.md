@@ -23,24 +23,24 @@ sections:
    - infobar:
         title: Marina Bay Singapore Countdown 2021 
         description: <p align="justify">This year, Singapore’s iconic countdown event, Marina Bay Singapore Countdown (MBSC) 2021, takes on a different format to bring people from all walks of life together to reflect on 2020 and to celebrate our hopes and aspirations for the coming year.</p>
-
+        
    - infopic:
         title: Marina Bay at a glance
         image: /images/mbscmap.jpg
         button: View Map
         url: /images/mbscmap.jpg
-        alt: Map
-
+        alt: Map 
+        
    - infopic:
         title: Acknowledgements
         subtitle:
         image: /images/sponsor.png
-        alt: Sponsor  
-         
+        alt: Sponsor
+
    - resources:
         title: Media
         subtitle: Learn more
-        button: View More
+        button: View More        
         
 favicon: /images/mbsc.ico
 shareicon: /images/mbsc2021.png        
