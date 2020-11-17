@@ -5,11 +5,11 @@ permalink: /shine-a-light/display-schedule/
 
 # Display Schedule for Shine a Light
 
-<table class="table-v">
+###### *Stay tuned for further details*
 
+<!-- <table class="table-v">
 <table style="width:100%">
-    
-<tr>
+    <tr>
     <td>
      <font color="tomato"><b>Shine A Light @ The Promontory</b></font>
      <br>
@@ -21,6 +21,6 @@ permalink: /shine-a-light/display-schedule/
       <br>
 (Every 15 minutes)
       <br>
-<tr>
+<tr> -->
 
 
