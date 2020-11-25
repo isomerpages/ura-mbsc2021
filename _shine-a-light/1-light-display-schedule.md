@@ -5,9 +5,7 @@ permalink: /shine-a-light/display-schedule/
 
 # Display Schedule for Shine a Light
 
-###### *Stay tuned for further details*
-
-<!-- <table class="table-v">
+<table class="table-v">
 <table style="width:100%">
     <tr>
     <td>
@@ -16,11 +14,11 @@ permalink: /shine-a-light/display-schedule/
     </td>
     <td>
       <font color="tomato">1 - 31 December 2020</font>
-      <font color="orangered"><br>8PM - 10.30PM </font>
+      <font color="orangered"><br>8pm, 8.15pm, 8.30pm, 8.45pm, 9.00pm, 9.15pm, 9.30pm, 9.45pm, 10.00pm, 10.15pm, 10.30pm</font>
       <br> 
       <br>
 (Every 15 minutes)
       <br>
-<tr> -->
+<tr>
 
 
