@@ -14,10 +14,9 @@ permalink: /shine-a-light/display-schedule/
     </td>
     <td>
       <font color="tomato">1 - 31 December 2020</font>
-      <font color="orangered"><br>8pm, 8.15pm, 8.30pm, 8.45pm, 9.00pm, 9.15pm, 9.30pm, 9.45pm, 10.00pm, 10.15pm, 10.30pm</font>
+      <font color="orangered"><br>8.00pm - 10.30pm daily.<br>A 3-minute animated light sequence will play every 15 minutes, with the last show at 10.30pm.</font>
+      <font color="orangered"><br>As a safety precaution, in the event of Cat 1 situation (heavy rain and/ or lightning strikes), the light display will cease and resume only when weather conditions allow.</font>  
       <br> 
-      <br>
-(Every 15 minutes)
       <br>
 <tr>
 
