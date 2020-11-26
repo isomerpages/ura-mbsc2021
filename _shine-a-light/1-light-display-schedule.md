@@ -9,16 +9,16 @@ permalink: /shine-a-light/display-schedule/
 <table style="width:100%">
     <tr>
     <td>
-     <h3><font color="tomato"><b>Shine A Light @ The Promontory</b></font>
+     <h5><font color="tomato"><b>Shine A Light @ The Promontory</b></font></h5>
      <br>
     </td>
     <td>
-      <font color="tomato">1 - 31 December 2020</font>
+      <h5><font color="tomato">1 - 31 December 2020</font>
       <font color="orangered"><br>8.00pm - 10.30pm daily.</font>
       <br>
       <font color="orangered"><br>A 3-minute animated light sequence will play every 15 minutes, with the last show at 10.30pm.</font>
       <br>
-      <br>As a safety precaution, in the event of Cat 1 situation (heavy rain and/ or lightning strikes), the light display will cease and resume only when weather conditions allow.</h3>  
+      <br>As a safety precaution, in the event of Cat 1 situation (heavy rain and/ or lightning strikes), the light display will cease and resume only when weather conditions allow.  
       <br> 
       <br>
 <tr>
