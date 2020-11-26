@@ -9,7 +9,7 @@ permalink: /shine-a-light/display-schedule/
 <table style="width:100%">
     <tr>
     <td>
-     <font color="tomato"><b>Shine A Light @ The Promontory</b></font>
+     <h3><font color="tomato"><b>Shine A Light @ The Promontory</b></font>
      <br>
     </td>
     <td>
@@ -18,7 +18,7 @@ permalink: /shine-a-light/display-schedule/
       <br>
       <font color="orangered"><br>A 3-minute animated light sequence will play every 15 minutes, with the last show at 10.30pm.</font>
       <br>
-      <br>As a safety precaution, in the event of Cat 1 situation (heavy rain and/ or lightning strikes), the light display will cease and resume only when weather conditions allow.  
+      <br>As a safety precaution, in the event of Cat 1 situation (heavy rain and/ or lightning strikes), the light display will cease and resume only when weather conditions allow.</h3>  
       <br> 
       <br>
 <tr>
