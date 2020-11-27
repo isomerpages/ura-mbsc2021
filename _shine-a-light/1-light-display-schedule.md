@@ -18,7 +18,7 @@ permalink: /shine-a-light/display-schedule/
       <br>
       <font color="tomato"><br>A 3-minute animated light sequence will play every 15 minutes, with the last show at 10.30pm.</font>
       <br>
-      <br>As a safety precaution, in the event of Cat 1 situation (heavy rain and/ or lightning strikes), the light display will cease and resume only when weather conditions allow.  
+      <font color="tomato"><br>As a safety precaution, in the event of Cat 1 situation (heavy rain and/ or lightning strikes), the light display will cease and resume only when weather conditions allow.</font>
       <br> 
       <br>
 <tr>
