@@ -8,7 +8,7 @@ sections:
    - hero:
         title: 
         subtitle: 
-        background: /images/P2.jpg
+        background: /images/P3.jpg
         key_highlights:
             - title: SHINE A LIGHT 
               description: Light displays
