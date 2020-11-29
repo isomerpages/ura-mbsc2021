@@ -1,14 +1,14 @@
 ---
 layout: homepage
 title: Marina Bay Singapore Countdown 2021
-image: /images/P2.jpg
+image: /images/mbsc-logo.png
 permalink: /
 notification: Experience Marina Bay Singapore Countdown 2021 in a different light!
 sections:
    - hero:
         title: 
         subtitle: 
-        background: /images/mb.png
+        background: /images/P2.jpg
         key_highlights:
             - title: SHINE A LIGHT 
               description: Light displays
