@@ -27,6 +27,8 @@ sections:
    - infopic:
         title: Shine a Light 
         description: Witness 60 light beams illuminate the night sky above The Promontory for Shine a Light! Designed to symbolise unity, positivity and resilience, the display represents a guiding beacon that underpins Singapore’s spirit.
+        button: More details
+        url: /shine-a-light/overview
         image: /images/SAL.gif
         alt: Shine A Light
 
