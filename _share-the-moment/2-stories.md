@@ -9,8 +9,8 @@ permalink: /share-the-moment/stories-from-city-of-good/
     
 <tr>
     <td>
-      <br>
-      <p><a href="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/5.png?raw=true"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/1.png?raw=true" alt="Image of The Love-Aid Project"></a></p>
+      <br>  
+      <p><a target="popup"><href="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/5.png?raw=true"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/1.png?raw=true" alt="Image of The Love-Aid Project"></a></p>
       <br>
       <br> 
     </td>
