@@ -1,6 +1,6 @@
 ---
-title: Stories 
-permalink: /share-the-moment/stories/
+title: Stories from City of Good 
+permalink: /share-the-moment/stories-from-city-of-good/
 ---
 
 <table class="table-v">
