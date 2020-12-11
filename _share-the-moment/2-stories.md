@@ -16,19 +16,19 @@ permalink: /share-the-moment/stories-from-city-of-good/
     </td>
     <td>
       <br>
-      <p><a href="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/6.png?raw=true"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/2.png?raw=true" alt="Image of Project Merci"></a></p>
+      <p><a href="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/6.png?raw=true" target="popup"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/2.png?raw=true" alt="Image of Project Merci"></a></p>
       <br>
       <br>    
 <tr>
     <td>
       <br>
-      <p><a href="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/7.png?raw=true"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/3.png?raw=true" alt="Image of Patralekha Dasgupta"></a></p>
+      <p><a href="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/7.png?raw=true" target="popup"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/3.png?raw=true" alt="Image of Patralekha Dasgupta"></a></p>
       <br>
       <br> 
     </td>
     <td>
       <br>
-      <p><a href="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/8.png?raw=true"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/4.png?raw=true" alt="Image of Yvonne Zee"></a></p>
+      <p><a href="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/8.png?raw=true" target="popup"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/4.png?raw=true" alt="Image of Yvonne Zee"></a></p>
       <br>
       <br>  
      
