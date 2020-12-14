@@ -11,7 +11,7 @@ breadcrumbs: Stories from City of Good
 <tr>
     <td>
       <br>  
-      <p><img src="/images/1.png" alt="The Love-Aid Project"></p>
+      <p><a href="share-the-moment/stories-from-city-of-good/the-love-aid-project"><img src="/images/1.png" alt="The Love-Aid Project"></p>
       <br>
       <br> 
     </td>
