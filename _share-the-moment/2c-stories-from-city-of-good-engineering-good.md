@@ -1,7 +1,9 @@
 ---
+layout: leftnav-page-content
 title: Engineering Good
 permalink: /share-the-moment/stories-from-city-of-good/engineering-good
-third_nav_title: Stories from City of Good
+breadcrumb: Stories from City of Good - Engineering Good 
+second_nav_title: "Stories from City of Good"
 ---
 
 ## Engineering Good
