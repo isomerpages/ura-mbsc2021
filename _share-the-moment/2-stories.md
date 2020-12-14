@@ -3,7 +3,7 @@ title: Stories from City of Good
 permalink: /share-the-moment/stories-from-city-of-good/
 ---
 
-<table class="table-v">
+<!--<table class="table-v">
 
 <table style="width:100%">
     
@@ -30,5 +30,4 @@ permalink: /share-the-moment/stories-from-city-of-good/
       <br>
       <p><a href="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/8.png?raw=true" target="popup"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/4.png?raw=true" alt="Image of Yvonne Zee"></a></p>
       <br>
-      <br>  
-     
+      <br>-->
