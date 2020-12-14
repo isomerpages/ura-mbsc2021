@@ -4,22 +4,8 @@ permalink: /share-the-moment/stories-from-city-of-good/
 breadcrumbs: Stories from City of Good 
 ---
 
-<table class="table-v">
+![The Love-Aid Project](/images/1.png)
 
-<table style="width:100%">
-    
-<tr>
-    <td>
-      <br> 
-        ![The Love-Aid Project](/images/1.png)
-      <br>
-      <br> 
-    </td>
-    <td>
-      <br>      
-      ![PM][/images/2.png "Project Merci"]
-      [PM]: /stories-from-city-of-good/project-merci
-   
 
 <!--<table class="table-v">
 
