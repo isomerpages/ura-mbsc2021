@@ -10,9 +10,7 @@ permalink: /share-the-moment/stories-from-city-of-good/
 <tr>
     <td>
       <br> 
-![TLP][https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/1.png?raw=true "The Love-Aid Project"]
-
-[TLP]: /stories-from-city-of-good/the-love-aid-project
+        ![The Love-Aid Project](/images/1.png)
       <br>
       <br> 
     </td>
