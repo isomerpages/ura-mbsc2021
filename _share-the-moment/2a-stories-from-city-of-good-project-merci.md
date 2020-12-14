@@ -1,9 +1,7 @@
 ---
-layout: leftnav-page-content
 title: Project Merci 
 permalink: /share-the-moment/stories-from-city-of-good/project-merci
-breadcrumb: Stories from City of Good - Project Merci
-second_nav_title: "Stories from City of Good"
+third_nav_title: "Stories from City of Good"
 ---
 
 ## Project Merci
