@@ -4,17 +4,14 @@ permalink: /share-the-moment/stories-from-city-of-good/
 breadcrumbs: Stories from City of Good 
 ---
 
-![The Love-Aid Project](/images/1.png)
-
-
-<!--<table class="table-v">
+<table class="table-v">
 
 <table style="width:100%">
     
 <tr>
     <td>
       <br>  
-      <p><a href="url: /share-the-moment/stories-from-city-of-good/the-love-aid-project" target="popup"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/1.png?raw=true" alt="Image of The Love-Aid Project"></a></p>
+      <p><img src="/images/1.png" alt="The Love-Aid Project"></p>
       <br>
       <br> 
     </td>
