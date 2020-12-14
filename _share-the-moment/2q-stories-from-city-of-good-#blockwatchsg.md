@@ -4,7 +4,7 @@ permalink: /share-the-moment/stories-from-city-of-good/#blockwatchsg
 third_nav_title: Stories from City of Good
 ---
 
-## "#BlockWatchSG"
+## #BlockWatchSG
 
 Exercising kampung spirit - “TAKE CARE OF MY BLOCK" or #blockwatchSG initiative
 1) Do what we can to lighten the load of our government. This is so that our resources remain sustainable and can be focused on those who need them the most - frontline workers, the vulnerable, etc.
