@@ -3,6 +3,24 @@ title: Stories from City of Good
 permalink: /share-the-moment/stories-from-city-of-good/
 ---
 
+<table class="table-v">
+
+<table style="width:100%">
+    
+<tr>
+    <td>
+      <br> 
+      ![TLP][/images/1.png "The Love-Aid Project"]
+      [TLP]: /stories-from-city-of-good/the-love-aid-project
+      <br>
+      <br> 
+    </td>
+    <td>
+      <br>      
+      ![PM][/images/2.png "Project Merci"]
+      [PM]: /stories-from-city-of-good/project-merci
+   
+
 <!--<table class="table-v">
 
 <table style="width:100%">
