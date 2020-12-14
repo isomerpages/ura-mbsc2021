@@ -1,9 +1,7 @@
 ---
-layout: leftnav-page-content
 title: The Love-Aid Project 
 permalink: /share-the-moment/stories-from-city-of-good/the-love-aid-project
-breadcrumb: Stories from City of Good - The Love-Aid Project 
-second_nav_title: "Stories from City of Good"
+third_nav_title: "Stories from City of Good"
 ---
 
 ## <a href="https://www.theloveaidproject.org/" style="color:tomato">The Love-Aid Project</a> 
