@@ -1,6 +1,6 @@
 ---
 title: "#BlockWatchSG"
-permalink: /share-the-moment/stories-from-city-of-good/#blockwatchsg
+permalink: /share-the-moment/stories-from-city-of-good/blockwatchsg
 third_nav_title: Stories from City of Good
 ---
 
