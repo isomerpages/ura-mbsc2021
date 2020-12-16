@@ -8,10 +8,7 @@ third_nav_title: "Stories from City of Good"
 
 #### Supporting Elderly Friends at MacPherson
 
-<Image>
-  
-##### Groceries were purchased and delivered to over 30 elderly friends in the MacPherson neighbourhood, by an amazing group of volunteers. 
+Groceries were purchased and delivered to over 30 elderly friends in the MacPherson neighbourhood, by an amazing group of volunteers. 
+To support local businesses facing challenges due to COVID-19, the groceries were also purchased from the local Econ minimart!  
 
-##### To support local businesses facing challenges due to COVID-19, the groceries were also purchased from the local Econ minimart!  
-
-About us
+<sup>About us</sup>
