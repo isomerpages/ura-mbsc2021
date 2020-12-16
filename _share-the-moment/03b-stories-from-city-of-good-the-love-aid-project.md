@@ -6,6 +6,12 @@ third_nav_title: "Stories from City of Good"
 
 ## <a href="https://www.theloveaidproject.org/" style="color:tomato">The Love-Aid Project</a> 
 
-The Love-Aid Project is a community outreach initiative seeking to bring love, dignity and hope to at-risk youth & low-income families in Singapore.
+#### Supporting Elderly Friends at MacPherson
 
-Initiatives: Grocery run and delivery to elderly friends at MacPherson
+<Image>
+  
+##### Groceries were purchased and delivered to over 30 elderly friends in the MacPherson neighbourhood, by an amazing group of volunteers. 
+
+##### To support local businesses facing challenges due to COVID-19, the groceries were also purchased from the local Econ minimart!  
+
+About us
