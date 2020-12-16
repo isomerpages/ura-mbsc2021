@@ -11,7 +11,7 @@ Groceries were purchased and delivered to over 30 elderly friends in the MacPher
 
 
 <sup><b><u>About</u></b><br>
-The Love-Aid Project is a community outreach initiative seeking to bring love, dignity and hope to at-risk youth and low-income families in Singapore.</sup>
+The Love-Aid Project is a community outreach initiative seeking to bring love, dignity and hope to at-risk youth and low-income families in Singapore.
 
 <a href="http://www.theloveaidproject.org/?fbclid=IwAR0DqHvpUqJS1rxUZMsBXQRhcFdJXQVOfZhGuDYzSN_g6BeEu52UYnMKS4A" style="color:tomato">Website</a><br>
-<a href="https://www.facebook.com/theloveaidproject/" style="color:tomato">Facebook</a>
+<a href="https://www.facebook.com/theloveaidproject/" style="color:tomato">Facebook</a></sup>
