@@ -3,22 +3,6 @@ title: The Love-Aid Project
 permalink: /share-the-moment/stories-from-city-of-good/the-love-aid-project
 third_nav_title: "Stories from City of Good"
 ---
-a:link {
-  text-decoration: none;
-}
-
-a:visited {
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-a:active {
-  text-decoration: underline;
-}
-
 ## <a href="https://www.theloveaidproject.org/" style="color:tomato">The Love-Aid Project</a> 
 
 #### Supporting Elderly Friends at MacPherson
