@@ -1,3 +1,4 @@
+!<--
 ---
 title: Agape Connecting People Pte Ltd - Anil David
 permalink: /share-the-moment/stories-from-city-of-good/agape-connecting-people-pte-ltd
@@ -16,3 +17,4 @@ Anil’s efforts for the community include:
 
 
 <sup><a href="https://agape-cp.com/" style="color:tomato">Website</a></sup>
+-->
