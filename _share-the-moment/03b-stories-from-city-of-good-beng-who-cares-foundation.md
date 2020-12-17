@@ -1,3 +1,4 @@
+<!--
 ---
 title: Beng Who Cares Foundation - Jason and Zhen Long
 permalink: /share-the-moment/stories-from-city-of-good/beng-who-cares-foundation
@@ -12,3 +13,4 @@ Inspired by a friend buying food for a homeless person, Jason and Zhen Long crea
 More about Beng Who Cares Foundation: <a href="https://mothership.sg/2020/04/beng-who-cooks-covid-19/" style="color:tomato">Mothership Article</a>
 
 <sup><a href="https://www.instagram.com/bengwhocaresfoundation/" style="color:tomato">Instagram</a><br><a href="https://www.facebook.com/BengWhoCooks/" style="color:tomato">Facebook</a></sup>
+-->
