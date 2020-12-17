@@ -1,3 +1,4 @@
+<!--
 ---
 title: Benjamin Wah
 permalink: /share-the-moment/stories-from-city-of-good/benjamin-wah
@@ -11,3 +12,4 @@ Benjamin wanted to buy cotton swabs, hand sanitiser and surgical masks for his m
 
 More about Benjamin Wah: <a href="https://www.youth.gov.sg/Peek-Show/2020/2/He-spent-1500-of-his-own-money-on-face-masks-for-the-vulnerable-elderly?amp" style="color:tomato">Youth.sg</a>
 
+-->
