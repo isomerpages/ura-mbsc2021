@@ -27,6 +27,7 @@ collections:
   shine-a-light:
     output: true
     
+google_analytics: UA-56383423-1 
 resources_name: news
 
 ##################################################################################################################
