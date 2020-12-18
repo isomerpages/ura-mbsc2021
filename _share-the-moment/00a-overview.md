@@ -1,6 +1,7 @@
 ---
-title: Overview
-permalink: /share-the-moment/overview/
+title: About
+permalink: /share-the-moment/overview/about
+third_nav_title: "Overview"
 ---
 
 # Overview
