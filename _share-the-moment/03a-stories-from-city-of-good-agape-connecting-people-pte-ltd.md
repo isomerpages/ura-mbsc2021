@@ -15,5 +15,5 @@ Anil’s efforts for the community include:
 5. Provided employment opportunities including hiring ex-offenders and the physically challenged
 
 
-<sup><a href="https://agape-cp.com/" style="color:tomato">Website</a></sup>
+<sup>For more information about Agape Connecting People Pte Ltd,<a href="https://agape-cp.com/" style="color:tomato">click here.</a></sup>
 
