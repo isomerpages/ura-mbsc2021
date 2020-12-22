@@ -47,16 +47,17 @@ sections:
         url: /images/mbscmap.jpg
         alt: Map 
 
-   - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More  
-
    - infopic:
         title: Acknowledgements
         subtitle:
         image: /images/sponsor.png
         alt: Sponsor
+
+   - resources:
+        title: Media
+        subtitle: Learn more
+        button: View More  
+
       
         
 favicon: /images/mbsc.ico
