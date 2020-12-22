@@ -17,7 +17,7 @@ permalink: /share-the-moment/projection-show-schedule/
       <font color="tomato"><br>8.00pm - 10.30pm daily (extended to 11.45pm on 31 December)</font>
       <br>
       <br>
-      <font color="tomato"><br>A 5-minute animated projection show will play every 15 minutes, with the last show at 10.30pm (last show at 11.45pm on 31 December).</font></h5>
+      <font color="tomato"><br>A 5-minute animated light projection show will play every 15 minutes, with the last show at 10.30pm (last show at 11.45pm on 31 December).</font></h5>
       <br>
 <tr>
     <td>
@@ -29,7 +29,7 @@ permalink: /share-the-moment/projection-show-schedule/
       <font color="tomato"><br>8.00pm - 10.30pm daily (extended to 11.45pm on 31 December)</font>
      <br>
       <br>
-      <font color="tomato"><br>A 5-minute animated projection show will play every 15 minutes, with the last show at 10.30pm (last show at 11.45pm on 31 December).</font></h5>
+      <font color="tomato"><br>A 5-minute animated light projection show will play every 15 minutes, with the last show at 10.30pm (last show at 11.45pm on 31 December).</font></h5>
       <br>
 <tr>
 
