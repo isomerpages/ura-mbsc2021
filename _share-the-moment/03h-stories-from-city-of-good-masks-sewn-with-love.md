@@ -5,6 +5,6 @@ third_nav_title: "Stories from City of Good"
 ---
 ## Masks Sewn with Love
 
-"Masks Sewn with Love" is a community project where volunteers sewed reusable cloth masks at home, including masks for children, and these could be given to family members or donated to those in need.
+Masks Sewn with Love is a community project to sew reusable cloth masks for the community by the community (of volunteers) and these masks are then distributed free to the vulnerable groups in shelters and homes; cleaners and domestic helpers; and vulnerable kids and their families. We have also shared these masks sewn with love to our frontline heroes in recognition of their dedicated service during this challenging period.<br><br>This initiative is in collaboration with the PA WIN Council and the Centre for Domestic Employees.
 
-<sup><b><u>About</u></b><br>Masks Sewn with Love is a community project to sew reusable cloth masks for the community by the community (of volunteers) and these masks are then distributed free to the vulnerable groups in shelters and homes; cleaners and domestic helpers; and vulnerable kids and their families. We have also shared these masks sewn with love to our frontline heroes in recognition of their dedicated service during this challenging period.<br><br>This initiative is in collaboration with the PA WIN Council and the Centre for Domestic Employees.<br><br>For more information about Masks Sewn with Love, <a href="https://www.facebook.com/groups/MasksSewnWithLove/" style="color:tomato">click here.</a></sup>
+<sup>For more information about Masks Sewn with Love, <a href="https://www.facebook.com/groups/MasksSewnWithLove/" style="color:tomato">click here.</a></sup>
