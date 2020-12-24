@@ -1,5 +1,5 @@
 ---
-title: #BlockWatchSG
+title: "#BlockWatchSG"
 permalink: /share-the-moment/stories-from-city-of-good/blockwatch-sg
 third_nav_title: "Stories from City of Good"
 ---
