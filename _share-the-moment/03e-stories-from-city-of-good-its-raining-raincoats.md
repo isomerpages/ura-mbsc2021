@@ -11,8 +11,8 @@ ItsRainingRaincoats has been arranging for thousands of meals; provision of care
 <br>
 <br>
 They have also helped in raising funds for the families of migrant workers who lost their lives in Singapore this year as well as for migrant workers who had terminal illnesses. They also appealed for baby items for the pregnant wife of a Bangladeshi worker who had contracted COVID-19 and was in critical condition in the ICU.
-
-
+<br>
+<br>
 <sup><b><u>About</u></b><br>
 Founded in 2015, ItsRainingRaincoats is a simple initiative that aims to spread recognition and compassion towards the migrant workers of Singapore. 
 <br>
