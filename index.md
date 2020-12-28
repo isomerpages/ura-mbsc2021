@@ -37,7 +37,7 @@ sections:
         description: A joint initiative with Community Partner, National Volunteer and Philanthropy Centre (NVPC), the Share the Moment campaign is a community engagement project that showcases co-created artworks through projection mapping sequences on iconic facades in Marina Bay. Through these projection shows, we hope to celebrate the selflessness and resilience of the community, and continue to nurture the spirit of giving in the year ahead.
         button: More details
         url: /share-the-moment/overview/about
-        image: /images/STM.gif
+        image: /images/stm2.gif
         alt: Share the Moment
 
    - infopic:
