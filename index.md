@@ -3,7 +3,7 @@ layout: homepage
 title: Marina Bay Singapore Countdown 2021
 image: /images/mbsc-logo.png
 permalink: /
-notification: Experience Marina Bay Singapore Countdown 2021 in a different light!
+notification: There will be no fireworks display at Marina Bay on New Year’s Eve.
 sections:
    - hero:
         title: 
