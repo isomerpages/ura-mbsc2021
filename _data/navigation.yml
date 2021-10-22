@@ -1,26 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/mbsc-logo.png
-
+logo: /images/mbsc22.png
 links:
   - title: About
     collection: about
-    
   - title: Shine a Light
     collection: shine-a-light
-    
   - title: Share the Moment
     collection: share-the-moment
-    
   - title: Heartland Fireworks
     url: /heartland-fireworks
-    
   - title: FAQ
     url: /faq/
-    
   - title: News
-    resource_room: true 
+    resource_room: true
