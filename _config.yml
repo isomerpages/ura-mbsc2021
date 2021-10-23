@@ -3,7 +3,7 @@ url: https://www.marinabaycountdown.gov.sg/
 favicon: /images/mbsc.ico
 colors:
   primary-color: "#a94298"
-  secondary-color: "#d0021b"
+  secondary-color: "#089390"
   media-colors:
     - title: media-color-one
       color: "#f8e71c"
