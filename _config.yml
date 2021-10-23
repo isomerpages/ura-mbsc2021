@@ -1,4 +1,4 @@
-title: MBSC2021
+title: MBSC2022
 url: https://www.marinabaycountdown.gov.sg/
 favicon: /images/mbsc.ico
 colors:
@@ -56,4 +56,4 @@ plugins:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
+description: Marina Bay Singapore Countdown 2022
