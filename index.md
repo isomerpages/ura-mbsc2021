@@ -6,8 +6,6 @@ permalink: /
 notification: There will be no fireworks display at Marina Bay on New Year’s Eve.
 sections:
   - hero:
-      title: null
-      subtitle: null
       background: /images/P5.jpg
       key_highlights:
         - title: SHINE A LIGHT
@@ -56,7 +54,6 @@ sections:
       alt: Map
   - infopic:
       title: Acknowledgements
-      subtitle: null
       image: /images/sponsor.png
       alt: Sponsor
   - resources:
