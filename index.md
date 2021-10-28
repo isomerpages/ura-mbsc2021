@@ -7,7 +7,7 @@ notification: There will be no fireworks display at Marina Bay on New Year’s E
 sections:
   - hero:
       background: /images/P5.jpg
-      key_highlights:
+      # key_highlights:
         - title: SHINE A LIGHT
           description: Light displays
           url: /shine-a-light/display-schedule/
