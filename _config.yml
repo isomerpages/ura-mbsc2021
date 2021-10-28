@@ -1,21 +1,21 @@
-title: '#MBSC2022'
-url: "https://www.marinabaycountdown.sg" 
+title: "#MBSC2022"
+url: https://www.marinabaycountdown.sg
 logo: /images/MBSC2020logo-170x50.svg
 favicon: /images/mbsc2022.ico
 colors:
-  primary-color: "#eb5f00"
-  secondary-color: "#eb5f00"
+  primary-color: "#0a9390"
+  secondary-color: "#ac439b"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#f5a623"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#4ae2de"
     - title: media-color-three
-      color: "#00838f"
+      color: "#9b9b9b"
     - title: media-color-four
-      color: "#00838f"
+      color: "#f8e71c"
     - title: media-color-five
-      color: "#00838f"
+      color: "#b8e986"
 resources_name: news
 permalink: none
 baseurl: ""
