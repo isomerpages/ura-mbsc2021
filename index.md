@@ -6,20 +6,14 @@ image: /images/mbsc22.png
 permalink: /
 notification: Stay tuned for more information!
 sections:
-   - hero:
-        title: 
-        subtitle: 
-        background: /images/P5.jpg
-
-   - infopic:
-        title: Sponsors
-        subtitle:
-        image: /images/sponsor2022.png
-        alt: Sponsor  
-
-   - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
-        
+  - hero:
+      background: /images/P5.jpg
+  - infopic:
+      title: Sponsors
+      image: /images/sponsor2022a.png
+      alt: Sponsor
+  - resources:
+      title: Media
+      subtitle: Learn more
+      button: View More
 ---
