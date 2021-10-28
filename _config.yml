@@ -4,19 +4,18 @@ logo: /images/MBSC2020logo-170x50.svg
 favicon: /images/mbsc2022.ico
 
 colors:
-  primary-color: "#ac439b"
-  secondary-color: "#0a9390"
+  primary-color: "#bb1b31"
+  secondary-color: "#ed7826"
   media-colors:
     - title: media-color-one
-      color: "#f8e71c"
+      color: "#49759a"
     - title: media-color-two
-      color: "#ad439c"
+      color: "#744d9f"
     - title: media-color-three
-      color: "#f5a623"
+      color: "#00838f"
     - title: media-color-four
-      color: "#4ae2de"
+      color: "#00838f"
     - title: media-color-five
-      color: "#9b9b9b"
   
 google_analytics: UA-56383423-1
 
