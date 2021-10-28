@@ -1,8 +1,5 @@
 logo: /images/mbsc22.png
+
 links:
-  - title: Heartland Fireworks
-    url: /heartland-fireworks
-  - title: FAQ
-    url: /faq/
-  - title: News
-    resource_room: true
+  - title: Test
+    url: /test/
