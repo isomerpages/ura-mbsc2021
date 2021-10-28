@@ -7,16 +7,7 @@ notification: There will be no fireworks display at Marina Bay on New Year’s E
 sections:
   - hero:
       background: /images/P5.jpg
-      # key_highlights:
-        # - title: SHINE A LIGHT
-          description: Light displays
-          url: /shine-a-light/display-schedule/
-        # - title: SHARE THE MOMENT
-          description: Light projection shows
-          url: /share-the-moment/projection-show-schedule/
-        # - title: NEW YEAR’S EVE FIREWORKS
-          description: In the heartlands
-          url: /heartland-fireworks/
+
   - infobar:
       title: Marina Bay Singapore Countdown 2022
       description: <p align="justify">This year, Singapore’s iconic countdown event,
