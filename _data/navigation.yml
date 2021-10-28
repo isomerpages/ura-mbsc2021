@@ -1,6 +1,6 @@
 logo: /images/mbsc22.png
 links:
-  - title: About
+  # - title: About
     collection: about
   # - title: Shine a Light
     collection: shine-a-light
