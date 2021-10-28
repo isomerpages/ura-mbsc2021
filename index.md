@@ -15,8 +15,4 @@ sections:
       image: /images/sponsor2022a.png
       alt: Sponsor
       
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
