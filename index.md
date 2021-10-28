@@ -8,13 +8,13 @@ sections:
   - hero:
       background: /images/P5.jpg
       # key_highlights:
-        - title: SHINE A LIGHT
+        # - title: SHINE A LIGHT
           description: Light displays
           url: /shine-a-light/display-schedule/
-        - title: SHARE THE MOMENT
+        # - title: SHARE THE MOMENT
           description: Light projection shows
           url: /share-the-moment/projection-show-schedule/
-        - title: NEW YEAR’S EVE FIREWORKS
+        # - title: NEW YEAR’S EVE FIREWORKS
           description: In the heartlands
           url: /heartland-fireworks/
   - infobar:
