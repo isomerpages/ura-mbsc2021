@@ -9,7 +9,7 @@ sections:
    - hero:
         title: 
         subtitle: 
-        background: /images/P5.png
+        background: /images/P5.jpg
 
    - infopic:
         title: Sponsors
