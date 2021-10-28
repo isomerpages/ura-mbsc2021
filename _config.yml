@@ -16,6 +16,7 @@ colors:
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
+      color: "#00838f"
   
 google_analytics: UA-56383423-1
 
