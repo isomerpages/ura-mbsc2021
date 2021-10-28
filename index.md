@@ -14,7 +14,7 @@ sections:
    - infopic:
         title: Sponsors
         subtitle:
-        image: /images/sponsor.png
+        image: /images/sponsor2022.png
         alt: Sponsor  
 
    - resources:
