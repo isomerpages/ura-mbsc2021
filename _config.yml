@@ -2,10 +2,9 @@ title: '#MBSC2022'
 url: "https://www.marinabaycountdown.sg" 
 logo: /images/MBSC2020logo-170x50.svg
 favicon: /images/mbsc2022.ico
-
 colors:
-  primary-color: "#bb1b31"
-  secondary-color: "#ed7826"
+  primary-color: "#eb5f00"
+  secondary-color: "#eb5f00"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -17,9 +16,6 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-  
-google_analytics: UA-56383423-1
-
 resources_name: news
 permalink: none
 baseurl: ""
@@ -53,5 +49,7 @@ plugins:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: Marina Bay Singapore Countdown 2022
-
+  - jekyll-remote-theme
+staging: https://ura-mbsc2021-staging.netlify.app/
+prod: https://ura-mbsc2021-prod.netlify.app
+google_analytics: UA-56383423-1
