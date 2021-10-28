@@ -9,10 +9,8 @@ sections:
       background: /images/P5.jpg
       title: Coming Soon
       subtitle: Stay tuned for more information!
-      
   - infopic:
       title: Sponsors
       image: /images/sponsor2022a.png
       alt: Sponsor
-      
 ---
