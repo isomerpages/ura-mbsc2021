@@ -12,7 +12,7 @@ sections:
         background: /images/P5.jpg
        
     - infopic:
-        title: Sponsors
+        title: Acknowledgements 
         image: /images/sponsor2022.png
         alt: Sponsor
         
