@@ -12,3 +12,8 @@ sections:
       title: Acknowledgements
       image: /images/sponsor2022.png
       alt: Sponsor
+ 
+favicon: /images/mbsc.ico
+shareicon: /images/mbsc2021.png
+description: Marina Bay Singapore Countdown 2022
+---
