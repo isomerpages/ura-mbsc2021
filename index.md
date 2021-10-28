@@ -10,7 +10,7 @@ sections:
       
   - infopic:
       title: Acknowledgements
-      image: /images/sponsor.png
+      image: /images/sponsor2022.png
       alt: Sponsor
       
   - resources:
