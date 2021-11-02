@@ -10,6 +10,12 @@ sections:
       title: Coming Soon
       subtitle: Stay tuned for more information!
       background: /images/P5.jpg
+
+      key_highlights:
+        - title: NEW YEAR'S EVE FIREWORKS
+          description: In the heartlands
+          url: /heartland-fireworks/
+      
   - infopic:
       title: Acknowledgements
       image: /images/sponsor2022a.png
