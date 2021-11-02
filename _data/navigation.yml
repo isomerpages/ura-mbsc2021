@@ -2,9 +2,9 @@ logo: /images/mbsc22.png
 
 links:
   - title: About
-    url: /about/
+    collection: about
   - title: FAQ
     url: /faq/ 
   - title: News
-    url: /news/
+    resource_room: true
    
