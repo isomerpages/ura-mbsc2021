@@ -44,13 +44,15 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+staging: https://ura-mbsc2021-staging.netlify.app/
+prod: https://ura-mbsc2021-prod.netlify.app
+google_analytics: UA-56383423-1
+description: ''
+staging: https://ura-mbsc2021-staging.netlify.app/
+prod: https://ura-mbsc2021-prod.netlify.app/
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://ura-mbsc2021-staging.netlify.app/
-prod: https://ura-mbsc2021-prod.netlify.app
-google_analytics: UA-56383423-1
-description: ''
