@@ -9,6 +9,4 @@ layout: post
 # **Marina Bay Singapore Countdown 2021 Media Release**
 22nd December 2020
 <br>
-[PDF][pdf]
-
-[pdf]: /news/files/21MR.pdf/
+[PDF](/files/21MR.pdf)
