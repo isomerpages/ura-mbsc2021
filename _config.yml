@@ -1,9 +1,9 @@
 title: "#MBSC2022"
-url: "https://www.marinabaycountdown.sg"
+url: https://www.marinabaycountdown.sg
 logo: /images/MBSC2020logo-170x50.svg
 favicon: /images/mbsc2022.ico
 colors:
-  primary-color: "#ac439b"
+  primary-color: "#ad439c"
   secondary-color: "#0a9390"
   media-colors:
     - title: media-color-one
@@ -47,7 +47,7 @@ safe: false
 staging: https://ura-mbsc2021-staging.netlify.app/
 prod: https://ura-mbsc2021-prod.netlify.app
 google_analytics: UA-56383423-1
-description: ''
+description: ""
 plugins:
   - jekyll-feed
   - jekyll-assets
