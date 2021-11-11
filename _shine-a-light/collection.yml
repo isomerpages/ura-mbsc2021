@@ -1,0 +1,6 @@
+collections:
+  shine-a-light:
+    output: true
+    order:
+      - overview.md
+      - display-schedule.md
