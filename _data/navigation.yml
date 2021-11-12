@@ -1,2 +1,4 @@
 logo: /images/mbsc22.png
-links: []
+links:
+  - title: About
+    url: /about
