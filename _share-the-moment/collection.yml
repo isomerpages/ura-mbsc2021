@@ -1,0 +1,24 @@
+collections:
+  share-the-moment:
+    output: true
+    order:
+      - overview/.keep
+      - overview/about.md
+      - overview/community-partner-nvpc.md
+      - projection-show-schedule.md
+      - partner-schools.md
+      - stories-from-city-of-good/.keep
+      - stories-from-city-of-good/agape-connecting-people-pte-ltd-anil-david.md
+      - stories-from-city-of-good/beng-who-cares-foundation.md
+      - stories-from-city-of-good/benjamin-wah.md
+      - stories-from-city-of-good/contribute-sg.md
+      - stories-from-city-of-good/itsrainingraincoats.md
+      - stories-from-city-of-good/43-bakers.md
+      - stories-from-city-of-good/little-changemakers.md
+      - stories-from-city-of-good/masks-sewn-with-love.md
+      - stories-from-city-of-good/project-awareness.md
+      - stories-from-city-of-good/project-merci.md
+      - stories-from-city-of-good/project-wellness.md
+      - stories-from-city-of-good/the-simple-deed.md
+      - stories-from-city-of-good/the-social-kitchen.md
+      - stories-from-city-of-good/blockwatchsg.md
