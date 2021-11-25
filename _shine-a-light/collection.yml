@@ -2,5 +2,6 @@ collections:
   shine-a-light:
     output: true
     order:
+      - test page.md
       - overview.md
       - display-schedule.md
