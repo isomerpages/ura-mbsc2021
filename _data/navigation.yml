@@ -1,4 +1,12 @@
 logo: /images/mbsc22.png
 links:
   - title: About
-    url: /about
+    collection: about
+  - title: Shine a Light
+    collection: shine-a-light
+  - title: Share the Moment
+    collection: share-the-moment
+  - title: FAQ
+    url: /faq
+  - title: News
+    resource_room: true
