@@ -22,9 +22,11 @@ permalink: /shine-a-light/display-schedule/
       <br> 
       <br>			
 			<tr>
+<caption style="text-align:left">From 1 to 31 December, the 2-minute animation will feature hues of the respective weekly programme colours within the light choreography.</caption>							
 				
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
+
+	.tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -33,6 +35,7 @@ permalink: /shine-a-light/display-schedule/
 .tg .tg-3x3l{color:#a94198;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
+
 <thead>
   <tr>
     <th class="tg-t8gw">Dates</th>
