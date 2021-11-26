@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - overview.md
-      - Overview/.keep
+      - Funds/.keep
       - The Majurity Trust .md
       - display-schedule.md
       - Funds Supported through the Shine a Light Campaign.md
