@@ -2,13 +2,13 @@ collections:
   share-the-moment:
     output: true
     order:
-      - Stories from PVPA Nominees/blockwatchsg.md
-      - Stories from PVPA Nominees/.keep
       - overview/.keep
       - overview/about.md
       - overview/community-partner-nvpc.md
       - projection-show-schedule.md
       - partner-schools.md
+      - Stories from PVPA Nominees/.keep
+      - Stories from PVPA Nominees/blockwatchsg.md
       - Stories From City of Good/.keep
       - Stories From City of Good/beng-who-cares-foundation.md
       - Stories From City of Good/benjamin-wah.md
