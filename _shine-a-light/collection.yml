@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - overview.md
+      - Funds/Scaffold.md
       - Funds/TMT General.md
       - Funds/.keep
       - Funds/Singapore Strong.md
