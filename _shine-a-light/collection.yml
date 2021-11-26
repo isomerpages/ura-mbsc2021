@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - overview.md
+      - Funds/Musim Mas BlueStar.md
       - Funds/Scaffold.md
       - Funds/TMT General.md
       - Funds/.keep
