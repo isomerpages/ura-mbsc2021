@@ -3,7 +3,7 @@ title: test page
 permalink: /shine-a-light/test
 description: ""
 ---
-# Display Schedule for Shine a Light
+# Funds Supported through the Shine a Light Campaign
 
 <table class="table-v">
 <table style="width:100%">
@@ -25,4 +25,4 @@ description: ""
 			<h5><font color="darkcyan">Test Column </font>
       <font color="darkcyan"><br>8.00pm - 10.30pm daily (extended to 11.45pm on 31 December)</font>
      <br>
-    </h5>	
+    </h5>
