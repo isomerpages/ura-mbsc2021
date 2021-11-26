@@ -20,5 +20,7 @@ permalink: /shine-a-light/display-schedule/
       <br>
       <small><font color="darkcyan"><br>Note: As a safety precaution, in the event of Cat 1 situation (heavy rain and/ or lightning strikes), the light display will cease and resume only when weather conditions allow.</font></small>
       <br> 
-      <br>
-<tr>
+      <br>			
+			<tr>
+				
+
