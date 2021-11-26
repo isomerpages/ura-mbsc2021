@@ -2,7 +2,7 @@ collections:
   shine-a-light:
     output: true
     order:
-      - The Majurity Trust .md
-      - test page.md
       - overview.md
+      - The Majurity Trust .md
       - display-schedule.md
+      - test page.md
