@@ -1,5 +1,5 @@
 ---
-title: Community Partner - NVPC
+title: Community Partner - National Volunteer & Philanthropy Centre
 permalink: /share-the-moment/overview/community-partner
 third_nav_title: "Overview"
 ---
