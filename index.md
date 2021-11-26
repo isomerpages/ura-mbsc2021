@@ -13,13 +13,13 @@ sections:
       key_highlights:
         - title: Shine a Light
           description: 1 to 31 December 2021
-          url: /shine-a-light/
+          url: /shine-a-light/overview/
         - title: Waterfront Promenade light Installation
           description: 1 to 31 December 2021
           url: /waterfront-promenade/
         - title: "Share the Moment "
           description: 26 to 31 December 2021
-          url: /share-the-moment/
+          url: /share-the-moment/overview/
   - infobar:
       title: MBSC 2022
       description: "This year, Singapore’s iconic countdown event, Marina Bay
