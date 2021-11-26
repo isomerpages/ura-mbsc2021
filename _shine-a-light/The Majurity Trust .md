@@ -1,5 +1,5 @@
 ---
-title: "The Majurity Trust "
+title: Community Partner - The Majurity Trust
 permalink: /shine-a-light/tmt
 description: ""
 ---
