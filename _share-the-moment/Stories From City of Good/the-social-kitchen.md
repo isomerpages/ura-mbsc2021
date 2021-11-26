@@ -1,14 +1,12 @@
 ---
-title: The Social Kitchen
-permalink: /share-the-moment/stories-from-city-of-good/the-social-kitchen
+title: Abhishek Bajaj
+permalink: /share-the-moment/stories-from-city-of-good/ahbishek-bajaj
 third_nav_title: Stories From City of Good
 ---
 
 
-## The Social Kitchen
+## Abhishek Bajaj
 
-#### Project Makan
+Abishek Bajaj is the co-founder of 6th Sense, a volunteer-run, ground-up initiative that has been serving children living at the Public Rental Scheme flats of Kebun Baru since 2019. 
 
-Project Makan is a collaboration between The Social Kitchen and their partners YMCA and SHINE Children and Youth Services to provide meals to thousands of families in Singapore during the Circuit Breaker period. Project Makan committed to send 1,200 meals per day to children and families in need until 4 May.  
-
-<sup><b><u>About</u></b><br>The Social Kitchen enables F&B companies to be profitable and to create employment for disadvantaged persons through the setting up of cloud kitchens provided by Community Partners. Our Vision is to be the largest employer of people with special needs.<br><br>For more information about The Social Kitchen, <a href="http://www.thesocialkitchen.com.sg/" style="color:tomato">click here.</a></sup>
+At 6th Sense, we believe in seeing each person develop holistically, living a life of purpose, balance and meaning. Our focus is on playing an enabling role in the community, for the children to achieve their goals and dreams. The team conducts fortnightly Saturday evening sessions, creating art that is often inspired by nature or building upon the child's inspiration. We further immerse ourselves in free play around the HDB blocks, playing block catching, or visiting parks such as the Bishan-Ang Mo Kio Park.
