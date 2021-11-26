@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - overview.md
-      - Funds/Silver is Gold.md
-      - Funds/Singapore Strong.md
       - Funds/.keep
+      - Funds/Singapore Strong.md
+      - Funds/Silver is Gold.md
       - The Majurity Trust .md
       - display-schedule.md
