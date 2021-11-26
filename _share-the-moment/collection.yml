@@ -2,6 +2,7 @@ collections:
   share-the-moment:
     output: true
     order:
+      - Stories from PVPA Nominees/blockwatchsg.md
       - Stories from PVPA Nominees/.keep
       - overview/.keep
       - overview/about.md
