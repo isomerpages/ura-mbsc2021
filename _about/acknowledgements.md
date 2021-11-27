@@ -32,21 +32,21 @@ breadcrumb: Acknowledgments
     <td>
       <h4 style="color:white;">.</h4>
       <br>
-      <p><a href="https://cityofgood.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/nvpc.JPEG?raw=true" alt="Image of nvpc Logo"></a></p>
+      <p><a href="https://www.visitsingapore.com/en/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/sgp.JPEG?raw=true" alt="Image of Sg Made Possible Logo"></a></p>
       <br>
       <br>    
 <tr>
     <td>
       <h4>Community Partners</h4>
       <br>
-      <p><a href="https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Marina-Bay"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/mbl.JPEG?raw=true" alt="Image of MBS Logo"></a></p>
+      <p><a href="https://cityofgood.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/COG.JPEG?raw=true" alt="Image of NVPC Logo"></a></p>
       <br>
       <br> 
     </td>
     <td>
       <h4 style="color:white;">.</h4>
       <br>
-      <p><a href="https://cityofgood.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/nvpc.JPEG?raw=true" alt="Image of nvpc Logo"></a></p>
+      <p><a href="https://www.majurity.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/TMT.JPEG?raw=true" alt="Image of The Majurity Trust Logo"></a></p>
       <br>
       <br>
 <tr>			
@@ -56,5 +56,11 @@ breadcrumb: Acknowledgments
       <p><a href="https://www.marinabaysands.com/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/mbsh.JPEG?raw=true" alt="Image of MBS hotel Logo"></a></p>
       <br>
       <br> 
-    </td>
+    </td>	
     <td>
+      <h4>In Support of</h4>
+      <br>
+      <p><a href="http://www.aux.com.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/SGT.JPEG?raw=true" alt="Image of SG Together Logo"></a></p>
+      <br>
+      <br>    
+<tr>
