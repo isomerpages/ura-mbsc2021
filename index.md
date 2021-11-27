@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Coming Soon
       subtitle: Stay tuned for more information!
-      background: /images/P5.jpg
+      background: /images/2022.jpeg
       key_highlights:
         - title: Shine a Light
           description: 1 to 31 December 2021
