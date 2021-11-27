@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview/.keep
-      - overview.md
       - Funds/.keep
       - Funds/Singapore Strong.md
       - Funds/Silver is Gold.md
