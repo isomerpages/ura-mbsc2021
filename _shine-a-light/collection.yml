@@ -2,9 +2,9 @@ collections:
   shine-a-light:
     output: true
     order:
-      - Overview/The Majurity Trust .md
-      - Overview/overview.md
       - Overview/.keep
+      - Overview/overview.md
+      - Overview/The Majurity Trust .md
       - Funds/.keep
       - Funds/Singapore Strong.md
       - Funds/Silver is Gold.md
