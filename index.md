@@ -22,7 +22,7 @@ sections:
           url: /share-the-moment/overview/
   - infopic:
       title: Shine a Light
-      description: 1 to 31 December 2021 @ The Promontory  Light display and animation
+      description: 1 to 31 December 2021 <br> @ The Promontory <br> Light display and animation
       button: More details
       url: /shine-a-light/
       alt: Image alt text
