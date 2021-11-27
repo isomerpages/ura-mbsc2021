@@ -22,7 +22,9 @@ permalink: /shine-a-light/display-schedule/
       <br> 
       <br>			
 			<tr>
-<caption style="text-align:left">From 1 to 31 December, the 2-minute animation will feature hues of the respective weekly programme colours within the light choreography.</caption>							
+			<br>
+<caption style="text-align:left">From 1 to 31 December, the 2-minute animation will feature hues of the respective weekly programme colours within the light choreography.</caption>					
+						<br>
 				
 <style type="text/css">
 
