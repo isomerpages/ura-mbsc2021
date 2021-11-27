@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - overview/.keep
-      - overview/Participating School.md
       - overview/about.md
       - overview/community-partner-nvpc.md
+      - overview/Participating School.md
       - projection-show-schedule.md
       - Stories from PVPA Nominees/.keep
       - Stories from PVPA Nominees/Overview.md
