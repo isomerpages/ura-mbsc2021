@@ -28,15 +28,8 @@ sections:
       alt: Image alt text
   - infopic:
       title: Share the Moment
-      description: A joint initiative with Community Partner, National Volunteer and
-        Philanthropy Centre (NVPC), the Share the Moment campaign is a community
-        engagement project that showcases original artworks on iconic facades in
-        Marina Bay, co-created by local students who were inspired by the
-        stories of this year’s President’s Volunteerism & Philanthropy Awards
-        nominees. These projection shows portray heartwarming moments where
-        people have come together to give their best for others in difficult
-        times and to encourage the community to carry forward this spirit of
-        giving in the year ahead.
+      description: "26 to 31 December 2021 @ The Fullerton Hotel Singapore, Merlion,
+        ArtScience Museum Projection shows "
       button: More Details
       url: /share-the-moment/
       alt: Image alt text
