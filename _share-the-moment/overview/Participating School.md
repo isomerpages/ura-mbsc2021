@@ -4,7 +4,7 @@ permalink: /share-the-moment/overview/participating-school
 description: ""
 third_nav_title: Overview
 ---
-## Collaborating Schools: 
+## Participating Schools: 
 
 ##### <a href="https://www.lasalle.edu.sg/" style="color:darkcyan">LASALLE </a> 
 
