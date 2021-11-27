@@ -1,7 +1,7 @@
 ---
 title: Acknowledgements
 permalink: /about/acknowledgements/
-breadcrumb: Acknowledgments 
+breadcrumb: Acknowledgments
 ---
 <table class="table-v">
 
@@ -30,12 +30,26 @@ breadcrumb: Acknowledgments
       <br> 
     </td>
     <td>
-      <h4>Community Partner</h4>
+      <h4 style="color:white;">.</h4>
       <br>
       <p><a href="https://cityofgood.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/nvpc.JPEG?raw=true" alt="Image of nvpc Logo"></a></p>
       <br>
       <br>    
 <tr>
+    <td>
+      <h4>Community Partners</h4>
+      <br>
+      <p><a href="https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Marina-Bay"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/mbl.JPEG?raw=true" alt="Image of MBS Logo"></a></p>
+      <br>
+      <br> 
+    </td>
+    <td>
+      <h4 style="color:white;">.</h4>
+      <br>
+      <p><a href="https://cityofgood.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/nvpc.JPEG?raw=true" alt="Image of nvpc Logo"></a></p>
+      <br>
+      <br>
+<tr>			
     <td>
       <h4>Prime Sponsor</h4>
       <br>
@@ -43,10 +57,4 @@ breadcrumb: Acknowledgments
       <br>
       <br> 
     </td>
-    <td>    
-    
-    
-    
-    
-
-       
+    <td>
