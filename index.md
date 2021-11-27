@@ -28,14 +28,14 @@ sections:
       alt: Image alt text
   - infopic:
       title: Share the Moment
-      description: "26 to 31 December 2021 @ The Fullerton Hotel Singapore, Merlion,
-        ArtScience Museum Projection shows "
+      description: "26 to 31 December 2021 <br> @ The Fullerton Hotel Singapore, Merlion,
+        ArtScience Museum <br> Projection shows "
       button: More Details
       url: /share-the-moment/
       alt: Image alt text
   - infopic:
       title: Light Installations along Marina Bay waterfront promenade
-      description: "1 to 31 December 2021 @ Marina Bay waterfront promenade Light
+      description: "1 to 31 December 2021 <br> @ Marina Bay waterfront promenade <br> Light
         installations and projection "
       button: "More Details "
       url: /waterfront-promenade/
