@@ -2,9 +2,8 @@ collections:
   share-the-moment:
     output: true
     order:
-      - The Great Singapore Give.md
-      - overview/Participating School.md
       - overview/.keep
+      - overview/Participating School.md
       - overview/about.md
       - overview/community-partner-nvpc.md
       - projection-show-schedule.md
@@ -24,3 +23,4 @@ collections:
       - Stories from PVPA Nominees/Pan Pacific Hotels Group .md
       - Stories from PVPA Nominees/Speco Singapore Pte Ltd.md
       - Stories from PVPA Nominees/YMCA of Singapore.md
+      - The Great Singapore Give.md
