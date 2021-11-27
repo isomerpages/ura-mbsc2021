@@ -60,7 +60,7 @@ breadcrumb: Acknowledgments
     <td>
       <h4>In Support of</h4>
       <br>
-      <p><a href="http://www.aux.com.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/SGT.JPEG?raw=true" alt="Image of SG Together Logo"></a></p>
+      <p><a href="https://www.singaporetogether.gov.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/SGT.JPEG?raw=true" alt="Image of SG Together Logo"></a></p>
       <br>
       <br>    
 <tr>
