@@ -44,4 +44,8 @@ sections:
       title: Acknowledgements
       image: /images/sponsor2022p.png
       alt: Sponsor
+  - infopic:
+      title: Marina Bay at a glance
+      image: /images/MAP.jpeg
+      alt: Marina Bay Map
 ---
