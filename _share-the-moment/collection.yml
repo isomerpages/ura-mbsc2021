@@ -2,6 +2,7 @@ collections:
   share-the-moment:
     output: true
     order:
+      - The Great Singapore Give.md
       - overview/Participating School.md
       - overview/.keep
       - overview/about.md
