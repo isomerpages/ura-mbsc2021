@@ -23,7 +23,7 @@ sections:
       description: 1 to 31 December 2021 <br> @ The Promontory
       button: More details
       url: /shine-a-light/overview
-      alt: Image alt text
+      alt: Shine a Light
       image: /images/sall.gif
   - infopic:
       title: Share the Moment
@@ -31,12 +31,12 @@ sections:
         Merlion, ArtScience Museum
       button: More Details
       url: /share-the-moment/overview/about
-      alt: Image alt text
+      alt: Share the Moment
       image: /images/stm2.gif
   - infopic:
       title: Light Installations along Marina Bay waterfront promenade
       description: "1 to 31 December 2021 <br> @ Marina Bay waterfront promenade "
-      alt: Image alt text
+      alt: Light Installations
       image: /images/sal22.gif
       button: More details
       url: /waterfront-promenade
