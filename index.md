@@ -14,7 +14,7 @@ sections:
           url: /shine-a-light/overview/
         - title: Waterfront Promenade light Installation
           description: 1 to 31 December 2021
-          url: /waterfront-promenade/
+          url: ""
         - title: "Share the Moment "
           description: 26 to 31 December 2021
           url: /share-the-moment/overview/about/
