@@ -24,7 +24,7 @@ sections:
       button: More details
       url: /shine-a-light/overview
       alt: Image alt text
-      image: /images/salopen.gif
+      image: /images/sall.gif
   - infopic:
       title: Share the Moment
       description: 26 to 31 December 2021 <br> @ The Fullerton Hotel Singapore,
