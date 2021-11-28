@@ -25,13 +25,13 @@ sections:
       button: More details
       url: /shine-a-light/overview
       alt: Image alt text
-      image: /images/sal22.gif
+      image: /images/sl.gif
   - infopic:
       title: Share the Moment
       description: "26 to 31 December 2021 <br> @ The Fullerton Hotel Singapore,
         Merlion, ArtScience Museum <br> Projection shows "
       button: More Details
-      url: /share-the-moment/overview
+      url: /share-the-moment/overview/about
       alt: Image alt text
       image: /images/stm2.gif
   - infopic:
@@ -39,6 +39,7 @@ sections:
       description: "1 to 31 December 2021 <br> @ Marina Bay waterfront promenade <br>
         Light installations and projection "
       alt: Image alt text
+      image: /images/sal22.gif
   - infopic:
       title: Acknowledgements
       image: /images/sponsor2022p.png
