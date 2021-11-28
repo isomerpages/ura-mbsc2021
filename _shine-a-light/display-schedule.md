@@ -12,7 +12,7 @@ permalink: /shine-a-light/display-schedule/
      <br>
     </td>
     <td>
-      <h5><font color="darkcyan">1 - 31 December 2021</font>
+      <h5><font color="darkcyan">1 December 2021</font><br><font color="darkcyan">8.45pm – 10.30pm </font><br><br><font color="darkcyan">2 - 31 December 2021</font>
       <font color="darkcyan"><br>8.00pm - 10.30pm daily (extended to 11.45pm on 31 December)</font>
       <br>
       <br>
