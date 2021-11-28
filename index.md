@@ -20,26 +20,26 @@ sections:
           url: /share-the-moment/overview/about/
   - infopic:
       title: Shine a Light
-      description: 1 to 31 December 2021 <br> @ The Promontory <br> Light display and
-        animation
+      description: 1 to 31 December 2021 <br> @ The Promontory
       button: More details
       url: /shine-a-light/overview
       alt: Image alt text
       image: /images/salopen.gif
   - infopic:
       title: Share the Moment
-      description: "26 to 31 December 2021 <br> @ The Fullerton Hotel Singapore,
-        Merlion, ArtScience Museum <br> Projection shows "
+      description: 26 to 31 December 2021 <br> @ The Fullerton Hotel Singapore,
+        Merlion, ArtScience Museum
       button: More Details
       url: /share-the-moment/overview/about
       alt: Image alt text
       image: /images/stm2.gif
   - infopic:
       title: Light Installations along Marina Bay waterfront promenade
-      description: "1 to 31 December 2021 <br> @ Marina Bay waterfront promenade <br>
-        Light installations and projection "
+      description: "1 to 31 December 2021 <br> @ Marina Bay waterfront promenade "
       alt: Image alt text
       image: /images/sal22.gif
+      button: More details
+      url: /waterfront-promenade
   - infopic:
       title: Acknowledgements
       image: /images/sponsor2022p.png
