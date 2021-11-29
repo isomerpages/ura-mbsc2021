@@ -40,7 +40,7 @@ sections:
       url: /waterfront-promenade
   - infopic:
       title: Acknowledgements
-      image: /images/sponsor2022p.png
+      image: /images/ack.png
       alt: Sponsor
   - infopic:
       title: Marina Bay at a glance
