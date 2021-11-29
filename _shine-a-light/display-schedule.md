@@ -24,7 +24,9 @@ permalink: /shine-a-light/display-schedule/
 </td>
 </tr>
 <tr>
-<td style="width: 123.719px;" colspan="2"><font color="darkcyan">From 1 to 31 December, the 2-minute animation will feature hues of the respective weekly programme colours within the light choreography.</td>
+<td style="width: 123.719px;" colspan="2"><h5><font color="darkcyan">From 1 to 31 December, the 2-minute animation will feature hues of the respective weekly programme colours within the light choreography.
+	
+</td>
 </tr>
 </tbody>
 </table>
