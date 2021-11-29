@@ -12,7 +12,7 @@ sections:
         - title: Shine a Light
           description: 1 to 31 December 2021
           url: /shine-a-light/overview/
-        - title: Waterfront Promenade light Installation
+        - title: Waterfront Promenade light Installations
           description: 1 to 31 December 2021
           url: /waterfront-promenade
         - title: "Share the Moment "
@@ -34,7 +34,7 @@ sections:
       alt: Share the Moment
       image: /images/stm2.gif
   - infobar:
-      title: Light Installations along Marina Bay waterfront promenade
+      title: Waterfront Promenade Light Installations
       description: "1 to 31 December 2021 <br> @ Marina Bay waterfront promenade "
       button: More Details
       url: /waterfront-promenade
