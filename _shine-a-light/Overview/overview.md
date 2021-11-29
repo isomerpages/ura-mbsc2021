@@ -3,7 +3,7 @@ title: Overview
 permalink: /shine-a-light/overview/
 third_nav_title: Overview
 ---
-# Overview
+
 
 ![SAL](/images/overview.jpeg "Shine a Light")
 
