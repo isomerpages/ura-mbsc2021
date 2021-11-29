@@ -30,7 +30,7 @@ permalink: /shine-a-light/display-schedule/
 </tr>
 <tr>
 <td style="width: 537.984px;" colspan="2">
-<table style="border-collapse: collapse; width: 100%; height: 126px;" border="1">
+<table style="height: 126px; width: 100%; border-collapse: collapse; border-style: hidden;" border="0">
 <tbody>
 <tr style="height: 36px;">
 <td style="width: 25%; height: 36px;"><strong>Dates</strong></td>
