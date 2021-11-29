@@ -23,66 +23,55 @@ permalink: /shine-a-light/display-schedule/
 <div>&nbsp;</div>
 </td>
 </tr>
-<tr>
-<td style="width: 123.719px;" colspan="2"><h5><font color="darkcyan">From 1 to 31 December, the 2-minute animation will feature hues of the respective weekly programme colours within the light choreography.
-	
+<tr style="height: 69px;">
+<td style="height: 69px;" colspan="2">
+<h5><span style="color: darkcyan;"> From 1 to 31 December, the 2-minute animation will feature hues of the respective weekly programme colours within the light choreography. </span></h5>
 </td>
+</tr>
+<tr>
+<td style="width: 537.984px;" colspan="2">
+<table style="border-collapse: collapse; width: 100%; height: 126px;" border="1">
+<tbody>
+<tr style="height: 36px;">
+<td style="width: 25%; height: 36px;"><strong>Dates</strong></td>
+<td style="width: 25%; height: 36px;"><strong>Colour</strong></td>
+<td style="width: 25%; height: 36px;"><strong>Highlight of the Week</strong></td>
+<td style="width: 25%; height: 36px;"><strong>Beneficiaries</strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 25%; height: 18px;">1 - 7 Dec</td>
+<td style="width: 25%; height: 18px;">White</td>
+<td style="width: 25%; height: 18px;">Singapore Strong</td>
+<td style="width: 25%; height: 18px;">Vulnerable communities</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 25%; height: 18px;">8 - 14 Dec</td>
+<td style="width: 25%; height: 18px;">Yellow</td>
+<td style="width: 25%; height: 18px;">Silver is Gold</td>
+<td class="tg-3x3l" style="width: 25%;">Elderly with dementia</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 25%; height: 18px;">15 - 21 Dec</td>
+<td style="width: 25%; height: 18px;">Amber</td>
+<td style="width: 25%; height: 18px;">Scaffold</td>
+<td style="width: 25%; height: 18px;">Migrant workers</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 25%; height: 18px;">22 - 28 Dec</td>
+<td style="width: 25%; height: 18px;">Cyan</td>
+<td class="tg-3x3l" style="width: 25%;">Muslim Mas BlueStar*</td>
+<td class="tg-3x3l" style="width: 25%;">Youth mental health</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 25%; height: 18px;">29 - 31 Dec</td>
+<td style="width: 25%; height: 18px;">Magenta</td>
+<td class="tg-3x3l" style="width: 25%;">Singapore Together</td>
+<td class="tg-3x3l" style="width: 25%;">Emerging needs</td>
 </tr>
 </tbody>
 </table>
-				
-				
-<style type="text/css">
-
-	.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-t8gw{color:#a94198;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-3x3l{color:#a94198;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-
-<thead>
-  <tr>
-		<br>
-    <th class="tg-t8gw">Dates</th>
-    <th class="tg-t8gw">Colour</th>
-    <th class="tg-t8gw">Highlight of the Week</th>
-    <th class="tg-t8gw">Beneficiaries</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-3x3l">1 - 7 Dec</td>
-    <td class="tg-3x3l">White</td>
-    <td class="tg-3x3l">Singapore Strong</td>
-    <td class="tg-3x3l">Vulnerable communities</td>
-  </tr>
-  <tr>
-    <td class="tg-3x3l">8 - 14 Dec</td>
-    <td class="tg-3x3l">Yellow</td>
-    <td class="tg-3x3l">Silver is Gold</td>
-    <td class="tg-3x3l">Elderly with dementia</td>
-  </tr>
-  <tr>
-    <td class="tg-3x3l">15 - 21 Dec</td>
-    <td class="tg-3x3l">Amber</td>
-    <td class="tg-3x3l">Scaffold</td>
-    <td class="tg-3x3l">Migrant workers</td>
-  </tr>
-  <tr>
-    <td class="tg-3x3l">22 - 28 Dec</td>
-    <td class="tg-3x3l">Cyan</td>
-    <td class="tg-3x3l">Muslim Mas BlueStar*</td>
-    <td class="tg-3x3l">Youth mental health</td>
-  </tr>
-  <tr>
-    <td class="tg-3x3l">29 - 31 Dec</td>
-    <td class="tg-3x3l">Magenta</td>
-    <td class="tg-3x3l">Singapore Together</td>
-    <td class="tg-3x3l">Emerging needs </td>
-  </tr>
+<h5><span style="color: darkcyan;">&nbsp;</span></h5>
+</td>
+</tr>
 </tbody>
 </table>
