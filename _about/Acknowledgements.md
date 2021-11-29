@@ -2,6 +2,7 @@
 title: Acknowledgements
 permalink: /about/acknowledgements/
 breadcrumb: Acknowledgments
+description: ""
 ---
 <table class="table-v">
 
@@ -58,7 +59,7 @@ breadcrumb: Acknowledgments
       <br> 
     </td>	
     <td>
-      <h4>In Support of</h4>
+      <h4>In support of</h4>
       <br>
       <p><a href="https://www.singaporetogether.gov.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/SGT.JPEG?raw=true" alt="Image of SG Together Logo"></a></p>
       <br>
