@@ -3,8 +3,6 @@ title: Overview
 permalink: /shine-a-light/overview/
 third_nav_title: Overview
 ---
-
-
 ![SAL](/images/overview.jpeg "Shine a Light")
 
 The Shine a Light display, which made its debut at last year’s MBSC, will return with 60 light beams in a circular formation to be projected from The Promontory. These represent strength in diversity as we rally around one another to navigate the pandemic, and shine the spotlight on frontline workers, ground-up groups, as well as charities meeting needs within our communities during these difficult times.  
