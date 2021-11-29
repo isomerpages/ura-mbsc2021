@@ -19,11 +19,9 @@ permalink: /shine-a-light/display-schedule/
       <font color="darkcyan"><br>A 2-minute animated light sequence will play every 15 minutes, with the last show at 10.30pm (last show at 11.45pm on 31 December).</font></h5>
       <br>
       <small><font color="darkcyan"><br>Note: As a safety precaution, in the event of Cat 1 situation (heavy rain and/ or lightning strikes), the light display will cease and resume only when weather conditions allow.</font></small>
-      <br> 
-      <br>			
+      <br>	
+			<h5><font color="darkcyan">From 1 to 31 December, the 2-minute animation will feature hues of the respective weekly programme colours within the light choreography.</font>
 			<tr>
-			<br>
-<caption style="text-align:left"><font color="darkcyan">From 1 to 31 December, the 2-minute animation will feature hues of the respective weekly programme colours within the light choreography.</caption>					
 						<br>
 				
 <style type="text/css">
