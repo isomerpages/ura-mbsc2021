@@ -4,7 +4,6 @@ permalink: /share-the-moment/overview/participating-school
 description: ""
 third_nav_title: Overview
 ---
-
 ## Participating Schools: 
 
 ##### <a href="https://www.lasalle.edu.sg/" style="color:darkcyan">LASALLE </a> 
@@ -19,8 +18,8 @@ third_nav_title: Overview
 
 ##### Republic Polytechnic
 
-##### Singapore Management University
+##### <a href="https://www.smu.edu.sg/" style="color:darkcyan">Singapore Management University</a>
 
 ##### Singapore University of Social Sciences
 
-##### Temasek Polytechnic
+##### <a href="https://www.tp.edu.sg/" style="color:darkcyan">Temasek Polytechnic</a>
