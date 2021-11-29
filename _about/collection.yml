@@ -2,5 +2,5 @@ collections:
   about:
     output: true
     order:
-      - marina-bay-singapore-countdown-2021.md
+      - Marina Bay Singapore Countdown 2022.md
       - acknowledgements.md

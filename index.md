@@ -4,14 +4,46 @@ title: Marina Bay Singapore Countdown 2022
 description: MBSC 2022
 image: /images/mbsc2022.png
 permalink: /
-notification: ""
+notification: There will be no fireworks display at Marina Bay on New Year's Eve.
 sections:
   - hero:
-      title: Coming Soon
-      subtitle: Stay tuned for more information!
-      background: /images/P5.jpg
+      background: /images/hb.jpeg
+      key_highlights:
+        - title: Shine a Light
+          description: 1 to 31 December 2021
+          url: /shine-a-light/overview/
+        - title: Waterfront Promenade light Installation
+          description: 1 to 31 December 2021
+          url: /waterfront-promenade
+        - title: "Share the Moment "
+          description: 26 to 31 December 2021
+          url: /share-the-moment/overview/about/
+  - infopic:
+      title: Shine a Light
+      description: 1 to 31 December 2021 <br> @ The Promontory
+      button: More details
+      url: /shine-a-light/overview
+      alt: Shine a Light
+      image: /images/sall.gif
+  - infopic:
+      title: Share the Moment
+      description: 26 to 31 December 2021 <br> @ The Fullerton Hotel Singapore,
+        Merlion, ArtScience Museum
+      button: More Details
+      url: /share-the-moment/overview/about
+      alt: Share the Moment
+      image: /images/stm2.gif
+  - infobar:
+      title: Light Installations along Marina Bay waterfront promenade
+      description: "1 to 31 December 2021 <br> @ Marina Bay waterfront promenade "
+      button: More Details
+      url: /waterfront-promenade
   - infopic:
       title: Acknowledgements
       image: /images/sponsor2022p.png
       alt: Sponsor
+  - infopic:
+      title: Marina Bay at a glance
+      image: /images/MAP.jpeg
+      alt: Marina Bay Map
 ---

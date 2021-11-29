@@ -1,19 +1,12 @@
 ---
 title: About
 permalink: /share-the-moment/overview/about
-third_nav_title: "Overview"
+third_nav_title: Overview
 ---
-
 # Overview
 
-A joint initiative with our Community Partner, National Volunteer and Philanthropy Centre (NVPC), the Share the Moment campaign is a community project that culminates in projection mapping shows on the facades of three iconic landmarks in Marina Bay – The Fullerton Hotel Singapore, ArtScience Museum and the Merlion. 
-
-This edition of Share the Moment is inspired by stories from the City of Good – a vision where individuals, organisations and leaders come together to give their best for the others. In a collaborative effort with local schools, a dedicated group of students volunteered their time to participate in a series of masterclasses to co-create works of art inspired by these stories of good. The artworks were then adapted for the projection mapping shows that will light up the Marina Bay precinct.  
-
-From 25 to 31 December 2020, watch as the vision for Singapore to be a “City of Good” comes to life nightly on the facades of The Fullerton Hotel Singapore, the Merlion and ArtScience Museum (26 December to 31 December 2020 only) and celebrate moments in the past year where outstanding givers came together to uplift others in the community.
+MBSC 2022 will also bring back Share the Moment, a series of light projection shows in partnership with the National Volunteer & Philanthropy Centre (NVPC) and in support of its vision for a City of Good. These light projections will feature original artworks by local students, who were inspired by the stories of this year’s President’s Volunteerism & Philanthropy Awards nominees. Their illustrations portray heartwarming moments where people have come together to give their best for others during difficult times. Nightly light projection shows will transform the facades of The Fullerton Hotel Singapore, the ArtScience Museum at Marina Bay Sands and the Merlion into a storytelling showcase. 
 
 [Refer to the show schedule for more details.][show]
 
 [show]: /share-the-moment/projection-show-schedule/
-
-
