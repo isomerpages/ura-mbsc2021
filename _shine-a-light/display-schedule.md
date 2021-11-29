@@ -73,5 +73,4 @@ permalink: /shine-a-light/display-schedule/
 <h5><span style="color: darkcyan;">&nbsp;</span></h5>
 </td>
 </tr>
-</tbody>
 </table>
