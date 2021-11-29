@@ -21,8 +21,9 @@ permalink: /shine-a-light/display-schedule/
       <small><font color="darkcyan"><br>Note: As a safety precaution, in the event of Cat 1 situation (heavy rain and/ or lightning strikes), the light display will cease and resume only when weather conditions allow.</font></small>
       <br>	
 			<h5><font color="darkcyan">From 1 to 31 December, the 2-minute animation will feature hues of the respective weekly programme colours within the light choreography.</font>
-			<tr>
+				<tr>
 						<br>
+				
 				
 <style type="text/css">
 
@@ -38,6 +39,7 @@ permalink: /shine-a-light/display-schedule/
 
 <thead>
   <tr>
+		<br>
     <th class="tg-t8gw">Dates</th>
     <th class="tg-t8gw">Colour</th>
     <th class="tg-t8gw">Highlight of the Week</th>
