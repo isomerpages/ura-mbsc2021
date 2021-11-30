@@ -20,6 +20,6 @@ third_nav_title: Overview
 
 ##### <a href="https://www.smu.edu.sg/" style="color:darkcyan">Singapore Management University</a>
 
-##### Singapore University of Social Sciences
+##### <a href="https://www.suss.edu.sg/" style="color:darkcyan">Singapore University of Social Sciences</a>
 
 ##### <a href="https://www.tp.edu.sg/" style="color:darkcyan">Temasek Polytechnic</a>
