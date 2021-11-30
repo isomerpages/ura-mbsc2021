@@ -1,11 +1,8 @@
 ---
 title: Acknowledgements
-permalink: /about/acknowledgements/
-breadcrumb: Acknowledgments
+permalink: /about/acknowledgements
 description: ""
 ---
-
-
 <table class="table-v">
 
 <table style="width:100%">
