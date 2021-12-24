@@ -14,9 +14,10 @@ Student: **How Hee Lin**
 <br>
 <br>
 
-Student: Felicia Bernice Horasia
-Institution: Nanyang Academy of Fine Arts
-Inspired by: Dr Chong Poh Heng (HCA Hospice Care)
+Student: **Felicia Bernice Horasia**
+Institution: **Nanyang Academy of Fine Arts**
+Inspired by: **Dr Chong Poh Heng (HCA Hospice Care)**
+
 
  
 
@@ -136,5 +137,3 @@ Inspired by: Migrant Workers Vision Care Programme
 Student: Elsa Tania
 Institution: Nanyang Academy of Fine Arts
 Inspired by: Mr David Hoe Teck Chye, I Am Talented (IAT)
-
- 
