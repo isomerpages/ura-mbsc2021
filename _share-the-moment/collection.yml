@@ -2,7 +2,6 @@ collections:
   share-the-moment:
     output: true
     order:
-      - Featured Artworks.md
       - overview/.keep
       - overview/about.md
       - overview/community-partner-nvpc.md
@@ -28,3 +27,4 @@ collections:
       - Stories from PVPA Nominees/Speco Singapore Pte Ltd.md
       - Stories from PVPA Nominees/YMCA of Singapore.md
       - The Great Singapore Give.md
+      - Featured Artworks.md
