@@ -9,7 +9,7 @@ MBSC 2022 will feature two key highlights: Shine a Light, an inspirational light
 
 
 #### Will there be fireworks happening this year at the Marina Bay Singapore Countdown 2022?
-As safety remains a priority in view of the COVID-19 pandemic, there will be no fireworks display at Marina Bay on 31 December 2021 to minimise crowds from gathering in the precinct. Instead, fireworks will be set off from different heartland locations across Singapore, bringing the Countdown experience closer to Singaporeans at home. Stay tuned for further details.
+As safety remains a priority in view of the COVID-19 pandemic, there will be no fireworks display at Marina Bay on 31 December 2021 to minimise crowds from gathering in the precinct. Instead, fireworks will be set off from different heartland locations across Singapore, bringing the Countdown experience closer to Singaporeans at home. [Refer here for further details on the heartland fireworks.](https://www.pa.gov.sg/Newsroom/News/detail/Usher-in-2022-with-Family-and-Neighbours-with-PA-s-Virtual-Programmes)
 
 
 #### Will there be any programmes for Marina Bay Singapore Countdown 2022?
