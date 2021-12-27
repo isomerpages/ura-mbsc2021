@@ -32,7 +32,7 @@ sections:
       button: More Details
       url: /share-the-moment/overview/about
       alt: Share the Moment
-      image: /images/stm2.gif
+      image: /images/stmg2.gif
   - infobar:
       title: Waterfront Promenade Light Installations
       description: "1 to 31 December 2021 <br> @ Marina Bay waterfront promenade "
