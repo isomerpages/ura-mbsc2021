@@ -8,7 +8,7 @@ permalink: /share-the-moment/projection-show-schedule/
 <table style="width:100%">
     <tr>
     <td>
-     <h5><font color="darkcyan"><b>The Fullerton Hotel Singapore <br><br><br> Merlion<br><br><br><br><br><br><br><br><br>ArtScience Museum</b></font></h5>
+     <h5><font color="darkcyan"><b>The Fullerton Hotel Singapore <br><br><br> Merlion<br><br><br><br><br><br><br>ArtScience Museum</b></font></h5>
      <br>
     </td>
     <td>
