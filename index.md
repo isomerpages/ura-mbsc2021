@@ -4,7 +4,8 @@ title: Marina Bay Singapore Countdown 2022
 description: MBSC 2022
 image: /images/mbsc2022.png
 permalink: /
-notification: There will be no fireworks display at Marina Bay on New Year's Eve.
+notification: There will be no fireworks at Marina Bay this New Year’s Eve.
+  Avoid crowded places - celebrate from home!
 sections:
   - hero:
       background: /images/amber.png
