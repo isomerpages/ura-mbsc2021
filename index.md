@@ -8,7 +8,7 @@ notification: There will be no fireworks at Marina Bay this New Year’s Eve.
   Avoid crowded places - celebrate from home!
 sections:
   - hero:
-      background: /images/amber.png
+      background: /images/hbfinal.png
       key_highlights:
         - title: Shine a Light
           description: 1 to 31 December 2021
