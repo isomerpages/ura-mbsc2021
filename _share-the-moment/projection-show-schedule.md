@@ -4,6 +4,8 @@ permalink: /share-the-moment/projection-show-schedule/
 ---
 # Projection Show Schedule for Share the Moment
 
+![Alt text for image on Isomer site](/images/table.png)
+
 | Venue                                            | Date                  | Time                                                                                                                 |
 |--------------------------------------------------|-----------------------|----------------------------------------------------------------------------------------------------------------------|
 | The Fullerton Hotel Singapore<br><br><br>Merlion | 26 - 31 December 2021 | Every 15 minutes from 8pm to 10.30pm nightly <br>(extended showtimes till 11.45pm on 31 December)                    |
