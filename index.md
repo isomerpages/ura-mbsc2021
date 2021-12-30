@@ -5,7 +5,8 @@ description: MBSC 2022
 image: /images/mbsc2022.png
 permalink: /
 notification: There will be no fireworks at Marina Bay this New Year’s Eve.
-  Avoid crowded places - celebrate from home!
+  Avoid crowded places - celebrate from home! Selected shows at Marina Bay may
+  be cancelled if there is overcrowding onsite
 sections:
   - hero:
       background: /images/hbfinal.png
