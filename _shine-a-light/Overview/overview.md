@@ -17,4 +17,4 @@ Shine a Light will be launched on 1 December. Each week from 1 to 28 December, S
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xg-KNN1KkRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/Xg-KNN1KkRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="654" height="480" src="https://www.youtube.com/embed/Xg-KNN1KkRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
