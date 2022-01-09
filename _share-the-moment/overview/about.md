@@ -14,4 +14,3 @@ Nightly light projection shows will transform the facades of The Fullerton Hotel
 <iframe width="640" height="360" src="https://www.youtube.com/embed/E6g__BoPrXA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/YDYTjUuKvu0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
