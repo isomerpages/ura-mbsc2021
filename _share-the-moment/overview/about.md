@@ -9,6 +9,7 @@ MBSC 2022 will bring back Share the Moment, a series of light projection shows i
 
 Nightly light projection shows will transform the facades of The Fullerton Hotel Singapore, the ArtScience Museum at Marina Bay Sands and the Merlion into a storytelling showcase. 
 
+In case you missed the Share the Moment light projection shows, you can view them here:
 <iframe width="640" height="360" src="https://www.youtube.com/embed/lSy8R5l7vm0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/E6g__BoPrXA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
