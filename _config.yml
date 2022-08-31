@@ -3,8 +3,8 @@ url: https://www.marinabaycountdown.sg
 logo: /images/MBSC2020logo-170x50.svg
 favicon: /images/mbsc2022.ico
 colors:
-  primary-color: "#838383"
-  secondary-color: "#4e2e78"
+  primary-color: "#8c4695"
+  secondary-color: "#42b64b"
   media-colors:
     - title: media-color-one
       color: "#f5a623"
