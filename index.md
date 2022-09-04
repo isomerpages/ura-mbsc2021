@@ -11,15 +11,10 @@ sections:
   - hero:
       background: /images/hbfinal.png
       key_highlights:
-        - title: Shine a Light
-          description: 1 to 31 December 2021
-          url: /shine-a-light/overview/
-        - title: Waterfront Promenade light Installations
-          description: 1 to 31 December 2021
-          url: /waterfront-promenade
         - title: "Share the Moment "
           description: 26 to 31 December 2021
           url: /share-the-moment/overview/about/
+      title: Coming to Marina Bay in December 2022
   - infopic:
       title: Shine a Light
       description: 1 to 31 December 2021 <br> @ The Promontory
@@ -49,5 +44,3 @@ sections:
       image: /images/MAP.jpeg
       alt: Marina Bay Map
 ---
-
-
