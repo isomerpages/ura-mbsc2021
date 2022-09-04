@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "#MBSC2022"
+title: "#MBSC2023"
 description: MBSC 2022
 image: /images/isomer-logo.svg
 permalink: /
@@ -49,4 +49,5 @@ sections:
       image: /images/MAP.jpeg
       alt: Marina Bay Map
 ---
+
 
