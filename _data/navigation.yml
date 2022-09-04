@@ -1,12 +1,2 @@
 logo: /images/MBSC logo 2023 W (RGB-long)-01.png
-links:
-  - title: About
-    collection: about
-  - title: Shine a Light
-    collection: shine-a-light
-  - title: Share the Moment
-    collection: share-the-moment
-  - title: FAQ
-    url: /faq
-  - title: News
-    resource_room: true
+links: []
