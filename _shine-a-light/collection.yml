@@ -1,10 +1,4 @@
 collections:
   shine-a-light:
     output: true
-    order:
-      - Funds Supported/.keep
-      - Funds Supported/Singapore Strong.md
-      - Funds Supported/Silver is Gold.md
-      - Funds Supported/Musim Mas BlueStar.md
-      - Funds Supported/Scaffold.md
-      - Funds Supported/TMT General.md
+    order: []
