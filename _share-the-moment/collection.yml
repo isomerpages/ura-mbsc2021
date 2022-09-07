@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - overview/.keep
-      - overview/community-partner-nvpc.md
       - overview/Participating Schools.md
       - Featured Artworks.md
       - projection-show-schedule.md
