@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview/.keep
-      - Overview/The Majurity Trust .md
       - display-schedule.md
       - Funds Supported/.keep
       - Funds Supported/Singapore Strong.md
