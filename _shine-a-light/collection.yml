@@ -2,7 +2,6 @@ collections:
   shine-a-light:
     output: true
     order:
-      - Overview/.keep
       - display-schedule.md
       - Funds Supported/.keep
       - Funds Supported/Singapore Strong.md
