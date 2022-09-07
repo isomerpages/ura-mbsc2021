@@ -2,7 +2,6 @@ collections:
   share-the-moment:
     output: true
     order:
-      - overview/.keep
       - Featured Artworks.md
       - projection-show-schedule.md
       - Stories from PVPA Nominees/.keep
