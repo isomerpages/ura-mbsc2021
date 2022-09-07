@@ -7,6 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hbfinal.png
+      background: /images/herobanner.png
       title: Coming to Marina Bay in December 2022
 ---
