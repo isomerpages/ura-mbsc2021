@@ -1,5 +1,4 @@
 collections:
   share-the-moment:
     output: true
-    order:
-      - The Great Singapore Give.md
+    order: []
