@@ -2,7 +2,6 @@ collections:
   shine-a-light:
     output: true
     order:
-      - display-schedule.md
       - Funds Supported/.keep
       - Funds Supported/Singapore Strong.md
       - Funds Supported/Silver is Gold.md
