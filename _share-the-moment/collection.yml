@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - overview/.keep
-      - overview/Participating Schools.md
       - Featured Artworks.md
       - projection-show-schedule.md
       - Stories from PVPA Nominees/.keep
