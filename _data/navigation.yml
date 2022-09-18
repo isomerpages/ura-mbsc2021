@@ -18,3 +18,5 @@ links:
         url: /nvpc
   - title: Visitors' Information
     url: /permalink
+  - title: News
+    resource_room: true
