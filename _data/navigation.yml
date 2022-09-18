@@ -6,7 +6,7 @@ links:
     url: /programmes
   - title: Share the Moment
     collection: share-the-moment
-  - title: News
-    resource_room: true
   - title: Visitors' Informaiton
     url: /visitors-information
+  - title: News
+    resource_room: true
