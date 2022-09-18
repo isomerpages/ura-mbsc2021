@@ -1,4 +1,5 @@
 collections:
   share-the-moment:
     output: true
-    order: []
+    order:
+      - About Share the Moment.md
