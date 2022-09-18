@@ -1,2 +1,20 @@
 logo: /images/MBSC logo 2023 W (RGB-long)-01.png
-links: []
+links:
+  - title: About
+    url: /about
+    sublinks:
+      - title: Marina Bay Singapore Countdown
+        url: /mbsc
+      - title: Acknowledgements
+        url: /acknowledgements
+  - title: Programmes
+    url: /programmes
+  - title: Share The Moment
+    url: /stm
+    sublinks:
+      - title: About Share The Moment
+        url: /aboutstm
+      - title: Community Partner - NVPC
+        url: /nvpc
+  - title: Visitors' Information
+    url: /permalink
