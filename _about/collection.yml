@@ -2,5 +2,5 @@ collections:
   about:
     output: true
     order:
-      - Acknowledgements.md
       - Marina Bay Singapore Countdown 2023.md
+      - Acknowledgements.md
