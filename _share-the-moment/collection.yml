@@ -2,29 +2,5 @@ collections:
   share-the-moment:
     output: true
     order:
-      - overview/.keep
-      - overview/about.md
-      - overview/community-partner-nvpc.md
-      - overview/Participating Schools.md
-      - Featured Artworks.md
-      - projection-show-schedule.md
-      - Stories from PVPA Nominees/.keep
-      - Stories from PVPA Nominees/About PVPA.md
-      - Stories from PVPA Nominees/Abhishek Bajaj.md
-      - Stories from PVPA Nominees/Adrian Tan.md
-      - Stories from PVPA Nominees/Changi Airport Group Pte Ltd.md
-      - Stories from PVPA Nominees/Chng Rui Jie.md
-      - Stories from PVPA Nominees/David Hoe.md
-      - Stories from PVPA Nominees/Denise, Michelle and Mae.md
-      - Stories from PVPA Nominees/Dr Chong Poh Heng.md
-      - Stories from PVPA Nominees/Dr Lee Cheng.md
-      - Stories from PVPA Nominees/Essilor Vision Foundation.md
-      - Stories from PVPA Nominees/Food from the Heart.md
-      - Stories from PVPA Nominees/Irene Chong.md
-      - Stories from PVPA Nominees/Jennifer Heng.md
-      - Stories from PVPA Nominees/Kampung Siglap Life Skills Training & Retreat
-        Centre.md
-      - Stories from PVPA Nominees/Pan Pacific Hotels Group .md
-      - Stories from PVPA Nominees/Speco Singapore Pte Ltd.md
-      - Stories from PVPA Nominees/YMCA of Singapore.md
-      - The Great Singapore Give.md
+      - About Share the Moment.md
+      - Community Partner – National Volunteer & Philanthropy Centre (NVPC).md
