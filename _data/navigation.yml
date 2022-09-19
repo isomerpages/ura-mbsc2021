@@ -1,2 +1,12 @@
 logo: /images/MBSC logo 2023 W (RGB-long)-01.png
-links: []
+links:
+  - title: About
+    collection: about
+  - title: Programmes
+    url: /programmes
+  - title: Share the Moment
+    collection: share-the-moment
+  - title: Visitors' Informaiton
+    url: /visitors-information
+  - title: News
+    resource_room: true
