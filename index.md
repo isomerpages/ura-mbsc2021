@@ -9,8 +9,6 @@ sections:
   - hero:
       background: /images/herobannerfirew.png
       title: Fireworks are back at Marina Bay!
-  - infobar:
-      title: Highlights around Marina Bay at a glance
   - infopic:
       image: /images/map.png
       alt: map
