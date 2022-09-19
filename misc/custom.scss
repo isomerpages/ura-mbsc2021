@@ -5,13 +5,14 @@
 @charset "utf-8";
 
 // Website brand colors
-$primary: #0eaeed;
-$secondary: #E64F41;
-$secondary-hover: darken(#E64F41, 20%);
+$primary: {{- site.colors.primary-color -}};
+$secondary: {{- site.colors.secondary-color -}};
+$secondary-hover: lighten($secondary, 10%);
 
 {%- for media-color in site.colors.media-colors -%}
   ${{- media-color.title -}}: {{- media-color.color -}};
 {%- endfor -%}
+
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;

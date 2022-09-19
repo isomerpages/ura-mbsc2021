@@ -1,0 +1,6 @@
+collections:
+  share-the-moment:
+    output: true
+    order:
+      - About Share the Moment.md
+      - Community Partner – National Volunteer & Philanthropy Centre (NVPC).md
