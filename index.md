@@ -15,6 +15,6 @@ sections:
       alt: map
   - infopic:
       title: Acknowledgements
-      image: /images/pb.png
+      image: /images/pb2.png
       alt: acknowledgements
 ---
