@@ -15,6 +15,6 @@ sections:
       title: Highlights around Marina Bay at a glance
   - infopic:
       image: /images/pb2.png
-      alt: acknowledgement
+      alt: acknowledgements
       title: Acknowledgements
 ---
