@@ -13,9 +13,6 @@ sections:
       image: /images/map.png
       alt: map
       title: Highlights around Marina Bay at a glance
-  - resources:
-      title: News
-      button: Press Release
   - infopic:
       image: /images/pb2.png
       alt: acknowledgement
