@@ -53,7 +53,7 @@ description: ""
 
     <td>
 
-      <h4>Community Partners</h4>
+      <h4>Community Partner</h4>
 
       <br>
 
