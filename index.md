@@ -18,4 +18,5 @@ sections:
       title: Acknowledgements
   - infopic:
       image: /images/pb2.png
+      alt: acknowledgement
 ---
