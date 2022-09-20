@@ -1,0 +1,5 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - STAR ISLAND Singapore.md

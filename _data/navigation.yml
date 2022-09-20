@@ -3,7 +3,7 @@ links:
   - title: About
     collection: about
   - title: Programmes
-    url: /programmes
+    collection: programmes
   - title: Share the Moment
     collection: share-the-moment
   - title: Visitors' Information
