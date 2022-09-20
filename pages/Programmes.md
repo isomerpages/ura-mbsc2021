@@ -3,8 +3,6 @@ title: Programmes
 permalink: /programmes/
 description: ""
 ---
-<img src\="KV_0918.jpeg" alt\="starisland" class\="center"\>
-
 ![starisland](/images/KV_0918.jpeg) 
 
 ### STAR ISLAND @ The Float
