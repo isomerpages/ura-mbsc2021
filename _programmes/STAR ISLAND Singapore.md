@@ -3,15 +3,15 @@ title: STAR ISLAND Singapore
 permalink: /programmes/STAR-ISLAND-Singapore/
 description: ""
 ---
-!\[starisland\](/images/KV\_0918.jpeg) 
+![Star Island](/images/KV_0918.jpeg)
 
   
 
-\### STAR ISLAND @ The Float
+### STAR ISLAND @ The Float
 
   
 
-STAR ISLAND Singapore Countdown 2022-2023 is coming back full scale after a two-year hiatus on 31 December 2022, with a 22,000 seating capacity at The Float. Presented by major global payment brand JCB, STAR ISLAND is a 70-minute \_hanabi\_ (fireworks) musical extravaganza which features larger-than-life pyrotechnics and dazzling lights, immersive sound and world-class entertainment.
+STAR ISLAND Singapore Countdown 2022-2023 is coming back full scale after a two-year hiatus on 31 December 2022, with a 22,000 seating capacity at The Float. Presented by major global payment brand JCB, STAR ISLAND is a 70-minute _hanabi_ (fireworks) musical extravaganza which features larger-than-life pyrotechnics and dazzling lights, immersive sound and world-class entertainment.
 
   
 
@@ -19,7 +19,7 @@ This year’s show includes artisanal “Ghost Effect Shell'' fireworks, which h
 
   
 
-\### STAR ISLAND @ MBS Event Plaza
+### STAR ISLAND @ MBS Event Plaza
 
   
 
@@ -27,14 +27,9 @@ This year, for the first time, STAR ISLAND will also be hosting a free-admission
 
   
 
-\### Ticketing Information
+### Ticketing Information
 
-  
 
-Tickets \*are now on sale\*, ranging from S$88 to S$318 (VIP experience). Each ticket permits gives exclusive entry to the seated gallery at \*The Float\* and access to the food village. and the marketplace.
+Tickets **are now on sale**, ranging from S$88 to S$318 (VIP experience). Each ticket permits gives exclusive entry to the seated gallery at **The Float** and access to the food village. and the marketplace.
 
-  
-
-\*Tickets are\* now available at https://www.starisland.sg. More show details to follow.
-
- Waitlist for tickets is now available at [https://www.starisland.sg](https://www.starisland.sg/). More show details to follow.
+**Tickets are** now available at https://www.starisland.sg. More show details to follow.
