@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: "#MBSC2023"
-description: MBSC 2022
+description: MBSC 2023
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -18,3 +18,4 @@ sections:
       alt: acknowledgements
       title: Acknowledgements
 ---
+
