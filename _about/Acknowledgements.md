@@ -126,10 +126,10 @@ description: ""
 
       <br>
 
-      <p><a href="https://www.marinabaysands.com/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/mba.JPEG?raw=true" alt="Image of Marina Bay Logo"></a></p>
+      <p><a href="https://marinabayalliance.com/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/mba.JPEG?raw=true" alt="Image of Marina Bay Logo"></a></p>
 
       <br>
 
       <br>
 
-    </td>          
+    </td>
