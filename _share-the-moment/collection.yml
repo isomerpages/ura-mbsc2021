@@ -2,6 +2,7 @@ collections:
   share-the-moment:
     output: true
     order:
+      - PVPA Stories/Adopt A Hawker Centre Initiative.md
       - PVPA Stories/.keep
       - About Share the Moment.md
       - Community Partner – National Volunteer & Philanthropy Centre (NVPC).md
