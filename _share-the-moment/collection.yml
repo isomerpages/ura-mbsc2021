@@ -2,6 +2,7 @@ collections:
   share-the-moment:
     output: true
     order:
+      - PVPA Stories/Children’s Cancer Foundation.md
       - PVPA Stories/City Developments Limited.md
       - PVPA Stories/Daniel Tay Choon Lim.md
       - PVPA Stories/Grant Pereira.md
