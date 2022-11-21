@@ -2,6 +2,7 @@ collections:
   share-the-moment:
     output: true
     order:
+      - PVPA Stories/Daniel Tay Choon Lim.md
       - PVPA Stories/Grant Pereira.md
       - PVPA Stories/Liew Siow Gian Patrick.md
       - PVPA Stories/National Library Board.md
