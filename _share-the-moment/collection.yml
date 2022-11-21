@@ -2,6 +2,7 @@ collections:
   share-the-moment:
     output: true
     order:
+      - PVPA Stories/Sasha Myra Marimuttu.md
       - PVPA Stories/Sodexo Pte Ltd.md
       - PVPA Stories/Sree Narayana Mission (Singapore) North Division Girl
         Guides.md
