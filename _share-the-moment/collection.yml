@@ -2,6 +2,8 @@ collections:
   share-the-moment:
     output: true
     order:
+      - About Share the Moment.md
+      - Community Partner – National Volunteer & Philanthropy Centre (NVPC).md
       - PVPA Stories/.keep
       - PVPA Stories/Adopt A Hawker Centre Initiative.md
       - PVPA Stories/Andrew Ong.md
@@ -16,5 +18,3 @@ collections:
       - PVPA Stories/Sodexo Pte Ltd.md
       - PVPA Stories/Sree Narayana Mission (Singapore) North Division Girl
         Guides.md
-      - About Share the Moment.md
-      - Community Partner – National Volunteer & Philanthropy Centre (NVPC).md
