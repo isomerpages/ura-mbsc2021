@@ -23,7 +23,7 @@ This year’s show includes artisanal “Ghost Effect Shell'' fireworks, which h
 
   
 
-This year, for the first time, STAR ISLAND will also be hosting a free-admission event preview at the MBS Event Plaza “Prequel to STAR ISLAND” from 25 to 30 December 2022, where visitors will be able to get a sneak peek of the show. The area will be transformed into a ticketed satellite location for the main show on 31 December.
+This year, for the first time, STAR ISLAND will also be hosting a free-admission event preview at the MBS Event Plaza “Prequel to STAR ISLAND” from 25 to 30 December 2022, where visitors will be able to get a sneak peek of the show. 
 
   
 
