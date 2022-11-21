@@ -2,6 +2,8 @@ collections:
   share-the-moment:
     output: true
     order:
+      - PVPA Stories/Sree Narayana Mission (Singapore) North Division Girl
+        Guides.md
       - PVPA Stories/Andrew Ong.md
       - PVPA Stories/Adopt A Hawker Centre Initiative.md
       - PVPA Stories/.keep
