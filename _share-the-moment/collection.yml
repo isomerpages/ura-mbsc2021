@@ -2,6 +2,7 @@ collections:
   share-the-moment:
     output: true
     order:
+      - PVPA Stories/Liew Siow Gian Patrick.md
       - PVPA Stories/National Library Board.md
       - PVPA Stories/OCBC Bank.md
       - PVPA Stories/Sasha Myra Marimuttu.md
