@@ -122,7 +122,7 @@ description: ""
 
     <td>
 
-      <h4>Presenting Sponsor</h4>
+      <h4>Presenting Partner</h4>
 
       <br>
 
