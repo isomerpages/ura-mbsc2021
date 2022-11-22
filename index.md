@@ -14,7 +14,7 @@ sections:
       alt: map
       title: Highlights around Marina Bay at a glance
   - infopic:
-      image: /images/Presentedby2023.png
+      image: /images/pba.png
       alt: acknowledgements
       title: Acknowledgements
 ---
