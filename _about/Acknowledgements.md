@@ -112,7 +112,7 @@ description: ""
 
       <br>
 
-      <p><a href="https://www.majurity.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/TMT.JPEG?raw=true" alt="Image of The Majurity Trust Logo"></a></p>
+      <p><a href="https://www.majurity.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/mat.png?raw=true" alt="Image of The Majurity Trust Logo"></a></p>
 
       <br>
 
