@@ -98,7 +98,7 @@ description: ""
 
       <br>
 
-      <p><a href="https://cityofgood.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/cityofgood.png?raw=true" alt="Image of COG Logo"></a></p>
+      <p><a href="https://cityofgood.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/cityog.png?raw=true" alt="Image of COG Logo"></a></p>
 
       <br>
 
