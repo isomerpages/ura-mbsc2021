@@ -53,48 +53,7 @@ description: ""
 
     <td>
 
-      <h4 style="color:white;">.</h4>
-
-      <br>
-
-      <p><a href="https://www.visitsingapore.com/en/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/sgp.JPEG?raw=true" alt="Image of Sg Made Possible Logo"></a></p>
-
-      <br>
-
-      <br>   
-
-<tr>
-
-    <td>
-
-      <h4>Prime Sponsor</h4>
-
-      <br>
-
-      <p><a href="https://www.marinabaysands.com/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/mbsh.JPEG?raw=true" alt="Image of MBS Logo"></a></p>
-
-      <br>
-
-      <br>
-
-    </td>
-
-    <td>
-
-      <h4 style="color:white;">.</h4>
-
-      <br>
-
-
-
-      <br>
-
-      <br>
-
-<tr>                            
-
-    <td>
-		<h4>Community Partners</h4>
+      <h4>Community Partner</h4>
 
       <br>
 
@@ -102,34 +61,6 @@ description: ""
 
       <br>
 
-      <br>
+      <br>   
 
-    </td>
-
-    <td>
-
-      <h4 style="color:white;">.</h4>
-
-      <br>
-
-      <p><a href="https://www.majurity.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/matt.png?raw=true" alt="Image of The Majurity Trust Logo"></a></p>
-
-      <br>
-
-      <br>
-
-<tr>                            
-
-    <td>
-
-      <h4>Partner</h4>
-
-      <br>
-
-      <p><a href="https://marinabayalliance.com/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/mba.JPEG?raw=true" alt="Image of Marina Bay Logo"></a></p>
-
-      <br>
-
-      <br>
-
-    </td>
+<tr>
