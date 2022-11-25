@@ -39,7 +39,7 @@ description: ""
 
     <td>
 
-      <h4>Held In</h4>
+      <h4>Held in</h4>
 
       <br>
 
@@ -49,7 +49,7 @@ description: ""
 
       <br>
 
-    </td>          
+    </td>
 
     <td>
 
@@ -57,7 +57,7 @@ description: ""
 
       <br>
 
-      <p><a href="https://cityofgood.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/COG.JPEG?raw=true" alt="Image of NVPC Logo"></a></p>
+      <p><a href="https://cityofgood.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/cmon.png?raw=true" alt="Image of COG Logo"></a></p>
 
       <br>
 

@@ -5,4 +5,4 @@ description: ""
 ---
 ## Event Map
 
-![map](/images/mapupdate.png)
+![map](/images/25novmap.jpeg)
