@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Come Together 2022.md
       - STAR ISLAND Singapore.md
       - After Hours @ Lawn.md
