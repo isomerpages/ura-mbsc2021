@@ -2,5 +2,5 @@ collections:
   programmes:
     output: true
     order:
-      - After Hours @ Lawn.md
       - STAR ISLAND Singapore.md
+      - After Hours @ Lawn.md
