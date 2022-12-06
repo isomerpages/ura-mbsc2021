@@ -11,7 +11,7 @@ description: ""
 
 STAR ISLAND Singapore is coming back after a two-year hiatus on 31 December 2022, with a 22,000 seating capacity at The Float. Presented by JCB, STAR ISLAND is a 70-minute _hanabi_ (fireworks) musical extravaganza combining artisanal fireworks, larger-than-life pyrotechnics and dazzling lights, immersive sound and world-class entertainment.
 
-This year’s show will feature the Singapore debut of specially designed and award-winning fireworks, including ombre fireworks whose colours change as they bloom in Singapore’s stunning colours, from red to white. In addition to the main show, ticketholders can enjoy pre-show entertainment, family-friendly activities and play areas, F&B offerings, and more at The Float. These will feature beloved Sanrio characters such as Hello Kitty and Gudetama.
+This year’s show will feature the Singapore debut of specially designed and award-winning fireworks, including ombre fireworks whose colours change as they bloom in Singapore’s stunning colours, from red to white. In addition to the main show, ticketholders can enjoy pre-show entertainment, family-friendly activities and play areas, F&B offerings, and more at The Float. Look out for appearances of beloved Sanrio characters at the event as well!
 
 ### Prequel to STAR ISLAND @ MBS Event Plaza
 
