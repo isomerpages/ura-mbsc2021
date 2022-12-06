@@ -5,7 +5,7 @@ description: ""
 ---
 ![The Great Bay Fiesta](/images/tgbf.png)
 
-The Great Bay Fiesta will be open daily at the Bayfront Event Space from 1 December 2022 to 1 January 2023. Presented by Trip.com, this exciting entertainment concept by The Show Master (a new blockbuster entertainment arm by Uncle Ringo) will feature a diverse line up of merrymaking activities with four main highlights – The Great Cirque de Cascades, Ice Magic: The Great Fantasy on Ice, The Great World Carnival, and The Great Food Fiesta.
+The Great Bay Fiesta will be open daily at the Bayfront Event Space from 1 December 2022 to 1 January 2023. Presented by Trip.com, this exciting entertainment concept by The Show Master (a new blockbuster entertainment arm by Uncle Ringo) will feature a diverse line up of merrymaking activities with four main highlights – The Great Cirque de Cascades, Ice Magic: The Great Fantasy on Ice, The Great World Carnival by Uncle Ringo, and The Great Food Fiesta.
 
 ### The Great Cirque des Cascades
 
