@@ -6,7 +6,7 @@ description: ""
 ## Event Map
 
 ![map](/images/25novmap.jpeg)
-* The STAR ISLAND Prequel at the MBS Event Plaza will end on 30th December 2022.
+\* The STAR ISLAND Prequel at the MBS Event Plaza will end on 30th December 2022.
 
   
 
