@@ -10,3 +10,5 @@ links:
     url: /visitors-information
   - title: News
     resource_room: true
+  - title: FAQ
+    url: /faq
