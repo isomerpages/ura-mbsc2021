@@ -9,27 +9,16 @@ description: ""
 
 ### STAR ISLAND @ The Float
 
-  
+STAR ISLAND Singapore is coming back after a two-year hiatus on 31 December 2022, with a 22,000 seating capacity at The Float. Presented by JCB, STAR ISLAND is a 70-minute _hanabi_ (fireworks) musical extravaganza combining artisanal fireworks, larger-than-life pyrotechnics and dazzling lights, immersive sound and world-class entertainment.
 
-STAR ISLAND Singapore Countdown 2022-2023 is coming back full scale after a two-year hiatus on 31 December 2022, with a 22,000 seating capacity at The Float. Presented by major global payment brand JCB, STAR ISLAND is a 70-minute _hanabi_ (fireworks) musical extravaganza which features larger-than-life pyrotechnics and dazzling lights, immersive sound and world-class entertainment.
+This year’s show will feature the Singapore debut of specially designed and award-winning fireworks, including ombre fireworks whose colours change as they bloom in Singapore’s stunning colours, from red to white. In addition to the main show, ticketholders can enjoy pre-show entertainment, family-friendly activities and play areas, F&B offerings, and more at The Float. Look out for appearances of beloved Sanrio characters at the event as well!
 
-  
+### Prequel to STAR ISLAND @ MBS Event Plaza
 
-This year’s show includes artisanal “Ghost Effect Shell'' fireworks, which have been designed to bloom in Singapore’s stunning colours, a red-to-white gradation across the sky.
-
-  
-
-### STAR ISLAND @ MBS Event Plaza
-
-  
-
-This year, for the first time, STAR ISLAND will also be hosting a free-admission event preview at the MBS Event Plaza “Prequel to STAR ISLAND” from 25 to 30 December 2022, where visitors will be able to get a sneak peek of the show. 
-
-  
+For the first time, STAR ISLAND will also be hosting a free-admission event preview at the MBS Event Plaza from 25 to 30 December 2022. At the Prequel to STAR ISLAND, visitors can look forward to a Sanrio-themed bazaar and family-friendly activities, F&B pop-ups, and recaps of previous STAR ISLAND shows.
 
 ### Ticketing Information
 
+Tickets for the main show are now on sale, ranging from S$88 to S$318 (VIP experience). Each ticket gives exclusive entry to the seating gallery at The Float and access to the food village and the marketplace.
 
-Tickets are now on sale, ranging from S$88 to S$318 (VIP experience). Each ticket gives exclusive entry to the seating gallery at The Float and access to the food village and the marketplace.
-
-Tickets are now available at https://www.starisland.sg. 
+Tickets are now available at [https://www.starisland.sg](https://www.starisland.sg/).
