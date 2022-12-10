@@ -36,6 +36,8 @@ All MRT lines (East-West Line, North-South Line, Downtown Line, Circle Line and 
 
 ## Traffic Advisory
 
+![](/images/rc.jpeg)
+
 Overview of Road Closures on New Year’s Eve
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
