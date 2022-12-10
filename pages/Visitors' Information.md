@@ -5,7 +5,7 @@ description: ""
 ---
 ## Event Map
 
-![map](/images/25novmap.jpeg)
+![map](/images/mapv1.jpeg)
 \* The STAR ISLAND Prequel at the MBS Event Plaza will end on 30th December 2022.
 
   
@@ -35,6 +35,8 @@ All MRT lines (East-West Line, North-South Line, Downtown Line, Circle Line and 
 * Gardens by The Bay (TE22)
 
 ## Traffic Advisory
+
+![](/images/rc.jpeg)
 
 Overview of Road Closures on New Year’s Eve
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
