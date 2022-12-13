@@ -65,7 +65,7 @@ Overview of Road Closures on New Year’s Eve
   mso-pagination:none" align="center" class="MsoNormal"><span lang="EN-GB">3</span></p></td><td style="width:200.25pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:21.0pt" valign="top" width="267"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN-GB">Esplanade Drive (Collyer Quay towards Nicoll Highway)</span></p></td></tr><tr style="mso-yfti-irow:4;height:21.0pt"><td style="width:39.0pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:21.0pt" valign="top" width="267"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN-GB">Esplanade Drive (Nicoll Highway towards Collyer Quay)</span></p></td></tr><tr style="mso-yfti-irow:4;height:21.0pt"><td style="width:39.0pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:21.0pt" valign="top" width="52"><p style="text-align:center;line-height:normal;
   mso-pagination:none" align="center" class="MsoNormal"><span lang="EN-GB">4</span></p></td><td style="width:200.25pt;border-top:none;border-left:
