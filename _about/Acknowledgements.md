@@ -63,8 +63,10 @@ description: ""
 
       <br>
 
-      <br>   
+      <br>
 
+    </td>
+	
 <tr>                            
 
     <td>
@@ -89,10 +91,11 @@ description: ""
 
       <p><a href="https://www.majurity.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/matt.png?raw=true" alt="Image of The Majurity Trust Logo"></a></p>
 
+            <br>
+
       <br>
 
-      <br>
-			
+    </td>
 <tr>
 
     <td>
@@ -117,9 +120,11 @@ description: ""
 
       <br>
 
-      <br>
+      <br>
 
-<tr>   <tr>
+    </td>
+
+<tr> 
 
         <td>
 
@@ -132,6 +137,5 @@ description: ""
       <br>
 
       <br>
-<tr>
-  
+
     </td>
