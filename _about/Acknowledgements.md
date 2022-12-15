@@ -32,10 +32,11 @@ description: ""
       <p><a href="http://www.aux.com.sg/"><img src="https://github.com/isomerpages/ura-mbsc2021/blob/staging/images/aux.JPEG?raw=true" alt="Image of AUX Logo"></a></p>
 
       <br>
-	</td>
-	<br>   
-			
 
+      <br>
+
+    </td>
+			
 <tr>
 
     <td>
