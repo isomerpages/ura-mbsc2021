@@ -14,7 +14,7 @@ sections:
       alt: map
       title: Highlights around Marina Bay at a glance
   - infopic:
-      image: /images/pb2.png
+      image: /images/pbdec.png
       alt: acknowledgements
       title: Acknowledgements
 ---
