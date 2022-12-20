@@ -3,7 +3,7 @@ title: After Hours @ The Lawn
 permalink: /programmes/after-hours/
 description: ""
 ---
-
+![](/images/AH.jpeg)
 
 After Hours @ The Lawn, set on the grassy expanse right outside Downtown MRT, will be the right choice for those looking to experience the celebrations with a more laid-back ambience. Organised in partnership with the Marina Bay Alliance, this two-day lifestyle event will take place on 30 December 2022 (5pm – 10pm) and 31 December (5pm - 12am), and is suitable for different age groups, from the young to the wise.
 
