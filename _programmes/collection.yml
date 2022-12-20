@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Brightening Lives 2023.md
       - STAR ISLAND Singapore.md
       - The Great Bay Fiesta.md
       - Mediacorp's Let's Celebrate 2023.md
