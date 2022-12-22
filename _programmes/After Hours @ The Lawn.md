@@ -14,5 +14,5 @@ Admission to After Hours @ The Lawn is free. And with something for everyone, yo
 **Venue**: The Lawn at Marina Bay <br>
 **Dates and Times**: <br>
 - 30 December 2022: 5pm to 10pm 
-- 31 December 2022: 5pm to 12 midnight 
+- 31 December 2022: 5pm to 12 midnight <br>
 **Free admission**.
