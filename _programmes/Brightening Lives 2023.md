@@ -3,7 +3,7 @@ title: Brightening Lives 2023
 permalink: /programmes/brightening-lives-2023/
 description: ""
 ---
-### About Brightening Lives 2023 
+![](/images/bl.jpeg)
 
 Presented in collaboration with local philanthropic organisation The Majurity Trust,
 Brightening Lives 2023 features light installations such as fairy light tunnels and trees
