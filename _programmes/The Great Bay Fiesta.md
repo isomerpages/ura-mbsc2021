@@ -38,7 +38,7 @@ The Great World Carnival by Uncle Ringo pays homage to the historic Great World 
 
 **Opening hours:**
 - Mondays to Fridays: 4pm to 10.30pm
-- Saturdays, Sundays and Public Holidays: 1pm to 10.30pm
+- Saturdays, Sundays and Public Holidays: 1pm to 10.30pm <br>
 **Ticketed entry.**
 
 ### The Great Food Fiesta
