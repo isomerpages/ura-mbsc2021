@@ -15,9 +15,9 @@ Refer to
 www.esplanade.com/whats-on/festivals-and-series/free-programmes/2022/come-together
 for more details.
 
-**Venue**: Esplanade – Theatres on the Bay
-**Dates**: 5 to 31 December 2022
-**Times**: Various 
+**Venue**: Esplanade – Theatres on the Bay <br>
+**Dates**: 5 to 31 December 2022 <br>
+**Times**: Various <br>
 **Free admission.**
 
 *\* The Esplanade rooftop will be closed to public on 31 December 2022*
