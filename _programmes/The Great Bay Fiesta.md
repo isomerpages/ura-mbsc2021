@@ -19,6 +19,7 @@ The Great Cirque des Cascades is a showcase of international circus stunts and a
 - Fridays: 4.30pm, 7pm
 - Saturdays, Sundays and Public Holidays: 2pm, 4.30pm, 7pm <br>
 *On 31 December 2022, there will be an additional show at 10pm <br>
+<br>
 **Ticketed entry.**
 
 ### Ice Magic: The Great Fantasy on Ice
