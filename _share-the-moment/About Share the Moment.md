@@ -17,5 +17,5 @@ their best for others and communities in need.
 **Dates and Times:**
 - 26 to 30 December 2022: 8pm – 10.30pm
 - 31 December 2022: 8pm – 11.45pm
-*Shows run every 15 minutes
+*Shows run every 15 minutes <br>
 **Free admission.**
