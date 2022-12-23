@@ -28,9 +28,7 @@ Ice Magic: The Great Fantasy on Ice is the largest pop-up winter-themed attracti
 - 10am to 2pm
 - 3pm to 7pm
 - 7pm to 10pm <br>
-*On 31 December 2022, Ice Magic will have an additional slot from 9pm to 1am <br>
-<p>
-	<b>Ticketed entry</b></p>
+<p>*On 31 December 2022, Ice Magic will have an additional slot from 9pm to 1am <br><b>Ticketed entry</b></p>
 
 ### The Great World Carnival by Uncle Ringo
 
