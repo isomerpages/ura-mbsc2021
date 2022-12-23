@@ -21,7 +21,7 @@ The Great Cirque des Cascades is a showcase of international circus stunts and a
 *On 31 December 2022, there will be an additional show at 10pm 
 <br>
 <p>
-Ticketed entry</p>
+	<b>Ticketed entry</b></p>
 
 ### Ice Magic: The Great Fantasy on Ice
 
