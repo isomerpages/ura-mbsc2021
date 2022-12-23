@@ -16,7 +16,7 @@ their best for others and communities in need.
 **Venues**: The Fullerton Hotel Singapore, the Merlion <br>
 **Dates and Times:**
 - 26 to 30 December 2022: 8pm – 10.30pm
-- 31 December 2022: 8pm – 11.45pm
+- 31 December 2022: 8pm – 11.45pm <br>
 *Shows run every 15 minutes <br>
 <p>
 	<b>Free admission.</b></p>
