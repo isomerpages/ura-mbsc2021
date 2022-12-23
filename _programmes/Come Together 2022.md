@@ -12,7 +12,7 @@ Come Together – with artists, friends, and kin for a time of collaboration, ce
 Get the freshest sounds on your playlist from this curation by the industry’s finest, including Dean Augustine (Cross Ratio Entertainment), Leonard Soosay (Snakeweed Studios) and singer-songwriter Linying, in collaboration with Esplanade – Theatres on the Bay. Performances are free and held at Esplanade Concourse Stage and Esplanade Outdoor Theatre.
 
 Refer to
-www.esplanade.com/whats-on/festivals-and-series/free-programmes/2022/come-together
+[www.esplanade.com/whats-on/festivals-and-series/free-programmes/2022/come-together](www.esplanade.com/whats-on/festivals-and-series/free-programmes/2022/come-together)
 for more details.
 
 **Venue**: Esplanade – Theatres on the Bay <br>
