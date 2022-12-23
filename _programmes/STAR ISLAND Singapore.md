@@ -9,7 +9,7 @@ description: ""
 
 ### STAR ISLAND Singapore @ The Float
 
-STAR ISLAND Singapore is coming back after a two-year hiatus on 31 December 2022, with a 22,000 seating capacity at The Float. Presented by JCB, STAR ISLAND Singapore Countdown Edition 2022 – 2023 is a 70-minute _hanabi_ (fireworks) musical extravaganza combining artisanal fireworks, larger-than-life pyrotechnics and dazzling lights, immersive sound and world-class entertainment.
+STAR ISLAND Singapore is coming back after a two-year hiatus on 31 December 2022, with a 22,000 seating capacity at The Float. Presented by JCB, STAR ISLAND Singapore Countdown Edition 2022 – 2023 is a 80-minute _hanabi_ (fireworks) musical extravaganza combining artisanal fireworks, larger-than-life pyrotechnics and dazzling lights, immersive sound and world-class entertainment.
 
 This year’s show will feature the Singapore debut of specially designed and award-winning fireworks, including ombre fireworks whose colours change as they bloom in Singapore’s stunning colours, from red to white, and a 10-firework burst. In addition to the main show, ticketholders can enjoy pre-show entertainment such as live DJ performances, family-friendly activities and play areas, gastronomic offerings at the food village, and more at The Float. Look out for appearances of beloved Sanrio characters at the event as well!
 
@@ -24,7 +24,7 @@ For the first time, STAR ISLAND will also be hosting a free-admission event prev
 
 **Venue**: Marina Bay Sands Event Plaza <br>
 **Date**: 25 to 30 December 2022 <br>
-**Time**: 2.30pm to– 10.30pm <br>
+**Time**: 2.30pm to 10.30pm <br>
 **Free admission.**
 
 ### Ticketing Information
