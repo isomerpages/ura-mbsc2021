@@ -7,15 +7,25 @@ description: ""
 
   
 
-### STAR ISLAND @ The Float
+### STAR ISLAND Singapore @ The Float
 
-STAR ISLAND Singapore is coming back after a two-year hiatus on 31 December 2022, with a 22,000 seating capacity at The Float. Presented by JCB, STAR ISLAND is a 70-minute _hanabi_ (fireworks) musical extravaganza combining artisanal fireworks, larger-than-life pyrotechnics and dazzling lights, immersive sound and world-class entertainment.
+STAR ISLAND Singapore is coming back after a two-year hiatus on 31 December 2022, with a 22,000 seating capacity at The Float. Presented by JCB, STAR ISLAND Singapore Countdown Edition 2022 – 2023 is a 80-minute _hanabi_ (fireworks) musical extravaganza combining artisanal fireworks, larger-than-life pyrotechnics and dazzling lights, immersive sound and world-class entertainment.
 
-This year’s show will feature the Singapore debut of specially designed and award-winning fireworks, including ombre fireworks whose colours change as they bloom in Singapore’s stunning colours, from red to white. In addition to the main show, ticketholders can enjoy pre-show entertainment, family-friendly activities and play areas, F&B offerings, and more at The Float. Look out for appearances of beloved Sanrio characters at the event as well!
+This year’s show will feature the Singapore debut of specially designed and award-winning fireworks, including ombre fireworks whose colours change as they bloom in Singapore’s stunning colours, from red to white, and a 10-firework burst. In addition to the main show, ticketholders can enjoy pre-show entertainment such as live DJ performances, family-friendly activities and play areas, gastronomic offerings at the food village, and more at The Float. Look out for appearances of beloved Sanrio characters at the event as well!
+
+**Venue**: The Float at Marina Bay <br>
+**Date**: 31 December 2022 <br>
+**Time**: Doors open at 5pm <br>
+**Ticketed entry.**
 
 ### Prequel to STAR ISLAND @ MBS Event Plaza
 
 For the first time, STAR ISLAND will also be hosting a free-admission event preview at the MBS Event Plaza from 25 to 30 December 2022. At the Prequel to STAR ISLAND, visitors can look forward to a Sanrio-themed bazaar and family-friendly activities, F&B pop-ups, and recaps of previous STAR ISLAND shows.
+
+**Venue**: Marina Bay Sands Event Plaza <br>
+**Date**: 25 to 30 December 2022 <br>
+**Time**: 2.30pm to 10.30pm <br>
+**Free admission.**
 
 ### Ticketing Information
 
