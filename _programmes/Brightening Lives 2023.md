@@ -15,6 +15,4 @@ installations are on display nightly until the end of the year.
 **Dates and Times:**
 - 19 to 30 December 2022: 8pm to 10:30pm
 - 31 December 2022: 8pm to 11:45pm <br>
-**Venue**: Marina Bay waterfront promenade (adjacent to Marina Boulevard)<br>
-<p>
-	<b>Free admission.</b></p>
+<p>**Venue**: Marina Bay waterfront promenade (adjacent to Marina Boulevard)<br><b>Free admission.</b></p>
