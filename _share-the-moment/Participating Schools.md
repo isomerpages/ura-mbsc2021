@@ -3,8 +3,6 @@ title: Participating Schools
 permalink: /share-the-moment/participating-schools/
 description: ""
 ---
-## Participating Schools:
-
 ##### <a href="https://www.lasalle.edu.sg/" style="color:darkcyan">LASALLE College of the Arts</a>
 
 ##### <a href="https://www.nafa.edu.sg/" style="color:darkcyan">Nanyang Academy of Fine Arts (NAFA)</a>
