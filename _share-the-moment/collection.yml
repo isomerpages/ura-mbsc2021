@@ -2,7 +2,6 @@ collections:
   share-the-moment:
     output: true
     order:
-      - Participating Schools.md
       - About Share the Moment.md
       - Community Partner – National Volunteer & Philanthropy Centre (NVPC).md
       - Stories/.keep
@@ -18,3 +17,4 @@ collections:
       - Stories/Sasha Myra Marimuttu.md
       - Stories/Sodexo Pte Ltd.md
       - Stories/Sree Narayana Mission (Singapore) North Division Girl Guides.md
+      - Participating Schools.md
