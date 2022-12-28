@@ -2,8 +2,10 @@
 title: Sasha Myra Marimuttu
 permalink: /share-the-moment/PVPA-Stories/Sasha-Myra-Marimuttu/
 description: ""
-third_nav_title: PVPA Stories
+third_nav_title: Stories from President's Volunteerism and Philanthropy Awards 2022
 ---
+
+
 Sasha has organised various fundraising initiatives in the last four years, amounting to over $150K in donations. Sasha’s inaugural fundraising effort, “My ‘Be Kind to Animals’ Birthday,” raised $865 from family, friends and the public, where she narrated an original tale, incorporating animal welfare to raise awareness about animal neglect and abandonment. During the pandemic, Sasha interviewed SPCA staff to raise awareness about the impact of the pandemic on operations, and raised $90K.
 
 In addition to leading various campaigns for the SPCA, she has also participated in delivering Meals on Wheels to senior households at Touch Community Services in Ang Mo Kio.

@@ -3,7 +3,7 @@ title: Brightening Lives 2023
 permalink: /programmes/brightening-lives-2023/
 description: ""
 ---
-![](/images/bl.jpeg)
+![](/images/bl23.jpeg)
 
 Presented in collaboration with local philanthropic organisation The Majurity Trust,
 Brightening Lives 2023 features light installations such as fairy light tunnels and trees
@@ -17,3 +17,5 @@ installations are on display nightly until the end of the year.
 - 31 December 2022: 8pm to 11:45pm <br>
 
 <p><b>Venue</b>: Marina Bay waterfront promenade (adjacent to Marina Boulevard)<br><b>Free admission.</b></p>
+
+![](/images/blt.jpeg)

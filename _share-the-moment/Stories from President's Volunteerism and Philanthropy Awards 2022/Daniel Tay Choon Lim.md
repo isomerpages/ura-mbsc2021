@@ -2,8 +2,10 @@
 title: Daniel Tay Choon Lim
 permalink: /share-the-moment/PVPA-Stories/Daniel-Tay-Choon-Lim/
 description: ""
-third_nav_title: PVPA Stories
+third_nav_title: Stories from President's Volunteerism and Philanthropy Awards 2022
 ---
+
+
 In 2018, Daniel co-founded SG Food Rescue, a ground-up movement to collect unsellable food from businesses and redistribute them to different communities of people who can use it, including KampungBishan. Since then, different individuals, inspired by the movement, have started different food rescue groups in Singapore to target different sectors of the food supply chain (importers, wholesalers, distributors, retailers, consumers). As the food rescue movement in Singapore grows, with the different groups working collectively to help reduce food waste, hundreds of tonnes of food are being saved from going to the bins every week. In 2019, Daniel retired from full-time work in order to volunteer full time towards this cause to reduce food waste.
 
 Daniel also started multiple food rescue programmes at the Pasir Panjang Wholesale Centre and Little India in 2018, which are still ongoing today under the different leaders he appointed. Every week, hundreds of volunteers continue to be mobilised to collect unsellable food from businesses, and use their own vehicles to transport the food to communities that can use it.

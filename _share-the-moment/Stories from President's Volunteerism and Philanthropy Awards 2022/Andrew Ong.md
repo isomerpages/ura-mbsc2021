@@ -2,8 +2,10 @@
 title: Andrew Ong
 permalink: /share-the-moment/PVPA-Stories/Andrew-Ong/
 description: ""
-third_nav_title: PVPA Stories
+third_nav_title: Stories from President's Volunteerism and Philanthropy Awards 2022
 ---
+
+
 Andrew Ong is the co-founder of Break The Cycle, a ground-up initiative started in 2020 that supports ex-offenders in breaking the cycle of recidivism and achieve positive life goals through cycling. An ex-offender and an avid cyclist himself, Andrew was inspired by those who had invested in him and wanted to pay it forward.
 
 Growing up, Andrew was a school dropout and a gang member. At the age of 18, he was incarcerated for 9 months for a rioting offence. Upon his release, he did not change for the better as he started abusing drugs. This continued for three years until he was imprisoned a second time, during his National Service where he served time in the detention barracks for insubordination.

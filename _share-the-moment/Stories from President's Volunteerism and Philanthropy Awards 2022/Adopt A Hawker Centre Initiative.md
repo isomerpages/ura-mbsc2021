@@ -2,8 +2,10 @@
 title: Adopt-A-Hawker Centre Initiative
 permalink: /share-the-moment/PVPA-Stories/Adopt-A-HawkerCentre-Initiative/
 description: ""
-third_nav_title: PVPA Stories
+third_nav_title: Stories from President's Volunteerism and Philanthropy Awards 2022
 ---
+
+
 The DBS Adopt-A-Hawker Centre initiative started when there was an observed need on the ground to support hawkers and accelerate the need for digitalisation, especially for elderly hawkers whose business had been badly affected by the COVID-19 pandemic. The initiative is a collaboration between DBS Bank, Infocomm Media Development Authority and Chinatown Complex Hawkers’ Association.
 
 The DBS Adopt-A-Hawker Centre initiative rallies partners from the private and public sectors and the community to support the hawkers and encourages and supports frontline workers and those in need. To show support for our local hawkers, the initiative leverages group buys from affected hawkers, and raises the online discoverability of their businesses. In total, DBS is committed to “adopt” 10 hawker centres, with meal packs to be distributed to frontliners and lower-income communities by DBS People of Purpose employee volunteers. Funds were also raised from DBS employees to support the hawker centre group buys for the first three hawker centres that were “adopted” for the initiative.
