@@ -2,7 +2,7 @@
 title: Adopt-A-Hawker Centre Initiative
 permalink: /share-the-moment/PVPA-Stories/Adopt-A-HawkerCentre-Initiative/
 description: ""
-third_nav_title: Stories
+third_nav_title: Stories from President's Volunteerism and Philanthropy Awards 2022
 ---
 
 
