@@ -180,6 +180,4 @@ Marina Bay Singapore Countdown 2023 is just around the corner. Please note that 
 
 The public is encouraged to make their way to/from the Marina Bay area via public transport (MRT train operations will be extended).
 
-For more information, please visit [https://www.marinabaycountdown.gov.sg/visitors-information/](https://www.marinabaycountdown.gov.sg/visitors-information/).
-
 ![](/images/bike.jpg)
