@@ -173,3 +173,11 @@ Overview of Road Closures on New Year’s Eve
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
   padding:5.0pt 5.0pt 5.0pt 5.0pt;height:21.0pt" valign="top" width="267"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN-GB">Finlayson Green towards Marina Blvd</span></p></td></tr></tbody></table>
+	
+## NO CYCLING AROUND MARINA BAY ON 31 DEC 2022
+
+Marina Bay Singapore Countdown 2023 is just around the corner. Please note that cyclists are to avoid cycling in the Marina Bay area (shaded in yellow) on 31 Dec 2022.
+
+The public is encouraged to make their way to/from the Marina Bay area via public transport (MRT train operations will be extended).
+
+For more information, please visit [https://www.marinabaycountdown.gov.sg/visitors-information/](https://www.marinabaycountdown.gov.sg/visitors-information/).
