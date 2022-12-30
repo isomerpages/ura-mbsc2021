@@ -4,7 +4,9 @@ title: "#MBSC2023"
 description: MBSC 2023
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: For crowd updates, refer to @marinabaysg on Instagram/Facebook.
+  For traffic advisory, refer to Visitors' Information. For medical emergencies,
+  public may approach security personnel.
 sections:
   - hero:
       background: /images/herobannerfirew.png
