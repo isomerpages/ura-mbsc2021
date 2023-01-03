@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/herobannerfirew.png
-      title: Fireworks are back at Marina Bay!
+      background: /images/fw.jpg
+      title: Wishing everyone a Happy 2023 from Marina Bay!
   - infopic:
       image: /images/mapv1.jpeg
       alt: map
