@@ -4,13 +4,11 @@ title: "#MBSC2023"
 description: MBSC 2023
 image: /images/isomer-logo.svg
 permalink: /
-notification: For crowd updates, refer to @marinabaysg on Instagram/Facebook.
-  For traffic advisory, refer to Visitors' Information. For medical emergencies,
-  public may approach security personnel.
+notification: ""
 sections:
   - hero:
-      background: /images/herobannerfirew.png
-      title: Fireworks are back at Marina Bay!
+      background: /images/fw.jpg
+      title: Wishing everyone a Happy 2023 from Marina Bay!
   - infopic:
       image: /images/mapv1.jpeg
       alt: map
