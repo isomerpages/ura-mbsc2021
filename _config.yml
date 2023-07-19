@@ -1,7 +1,7 @@
-title: "#MBSC2023"
+title: "#MBSC2024"
 url: https://www.marinabaycountdown.sg
 logo: /images/MBSC2020logo-170x50.svg
-favicon: /images/MBSC logo 2023 W (CMYK-compact)-01.ico
+favicon: /images/MBSC2024-Logo-Compact.ico
 colors:
   primary-color: "#8c4693"
   secondary-color: "#4f758b"
@@ -47,7 +47,7 @@ safe: false
 staging: https://ura-mbsc2021-staging.netlify.app/
 prod: https://ura-mbsc2021-prod.netlify.app
 google_analytics: UA-56383423-1
-description: MBSC 2023
+description: MBSC 2024
 plugins:
   - jekyll-feed
   - jekyll-assets
